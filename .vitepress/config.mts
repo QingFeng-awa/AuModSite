@@ -102,7 +102,7 @@ export default defineConfig({
   themeConfig: {
     logo: '/favicon.ico',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/XtremeWave/TownOfNewEpic_XtremeDocs' }
+      { icon: 'github', link: 'https://github.com/QingFeng-awa/AuModSite' }
     ],
     search: {
       provider: 'local',
