@@ -17,18 +17,26 @@ export default defineConfig({
             text: '模组',
             items: [
               { text: 'H系模组', link: '/Mods/Host/' },
-              //{ text: '非H系模组', link: '/Mods/NoHost/' }
+              { text: '非H系模组', link: '/Mods/NoHost/' }
             ]
           },
           { text: '作者', link: '/Authors/' },
           { text: '贡献', link: '/Contributing'}
         ],
         sidebar: {
-          '/Mods/': [
+          '/Mods/Host/': [
             {
               text: 'H系模组',
               items: [
                 { text: 'TownOfHost', link: '/Mods/Host/TownOfHost' },
+              ]
+            }
+          ],
+          '/Mods/NoHost/': [
+            {
+              text: '非H系模组',
+              items: [
+                { text: 'TownOfUs', link: '/Mods/Host/TownOfUs' },
               ]
             }
           ],
