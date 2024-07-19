@@ -39,7 +39,7 @@ const members = [
 ## Language Support
 The mod currently supports the following languages:
 - English
-- Latin American
+- Latam
 - Polish
 - Portuguese
 - Korean
