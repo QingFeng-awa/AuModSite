@@ -26,9 +26,9 @@ export default defineConfig({
         sidebar: {
           '/Mods/': [
             {
-              text: '模组',
+              text: 'H系模组',
               items: [
-                { text: 'TownOfHost', link: '/Mods/TownOfHost' },
+                { text: 'TownOfHost', link: '/Mods/Host/TownOfHost' },
               ]
             }
           ],
