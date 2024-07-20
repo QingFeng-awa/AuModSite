@@ -2,16 +2,16 @@
 title: KARPED1EM
 ---
 # KARPED1EM
-KARPED1EM在我们中国内称呼“咔皮呆”。<br>
-咔皮呆开发的TownOfHostEdited模组受到玩家的热爱。<br>
-但再烈的热爱也挺不住冷水...<br>
-TownOfHostEdited模组从6月16开始停止维护。<br>
-TownOfHostEdited模组为后来的H系模组奠定了基础。<br>
-11月15日，咔皮呆带着新模组TONX回来。<br>
-但因为树懒的模组协议，该模组并未火起来。<br>
-感谢咔皮呆带来这么优质的模组!<br>
+KARPED1EM在中国被称为“咔皮呆”。<br>
+咔皮呆开发的TownOfHostEdited模组深受玩家喜爱。<br>
+然而，再大的热情也经不起冷水...<br>
+从2023年6月16日开始,TownOfHostEdited模组停止维护。<br>
+这个模组为后来的Host-only模组奠定了基础。<br>
+2023年11月15日,咔皮呆带着新模组TONX回归。<br>
+但由于受到树懒模组协议的限制，该模组并未流行起来。<br>
+感谢咔皮呆带来这么优秀的模组！<br>
 
-# 参考文案
+# 参考
 
 - [TOHE模组Github](https://github.com/KARPED1EM/TownOfNext/tree/TOHE)
 - [TONX模组Github](https://github.com/KARPED1EM/TownOfNext/tree/TONX)

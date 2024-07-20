@@ -51,6 +51,7 @@ export default defineConfig({
             {
               text: '作者',
               items: [
+                { text: 'KARPED1EM', link: '/Authors/KARPED1EM' },
               ]
             }
           ]
@@ -109,6 +110,7 @@ export default defineConfig({
               text: 'No Host Mod',
               items: [
                 { text: 'TownOfUs', link: '/en/Mods/NoHost/TownOfUs' },
+                { text: 'TheOtherRoles', link: '/Mods/NoHost/TheOtherRoles' },
               ]
             }
           ],
@@ -116,6 +118,7 @@ export default defineConfig({
             {
               text: 'Authors',
               items: [
+                { text: 'KARPED1EM', link: '/Authors/KARPED1EM' },
               ]
             }
           ]

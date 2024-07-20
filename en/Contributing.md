@@ -19,7 +19,7 @@ const members = [
   {
     avatar: 'https://cn-sy1.rains3.com/xtremewave/LezaiYa1.jpg',
     name: 'LezaiYa1',
-    title: 'Contributor',
+    title: 'Developer',
     links: [
       { icon: 'github', link: 'https://github.com/LezaiYa1' }
     ]
