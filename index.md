@@ -24,9 +24,13 @@ features:
     details: An Among Us mod with learning & love
     link: /Mods/Host/TownOfHostEdited
   - icon: 🔥
-    title: TownOfHostEnhanced
+    title: TheOtherRoles
     details: TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!
-    link: /Mods/Host/TownOfHostEnhanced
+    link: /Mods/NoHost/TheOtherRoles
+  - icon: 🛠️
+    title: YuAntiCheat
+    details: An Anti Cheat for Among Us Game
+    link: /Mods/Host/YuAntiCheat
   - icon: ⭐️
     title: TownOfNewEpic_Xtreme
     details: Host only mod for Among Us, forked from Town Of Next

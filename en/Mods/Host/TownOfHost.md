@@ -12,7 +12,6 @@ title: TownOfHost
 import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
-  {
     avatar: 'https://cn-sy1.rains3.com/xtremewave/EmptyBottle.png',
     name: 'EmptyBottle',
     title: 'Developer',

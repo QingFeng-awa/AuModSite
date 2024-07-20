@@ -36,7 +36,7 @@ export default defineConfig({
             {
               text: '非H系模组',
               items: [
-                { text: 'TownOfUs', link: '/Mods/Host/TownOfUs' },
+                { text: 'TownOfUs', link: '/Mods/NoHost/TownOfUs' },
               ]
             }
           ],
@@ -67,18 +67,19 @@ export default defineConfig({
           {
             text: 'Mods',
             items: [
-              { text: 'Host Mod', link: '/Mods/Host/' },
-              //{ text: 'NoHost Mod', link: '/Mods/NoHost/' }
+              { text: 'Host Mod', link: '/en/Mods/Host/' },
+              //{ text: 'NoHost Mod', link: '/en/Mods/NoHost/' }
             ]
           },
-          { text: 'Authors', link: '/Authors/' },
-          { text: 'Contributing', link: '/Contributing'}
+          { text: 'Authors', link: '/en/Authors/' },
+          { text: 'Contributing', link: '/en/Contributing'}
         ],
         sidebar: {
           '/en/Mods/': [
             {
               text: 'Mods',
               items: [
+                { text: 'TownOfHost', link: '/en/Mods/Host/TownOfHost' },
               ]
             }
           ],

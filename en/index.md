@@ -22,20 +22,24 @@ features:
   - icon: 🌿
     title: TownOfHostEdited
     details: An Among Us mod with learning & love
-    link: en/Mods/Host/TownOfHostEdited
+    link: /en/Mods/Host/TownOfHostEdited
   - icon: 🔥
     title: TownOfHostEnhanced
     details: TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!
-    link: en/Mods/Host/TownOfHostEnhanced
+    link: /en/Mods/Host/TownOfHostEnhanced
+  - icon: 🛠️
+    title: YuAntiCheat
+    details: An Anti Cheat for Among Us Game
+    link: /en/Mods/Host/YuAntiCheat
   - icon: ⭐️
     title: TownOfNewEpic_Xtreme
     details: Host only mod for Among Us, forked from Town Of Next
-    link: en/Mods/Host/TownOfNewEpic_Xtreme
+    link: /en/Mods/Host/TownOfNewEpic_Xtreme
 ---
 > [!WARNING] Site trial run
 > We are still developing this site, so it may be unstable.
 
-This is a documentation website for Among Us mods.
-Among Us is a strategy-based casual party game developed and published by Innersloth LLC.
+This is a documentation website for Among Us mods.<br>
+> Among Us is a strategy-based casual party game developed and published by Innersloth LLC.
 
 I have collected most of the Among Us mods for players to view. You can quickly learn about the Host Mod and non-Host Mod mods of Among Us through this website.
