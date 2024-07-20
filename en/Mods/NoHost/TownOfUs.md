@@ -39,9 +39,10 @@ const members = [
     - Latest supported version: *Unclear, but it does not support `v2024.6.18` and later versions.*
     - Unsupported versions: *Unclear.*
 
-## Multilingual Support
-This mod currently supports the following language:
+## Language Support
+The mod currently supports the following languages:
 - English
+
 ## Related Links
 - [Mod GitHub](https://github.com/slushiegoose/Town-Of-Us)
 - [Mod Discord](https://discord.gg/polus)
