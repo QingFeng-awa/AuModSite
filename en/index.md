@@ -8,13 +8,13 @@ hero:
   actions:
     - theme: brand
       text: Host Mod
-      link: en/Mods/Host/
+      link: /en/Mods/Host/
     - theme: brand
       text: No Host Mod
-      link: en/Mods/NoHost/
+      link: /en/Mods/NoHost/
     - theme: brand
       text: Authors
-      link: en/Authors/
+      link: /en/Authors/
     - theme: alt
       text: Contributing
       link: /Contributing

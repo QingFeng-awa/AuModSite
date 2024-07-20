@@ -1,7 +1,7 @@
 ---
 title: YuAntiCheat
 ---
-# YuAntiCheat
+# YuAntiCheat <Badge type="tip" text="Functional Mod" />
 ![YuAntiCheat-BG](https://cn-sy1.rains3.com/xtremewave/YuAntiCheat.jpg)
 
 <div align="center">
