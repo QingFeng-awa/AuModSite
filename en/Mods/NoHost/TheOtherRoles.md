@@ -15,7 +15,7 @@ const members = [
   {
     avatar: 'https://cn-sy1.rains3.com/xtremewave/twix.jpg',
     name: 'twix',
-    title: '开发者',
+    title: 'Developer',
     org: 'The Other Roles',
     orgLink: 'https://github.com/TheOtherRolesAU',
     links: [
@@ -25,23 +25,23 @@ const members = [
 ]
 </script>
 
-## 作者
+## Author
 
 <div align="center">
 <VPTeamMembers size="small" :members="members" />
 </div>
 
-## 版本
-- 最新正式版本: `v4.5.3`
-  - 发布于2024年5月15日,下午2:37
-- 支持Among Us版本:
-    - 支持最新版本: *尚不明确,但它并不支持`v2024.6.18`及之后版本。*
-    - 不支持的版本: *尚不明确。*
+## Version
+- Latest version: `v4.5.3`
+  - Released on 15 May 2024, 2:37 PM
+- Support Among Us version:
+    - Support latest version: *Unclear, but it does not support versions `v2024.6.18` and later.*
+    - Unsupported versions: *`v2023.11.28` and earlier versions.*
 
-## 多语言支持性
-- 英文
+## Language Support
+- English
 
-## 相关链接
-- [模组官方网站](http://theotherroles.de)
-- [模组GitHub](https://github.com/TheOtherRolesAU/TheOtherRoles)
-- [模组Discord](https://discord.gg/77RkMJHWsM)
+## Links
+- [Mod Website](http://theotherroles.de)
+- [Mod GitHub](https://github.com/TheOtherRolesAU/TheOtherRoles)
+- [Mod Discord](https://discord.gg/77RkMJHWsM)
