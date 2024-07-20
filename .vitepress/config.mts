@@ -34,6 +34,7 @@ export default defineConfig({
               items: [
                 { text: 'TownOfHost', link: '/Mods/Host/TownOfHost' },
                 { text: 'YuAntiCheat', link: '/Mods/Host/YuAntiCheat' },
+                { text: 'TownOfNewEpic_Xtreme', link: '/Mods/Host/TownOfNewEpic_Xtreme'},
               ]
             }
           ],
