@@ -53,6 +53,3 @@ const members = [
 - 简体中文
 - 繁体中文
 - 爱尔兰语
-
-> [!NOTE] 这个文档更新于2024.7.19。
-> 文档存在错误?请在[GitHub上报告issue](https://github.com/QingFeng-awa/AuModSite/issues)。

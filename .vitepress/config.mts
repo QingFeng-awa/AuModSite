@@ -52,6 +52,13 @@ export default defineConfig({
           pattern: 'https://github.com/QingFeng-awa/AuModSite/blob/main/:path',
           text: '在GitHub上查看此页'
         },
+        lastUpdated: {
+          text: '上次更新于',
+          formatOptions: {
+            dateStyle: 'short',
+            timeStyle: 'medium'
+          }
+        }
       }
     },
     en: {
@@ -115,7 +122,6 @@ export default defineConfig({
       }
     }
   },
-  lastUpdated: false,
   themeConfig: {
     logo: '/favicon.ico',
     socialLinks: [
@@ -145,6 +151,7 @@ export default defineConfig({
         }
       }
     },
+    lastUpdated: true,
     footer: {
       copyright: 'Copyright © 2024 <a href="https://qingfengawa.me">QingFeng</a>'
     }
