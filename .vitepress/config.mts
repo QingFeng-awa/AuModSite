@@ -33,6 +33,7 @@ export default defineConfig({
               text: 'H系模组',
               items: [
                 { text: 'TownOfHost', link: '/Mods/Host/TownOfHost' },
+                { text: 'YuAntiCheat', link: '/Mods/Host/YuAntiCheat' },
               ]
             }
           ],
@@ -56,6 +57,11 @@ export default defineConfig({
           pattern: 'https://github.com/QingFeng-awa/AuModSite/blob/main/docs/:path',
           text: '在GitHub上查看此页'
         },
+        sidebarMenuLabel: "菜单",
+        darkModeSwitchLabel: "颜色模式",
+        lightModeSwitchTitle: "点击切换至浅色模式",
+        darkModeSwitchTitle: "点击切换至深色模式",
+        returnToTopLabel: "回到顶部",
         lastUpdated: {
           text: '上次更新于',
           formatOptions: {
@@ -123,6 +129,13 @@ export default defineConfig({
           prev: false,
           next: false
         },
+        lastUpdated: {
+          text: 'Last Updated',
+          formatOptions: {
+            dateStyle: 'short',
+            timeStyle: 'medium'
+          }
+        }
       }
     }
   },
