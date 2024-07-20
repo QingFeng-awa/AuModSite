@@ -18,7 +18,8 @@ const members = [
     title: '开发者',
     links: [
       { icon: 'github', link: 'https://github.com/tukasa0001' },
-      { icon: 'twitter', link: 'https://twitter.com/XenonBottle' }
+      { icon: 'twitter', link: 'https://twitter.com/XenonBottle' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@XenonBottle'}
     ]
   },
 ]
@@ -53,3 +54,10 @@ const members = [
 - 简体中文
 - 繁体中文
 - 爱尔兰语
+
+## 相关链接
+
+- [模组GitHub](https://github.com/tukasa0001/TownOfHost)
+- [模组Discord](https://discord.gg/W5ug6hXB9V)
+- [开发者YouTube](https://www.youtube.com/@XenonBottle)
+- [开发者X](https://x.com/XenonBottle)
