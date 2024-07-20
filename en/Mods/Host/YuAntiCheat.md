@@ -34,11 +34,16 @@ const members = [
 ## Version
 - Latest version: `v1.1.20`
   - Released on 19 July 2024, 7:52 PM(GMT +8)
-- 支持Among Us版本:
-    - 支持最新版本: `v2024.6.18`
-    - 不支持的版本: *Unclear.*
-## 多语言支持性
-*Unclear.*
+- Support Among Us version:
+    - Support latest version: `v2024.6.18`
+    - Unsupported versions: *Unclear.*
+
+## Language Support
+- English
+- Japanese
+- Simplified Chinese
+- Traditional Chinese
+
 
 ## Links
 

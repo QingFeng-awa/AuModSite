@@ -5,7 +5,7 @@ title: TownOfHost
 ![TownOfHost-BG](https://cn-sy1.rains3.com/xtremewave/TownOfHost.png)
 
 <div align="center">
-<h3>TownOfHost,Host only mod for Among Us.</h3>
+<h3>TownOfHost, Host only mod for Among Us.</h3>
 </div>
 
 <script setup>
@@ -36,7 +36,7 @@ const members = [
   - Released on 22 March 2024, 11:20 PM (GMT +8)
 - Support Among Us version:
     - Support latest version: *Unclear, but it does not support versions `v2024.6.18` and later.*
-    - Unsupported versions: versions `v2023.11.28` and earlier.
+    - Unsupported versions: `v2023.11.28` and earlier versions.
 
 ## Language Support
 The mod currently supports the following languages:
