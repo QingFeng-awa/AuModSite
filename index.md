@@ -25,7 +25,7 @@ features:
     link: /Mods/Host/TownOfHostEdited
   - icon: 🔥
     title: TheOtherRoles
-    details: TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!
+    details: The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game.
     link: /Mods/NoHost/TheOtherRoles
   - icon: 🛠️
     title: YuAntiCheat
