@@ -38,3 +38,10 @@ const members = [
 - 支持Among Us版本:
     - 支持最新版本: *尚不明确,但它并不支持`v2024.6.18`及之后版本。*
     - 不支持的版本: *尚不明确。*
+
+## 多语言支持性
+该模组目前支持以下语言:
+- 英语
+## 相关链接
+- [模组GitHub](https://github.com/slushiegoose/Town-Of-Us)
+- [模组Discord](https://discord.gg/polus)
