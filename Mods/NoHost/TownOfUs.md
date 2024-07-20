@@ -1,7 +1,7 @@
 ---
 title: TownOfUs
 ---
-# TownOfUs
+# TownOfUs <Badge type="warning" text="已归档的模组" />
 ![TownOfUs-BG](https://cn-sy1.rains3.com/xtremewave/TownOfUs.png)
 
 <div align="center">
@@ -34,7 +34,7 @@ const members = [
 
 ## 版本
 - 最新正式版本: `v2.2.1`
-  - 发布于**2021年8月6日,上午8:30**
+  - 发布于2021年8月6日,上午8:30
 - 支持Among Us版本:
     - 支持最新版本: *尚不明确,但它并不支持`v2024.6.18`及之后版本。*
     - 不支持的版本: *尚不明确。*
