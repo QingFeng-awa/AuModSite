@@ -68,18 +68,26 @@ export default defineConfig({
             text: 'Mods',
             items: [
               { text: 'Host Mod', link: '/en/Mods/Host/' },
-              //{ text: 'NoHost Mod', link: '/en/Mods/NoHost/' }
+              { text: 'NoHost Mod', link: '/en/Mods/NoHost/' }
             ]
           },
           { text: 'Authors', link: '/en/Authors/' },
           { text: 'Contributing', link: '/en/Contributing'}
         ],
         sidebar: {
-          '/en/Mods/': [
+          '/en/Mods/Host/': [
             {
-              text: 'Mods',
+              text: 'Host Mod',
               items: [
                 { text: 'TownOfHost', link: '/en/Mods/Host/TownOfHost' },
+              ]
+            }
+          ],
+          '/en/Mods/NoHost/': [
+            {
+              text: 'No Host Mod',
+              items: [
+                { text: 'TownOfUs', link: '/en/Mods/NoHost/TownOfUs' },
               ]
             }
           ],
