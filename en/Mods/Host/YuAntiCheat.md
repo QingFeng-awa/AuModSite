@@ -33,7 +33,7 @@ const members = [
 
 ## Version
 - Latest version: `v1.1.20`
-  - Released on 19 July 2024, 7:52 PM
+  - Released on 19 July 2024, 7:52 PM(GMT +8)
 - Support Among Us version:
     - Support latest version: `v2024.6.18`
     - Unsupported versions: *Unclear.*
@@ -43,6 +43,7 @@ const members = [
 - Japanese
 - Simplified Chinese
 - Traditional Chinese
+
 
 ## Links
 

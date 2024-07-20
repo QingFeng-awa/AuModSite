@@ -43,6 +43,7 @@ export default defineConfig({
               text: '非H系模组',
               items: [
                 { text: 'TownOfUs', link: '/Mods/NoHost/TownOfUs' },
+                { text: 'TheOtherRoles', link: '/Mods/NoHost/TheOtherRoles' },
               ]
             }
           ],

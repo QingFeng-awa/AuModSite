@@ -16,6 +16,8 @@ const members = [
     avatar: 'https://cn-sy1.rains3.com/xtremewave/Slok7565.jpg',
     name: 'Slok7565',
     title: '开发者',
+    org: 'XtremeWave',
+    orgLink: 'https://github.com/XtremeWave',
     links: [
       { icon: 'github', link: 'https://github.com/Slok7565' },
     ]
@@ -32,7 +34,7 @@ const members = [
 
 ## 版本
 - 最新正式版本: `v1.2`
-  - 发布于**2024年5月21日,下午11:20**
+  - 发布于2024年5月21日,下午11:20
 - 支持Among Us版本:
     - 支持最新版本: *尚不明确,但它并不支持`v2024.6.18`及之后版本。*
     - 不支持的版本: `v2023.11.28`及更早版本。
