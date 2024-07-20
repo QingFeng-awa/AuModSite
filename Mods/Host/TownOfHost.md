@@ -21,8 +21,9 @@ const members = [
       { icon: 'twitter', link: 'https://twitter.com/XenonBottle' },
       { icon: 'youtube', link: 'https://www.youtube.com/@XenonBottle'}
     ]
-  },
+  }
 ]
+
 </script>
 
 ## 作者
@@ -33,6 +34,7 @@ const members = [
 
 ## 版本
 - 最新正式版本: `v5.1.6`
+  - 发布于**2024年3月22日,下午11:20**
 - 支持Among Us版本:
     - 支持最新版本: *尚不明确,但它并不支持`v2024.6.18`及之后版本。*
     - 不支持的版本: `v2023.11.28`及更早版本。

@@ -12,12 +12,14 @@ title: TownOfHost
 import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
+  {
     avatar: 'https://cn-sy1.rains3.com/xtremewave/EmptyBottle.png',
     name: 'EmptyBottle',
     title: 'Developer',
     links: [
       { icon: 'github', link: 'https://github.com/tukasa0001' },
-      { icon: 'twitter', link: 'https://twitter.com/XenonBottle' }
+      { icon: 'twitter', link: 'https://twitter.com/XenonBottle' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@XenonBottle'}
     ]
   },
 ]
@@ -31,6 +33,7 @@ const members = [
 
 ## Version
 - Latest version: `v5.1.6`
+  - Posted on **22 March 2024, 11:20 PM (GMT +8)**
 - Support Among Us version:
     - Support latest version: *It is not clear, but it does not support versions `v2024.6.18` and later.*
     - Unsupported versions: `versions `v2023.11.28` and earlier.
@@ -53,5 +56,9 @@ The mod currently supports the following languages:
 - Traditional Chinese
 - Irish
 
-> [!NOTE] This document was last updated on July 20, 2024.
-> If there are any errors in this document, please report them by [creating an issue on GitHub](https://github.com/QingFeng-awa/AuModSite/issues).
+## Links
+
+- [Mod GitHub](https://github.com/tukasa0001/TownOfHost)
+- [Mod Discord](https://discord.gg/W5ug6hXB9V)
+- [Developer YouTube](https://www.youtube.com/@XenonBottle)
+- [Developer X](https://x.com/XenonBottle)
