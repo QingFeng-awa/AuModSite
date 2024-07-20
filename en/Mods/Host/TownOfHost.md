@@ -36,7 +36,7 @@ const members = [
   - Released on **22 March 2024, 11:20 PM (GMT +8)**
 - Support Among Us version:
     - Support latest version: *Unclear, but it does not support versions `v2024.6.18` and later.*
-    - Unsupported versions: `versions `v2023.11.28` and earlier.
+    - Unsupported versions: versions `v2023.11.28` and earlier.
 
 ## Language Support
 The mod currently supports the following languages:
