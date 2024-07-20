@@ -27,10 +27,10 @@ const members = [
 ]
 </script>
 <div align="center">
-<h3>感谢下方成员对本站的贡献</h3>
+<h3>Thank you to the members below for their contributions to the site</h3>
 <VPTeamMembers size="medium" :members="members" />
 </div>
 <br>
 
-# 如何为本站做出贡献
-您可以在本网站的GitHub的仓库Pr,在Pr合并后您将成为本网站的贡献者。
+# How to Contribute to This Site
+You can contribute to this site by submitting a Pull Request to the GitHub repository. Once your PR is merged, you will become a contributor to the site.
