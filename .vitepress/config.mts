@@ -3,6 +3,10 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   cleanUrls: true,
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  sitemap: {
+    hostname: 'https://aumod.site/',
+    lastmodDateOnly: true
+  },
   locales: {
     root: {
       label: '简体中文',
@@ -49,7 +53,7 @@ export default defineConfig({
           ]
         },
         editLink: {
-          pattern: 'https://github.com/QingFeng-awa/AuModSite/blob/main/:path',
+          pattern: 'https://github.com/QingFeng-awa/AuModSite/blob/main/docs/:path',
           text: '在GitHub上查看此页'
         },
         lastUpdated: {
@@ -107,7 +111,7 @@ export default defineConfig({
           ]
         },
         editLink: {
-          pattern: 'https://github.com/QingFeng-awa/AuModSite/blob/main/:path',
+          pattern: 'https://github.com/QingFeng-awa/AuModSite/blob/main/docs/:path',
           text: 'See this Page on GitHub'
         },
         sidebarMenuLabel: "Menu",
@@ -153,7 +157,7 @@ export default defineConfig({
     },
     lastUpdated: true,
     footer: {
-      copyright: 'Copyright © 2024 <a href="https://qingfengawa.me">QingFeng</a>'
+      copyright: 'Copyright © 2024 By <a href="https://qingfengawa.me">QingFeng</a>'
     }
   },
 })
