@@ -34,9 +34,9 @@ export default defineConfig({
               text: 'H系模组',
               items: [
                 { text: 'TownOfHost', link: '/Mods/Host/TownOfHost' },
-
                 { text: 'TownOfNewEpic_Xtreme', link: '/Mods/Host/TownOfNewEpic_Xtreme'},
                 { text: 'TownOfHostEdited', link: '/Mods/Host/TownOfHostEdited'},
+                { text: 'TownOfHostPlus', link: '/Mods/Host/TownOfHostPlus'},                
               ]
             }
           ],
@@ -110,9 +110,9 @@ export default defineConfig({
               text: 'Host Mod',
               items: [
                 { text: 'TownOfHost', link: '/en/Mods/Host/TownOfHost' },
-                { text: 'YuAntiCheat', link: '/en/Mods/Host/YuAntiCheat' },
                 { text: 'TownOfNewEpic_Xtreme', link: '/en/Mods/Host/TownOfNewEpic_Xtreme'},
                 { text: 'TownOfHostEdited', link: '/en/Mods/Host/TownOfHostEdited'},
+                { text: 'TownOfHostPlus', link: '/Mods/Host/TownOfHostPlus'},   
               ]
             }
           ],
@@ -129,7 +129,7 @@ export default defineConfig({
             {
               text: 'Functional Mods',
               items: [
-                { text: 'YuAntiCheat', link: '/Mods/Functional/YuAntiCheat' },
+                { text: 'YuAntiCheat', link: '/en/Mods/Functional/YuAntiCheat' },
               ]
             }
           ],

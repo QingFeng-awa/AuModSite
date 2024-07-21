@@ -33,7 +33,7 @@ const members = [
 
 ## Version
 - Latest version: `v4.5.3`
-  - Released on 15 May 2024, 2:37 PM
+  - Released on 15 May 2024, 2:37 PM (GMT +8)
 - Support Among Us version:
     - Support latest version: `v2024.3.5`
     - Unsupported versions: `v2023.11.28` and earlier versions.
