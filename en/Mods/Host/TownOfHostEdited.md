@@ -40,7 +40,7 @@ const members = [
     - Support latest version: *Unclear, but it does not support `v2024.6.18` and later versions.*
     - Unsupported versions: *Unclear.*
 
-## 多语言支持性
+## Language Support
 The mod currently supports the following languages:
 - English
 - Russian
@@ -48,7 +48,7 @@ The mod currently supports the following languages:
 - Simplified Chinese
 - Traditional Chinese
 
-## 相关链接
+## Links
 
 - [Mod WebSite](https://tohe.cc)
 - [Mod GitHub](https://github.com/KARPED1EM/TownOfNext/tree/TOHE)

@@ -1,7 +1,7 @@
 ---
 title: YuAntiCheat
 ---
-# YuAntiCheat <Badge type="tip" text="功能性模组" />
+# YuAntiCheat
 ![YuAntiCheat-BG](https://cn-sy1.rains3.com/xtremewave/YuAntiCheat.jpg)
 
 <div align="center">
@@ -36,7 +36,7 @@ const members = [
   - 发布于2024年7月19日,下午7:52
 - 支持Among Us版本:
     - 支持最新版本: `v2024.6.18`
-    - 不支持的版本: *尚不明确。*
+    - 不支持的版本: `v2024.3.5`及更早版本。
 
 ## 多语言支持性
 - 英语
