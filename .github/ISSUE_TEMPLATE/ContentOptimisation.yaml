@@ -1,34 +1,40 @@
-name: 已有功能优化
-description: 为已有内容提出优化建议。
-title: "[Optimisation]: "
-labels: ["类型:优化"]
-# projects: ["octo-org/1", "octo-org/44"]
+name: 功能优化
+description: 请求优化已有功能/内容。
+title: "[Opt]: "
+labels: ["类型:优化","状态:待处理"]
 assignees:
   - QingFeng-awa
 body:
   - type: markdown
     attributes:
       value: |
-        感谢您愿意为已有内容提出更好的优化建议。
-  - type: input
-    id: Email
+        # 感谢您愿意花费时间来提出issue。
+        我们很高兴您能为“Among Us模组档案”提供反馈。
+  - type: markdown
     attributes:
-      label: 联系方式(邮箱)
-      description: 接受市面上大部分的邮箱,我们推荐您使用@163.com/@qq.com。您可以选择不填。
+      value: |
+        ## 在此之前,请您确认:
+        - 没有相同的issue已被提出。
+        - 您会准确、真实的填写下方内容。
+        - 您了解[提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)所讲述的内容。
+  - type: checkboxes
+    attributes:
+      label: 请确保您已阅读以上注意事项，并勾选下方的确认框。
+      options:
+        - label: 我已经在[Issue Tracker](https://github.com/QingFeng-awa/AuModSite/issues)中找过我要提出的问题，没有找到相同问题的issue。
+          required: true
+        - label: 我已知晓,如果我不真实填写issue,则我的issue可能会被无条件关闭&锁定。
+          required: true
+  - type: input
+    attributes:
+      label: 请求优化的URL
+      description: 请复制**完整**的URL(包括`https`)。<br>如果不是具体页面,请跳过。
     validations:
       required: false
   - type: textarea
-    id: main
     attributes:
-      label: 想优化的内容是什么?
-      description: 为了开发者快速查找,请直接将要优化的内容URL粘贴到此处。
-    validations:
-      required: true
-  - type: textarea
-    id: programme
-    attributes:
-      label: 想要优化此内容的什么?
-      description: 请您描述的详细一点。
+      label: 请求优化的功能
+      description: 请描述的详细一点,以便开发者快速理解。
     validations:
       required: true
   - type: textarea
