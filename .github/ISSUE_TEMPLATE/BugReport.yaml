@@ -1,7 +1,7 @@
 name: Bug反馈
 description: 报告在浏览网站中遇到/发现的问题。
 title: "[Bug]: "
-labels: ["类型:问题"]
+labels: ["类型:问题","状态:待处理"]
 assignees:
   - QingFeng-awa
 body:
