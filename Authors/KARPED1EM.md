@@ -11,8 +11,12 @@ KARPED1EM在中国被称为“咔皮呆”。<br>
 但由于受到树懒模组协议的限制，该模组并未流行起来。<br>
 感谢咔皮呆带来这么优秀的模组！<br>
 
-# 参考
+# 开发模组
+[TownOfHostEdited](https://github.com/KARPED1EM/TownOfNext/tree/TOHE)
+[TownOfNext](https://github.com/KARPED1EM/TownOfNext)
+
+<!--# 参考
 
 - [TOHE模组Github](https://github.com/KARPED1EM/TownOfNext/tree/TOHE)
 - [TONX模组Github](https://github.com/KARPED1EM/TownOfNext/tree/TONX)
-- [BiliBili视频](https://www.bilibili.com/video/BV1TM411T7UW?p=1&vd_source=c4127fdddb340902442d0c20959975cb)
+- [BiliBili视频](https://www.bilibili.com/video/BV1TM411T7UW?p=1&vd_source=c4127fdddb340902442d0c20959975cb)-->
