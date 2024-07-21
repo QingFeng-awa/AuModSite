@@ -1,0 +1,39 @@
+name: 已有功能优化
+description: 为已有内容提出优化建议。
+title: "[Optimisation]: "
+labels: ["类型:优化"]
+# projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - QingFeng-awa
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您愿意为已有内容提出更好的优化建议。
+  - type: input
+    id: Email
+    attributes:
+      label: 联系方式(邮箱)
+      description: 接受市面上大部分的邮箱,我们推荐您使用@163.com/@qq.com。您可以选择不填。
+    validations:
+      required: false
+  - type: textarea
+    id: main
+    attributes:
+      label: 想优化的内容是什么?
+      description: 为了开发者快速查找,请直接将要优化的内容URL粘贴到此处。
+    validations:
+      required: true
+  - type: textarea
+    id: programme
+    attributes:
+      label: 想要优化此内容的什么?
+      description: 请您描述的详细一点。
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: 其它信息
+    validations:
+      required: false
