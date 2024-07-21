@@ -103,6 +103,7 @@ export default defineConfig({
                 { text: 'TownOfHost', link: '/en/Mods/Host/TownOfHost' },
                 { text: 'YuAntiCheat', link: '/en/Mods/Host/YuAntiCheat' },
                 { text: 'TownOfNewEpic_Xtreme', link: '/en/Mods/Host/TownOfNewEpic_Xtreme'},
+                { text: 'TownOfHostEdited', link: '/en/Mods/Host/TownOfHostEdited'},
               ]
             }
           ],
@@ -111,7 +112,7 @@ export default defineConfig({
               text: 'No Host Mod',
               items: [
                 { text: 'TownOfUs', link: '/en/Mods/NoHost/TownOfUs' },
-                { text: 'TheOtherRoles', link: '/Mods/NoHost/TheOtherRoles' },
+                { text: 'TheOtherRoles', link: '/en/Mods/NoHost/TheOtherRoles' },
               ]
             }
           ],
@@ -119,7 +120,7 @@ export default defineConfig({
             {
               text: 'Authors',
               items: [
-                { text: 'KARPED1EM', link: '/Authors/KARPED1EM' },
+                { text: 'KARPED1EM', link: '/en/Authors/KARPED1EM' },
               ]
             }
           ]
