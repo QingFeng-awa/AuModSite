@@ -35,6 +35,7 @@ export default defineConfig({
                 { text: 'TownOfHost', link: '/Mods/Host/TownOfHost' },
                 { text: 'YuAntiCheat', link: '/Mods/Host/YuAntiCheat' },
                 { text: 'TownOfNewEpic_Xtreme', link: '/Mods/Host/TownOfNewEpic_Xtreme'},
+                { text: 'TownOfHostEdited', link: '/Mods/Host/TownOfHostEdited'},
               ]
             }
           ],
@@ -132,10 +133,6 @@ export default defineConfig({
         lightModeSwitchTitle: "Now is dark mode",
         darkModeSwitchTitle: "Now is light mode",
         returnToTopLabel: "Go to top",
-        docFooter: {
-          prev: false,
-          next: false
-        },
         lastUpdated: {
           text: 'Last Updated',
           formatOptions: {
@@ -174,6 +171,10 @@ export default defineConfig({
           }
         }
       }
+    },
+    docFooter: {
+      prev: false,
+      next: false
     },
     lastUpdated: true,
     footer: {
