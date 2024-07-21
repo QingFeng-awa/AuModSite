@@ -21,7 +21,8 @@ export default defineConfig({
             text: '模组',
             items: [
               { text: 'H系模组', link: '/Mods/Host/' },
-              { text: '非H系模组', link: '/Mods/NoHost/' }
+              { text: '非H系模组', link: '/Mods/NoHost/' },
+              { text: '功能性模组', link: '/Mods/Functional/' }
             ]
           },
           { text: '作者', link: '/Authors/' },
@@ -33,7 +34,7 @@ export default defineConfig({
               text: 'H系模组',
               items: [
                 { text: 'TownOfHost', link: '/Mods/Host/TownOfHost' },
-                { text: 'YuAntiCheat', link: '/Mods/Host/YuAntiCheat' },
+
                 { text: 'TownOfNewEpic_Xtreme', link: '/Mods/Host/TownOfNewEpic_Xtreme'},
                 { text: 'TownOfHostEdited', link: '/Mods/Host/TownOfHostEdited'},
               ]
@@ -45,6 +46,14 @@ export default defineConfig({
               items: [
                 { text: 'TownOfUs', link: '/Mods/NoHost/TownOfUs' },
                 { text: 'TheOtherRoles', link: '/Mods/NoHost/TheOtherRoles' },
+              ]
+            }
+          ],
+          '/Mods/Functional/': [
+            {
+              text: '功能性模组',
+              items: [
+                { text: 'YuAntiCheat', link: '/Mods/Functional/YuAntiCheat' },
               ]
             }
           ],
@@ -113,6 +122,14 @@ export default defineConfig({
               items: [
                 { text: 'TownOfUs', link: '/en/Mods/NoHost/TownOfUs' },
                 { text: 'TheOtherRoles', link: '/en/Mods/NoHost/TheOtherRoles' },
+              ]
+            }
+          ],
+          '/Mods/Functional/': [
+            {
+              text: 'Functional Mods',
+              items: [
+                { text: 'YuAntiCheat', link: '/Mods/Functional/YuAntiCheat' },
               ]
             }
           ],

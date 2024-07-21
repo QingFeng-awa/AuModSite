@@ -33,7 +33,7 @@ features:
   - icon: 🛠️
     title: YuAntiCheat
     details: An Anti Cheat for Among Us Game
-    link: /Mods/Host/YuAntiCheat
+    link: /Mods/Functional/YuAntiCheat
   - icon: ⭐️
     title: TownOfNewEpic_Xtreme
     details: Host only mod for Among Us, forked from Town Of Next
