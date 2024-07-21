@@ -1,7 +1,7 @@
 name: 功能请求
 description: 请求开发者增加功能。
-title: "[Bug]: "
-labels: ["类型:需求"]
+title: "[Feat]: "
+labels: ["类型:需求","状态:待处理"]
 assignees:
   - QingFeng-awa
 body:
