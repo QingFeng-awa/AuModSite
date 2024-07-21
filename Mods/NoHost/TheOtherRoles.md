@@ -31,6 +31,9 @@ const members = [
 <VPTeamMembers size="small" :members="members" />
 </div>
 
+> [!NOTE] Note
+> 由于TheOtherRoles仓库有16个贡献者,我不知道哪个是主创,故直接选择了TheOtherRoles组织唯一公开的成员。
+
 ## 版本
 - 最新正式版本: `v4.5.3`
   - 发布于2024年5月15日,下午2:37
@@ -39,7 +42,8 @@ const members = [
     - 不支持的版本: *尚不明确。*
 
 ## 多语言支持性
-- 英文
+该模组目前支持以下语言:
+- 英语
 
 ## 相关链接
 - [模组官方网站](http://theotherroles.de)
