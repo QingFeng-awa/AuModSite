@@ -19,12 +19,43 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/Slok7565' },
     ]
-  }
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/Xi.jpg',
+    name: '喜',
+    title: 'Developer',
+    org: 'XtremeWave',
+    orgLink: 'https://github.com/XtremeWave',
+    links: [
+      { icon: 'github', link: 'https://github.com/Xieiawa' },
+    ]
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/JiuMi.jpg',
+    name: '玖咪',
+    title: 'Developer',
+    org: 'XtremeWave',
+    orgLink: 'https://github.com/XtremeWave',
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/Zeyan.jpg',
+    name: 'Zeyan',
+    title: 'Developer',
+    org: 'XtremeWave',
+    orgLink: 'https://github.com/XtremeWave',
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/QingFeng.png',
+    name: 'QingFeng',
+    title: 'WebSiteDeveloper',
+    org: 'XtremeWave',
+    orgLink: 'https://github.com/XtremeWave',
+  },
 ]
 
 </script>
 
-## Author
+## Authors
 
 <div align="center">
 <VPTeamMembers size="small" :members="members" />
@@ -32,10 +63,10 @@ const members = [
 
 ## Version
 - Latest version: `v1.2`
-  - Released on 21 May 2024, 11:20 PM
+  - Released on 21 May 2024, 11:20 PM (GMT +8)
 - Support Among Us version:
-    - Support latest version: *Unclear, but it does not support versions `v2024.6.18` and later.*
-    - Unsupported versions: `v2023.11.28` and earlier versions.
+    - Support latest version: `v2024.6.4`
+    - Unsupported versions: *Unclear.*
 
 ## Language Support
 The mod currently supports the following languages:

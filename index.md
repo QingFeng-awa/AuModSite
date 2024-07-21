@@ -13,6 +13,9 @@ hero:
       text: 非H系模组
       link: /Mods/NoHost/
     - theme: brand
+      text: 功能性模组
+      link: /Mods/Functional/
+    - theme: brand
       text: 作者
       link: /Authors/
     - theme: alt

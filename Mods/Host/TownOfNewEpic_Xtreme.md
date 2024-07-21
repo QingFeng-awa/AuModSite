@@ -21,7 +21,38 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/Slok7565' },
     ]
-  }
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/Xi.jpg',
+    name: '喜',
+    title: '开发者',
+    org: 'XtremeWave',
+    orgLink: 'https://github.com/XtremeWave',
+    links: [
+      { icon: 'github', link: 'https://github.com/Xieiawa' },
+    ]
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/JiuMi.jpg',
+    name: '玖咪',
+    title: '开发者',
+    org: 'XtremeWave',
+    orgLink: 'https://github.com/XtremeWave',
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/Zeyan.jpg',
+    name: 'Zeyan',
+    title: '开发者',
+    org: 'XtremeWave',
+    orgLink: 'https://github.com/XtremeWave',
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/QingFeng.png',
+    name: 'QingFeng',
+    title: '云服务维护',
+    org: 'XtremeWave',
+    orgLink: 'https://github.com/XtremeWave',
+  },
 ]
 
 </script>

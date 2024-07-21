@@ -22,10 +22,114 @@ const members = [
       { icon: 'youtube', link: 'https://www.youtube.com/@XenonBottle'}
     ]
   },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/Tanakarina.png',
+    name: 'Tanakarina',
+    title: 'Developer',
+    links: [
+      { icon: 'github', link: 'https://github.com/tanakanira0118' },
+    ]
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/しゅー.jpg',
+    name: 'しゅー',
+    title: 'Developer',
+    links: [
+      { icon: 'github', link: 'https://github.com/shu-TownofHost' },
+      { icon: 'twitter', link: 'https://twitter.com/Shu_kundayo' },
+    ]
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/kihi.jpg',
+    name: 'kihi',
+    title: 'Developer',
+    links: [
+      { icon: 'github', link: 'https://github.com/Kihi1120' },
+    ]
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/TAKU_GG.jpg',
+    name: 'TAKU_GG',
+    title: 'Developer',
+    links: [
+      { icon: 'github', link: 'https://github.com/Kihi1120' },
+      { icon: 'twitter', link: 'https://twitter.com/TAKUGGYouTube1' },
+      { icon: 'youtube', link: 'https://www.youtube.com/c/TAKUGG'}
+    ]
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/そうくん.jpg',
+    name: 'そうくん',
+    title: 'Developer',
+    links: [
+      { icon: 'github', link: 'https://github.com/Kihi1120' },
+      { icon: 'twitter', link: 'https://twitter.com/Soukun_Dev' },
+      { icon: 'youtube', link: 'https://www.youtube.com/channel/UCsCOqxmXBVT-BD_UKaXpUPw'}
+    ]
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/みぃー.png',
+    name: 'みぃー',
+    title: 'Developer',
+    links: [
+      { icon: 'github', link: 'https://github.com/mii-47' },
+    ]
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/たんぽぽ.png',
+    name: 'たんぽぽ',
+    title: 'Developer',
+    links: [
+      { icon: 'github', link: 'https://github.com/tampopo-dandelion' },
+      { icon: 'twitter', link: 'https://twitter.com/2nomotokaicho' },
+      { icon: 'youtube', link: 'https://www.youtube.com/channel/UC8EwQ5gu-qyxVxek0jZw1Tg'}
+    ]
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/こう。.png',
+    name: 'こう。',
+    title: 'Developer',
+    links: [
+      { icon: 'github', link: 'https://github.com/kou-hetare' },
+    ]
+  },
+  {
+    name: 'ゆりの',
+    title: 'Developer',
+    links: [
+      { icon: 'github', link: 'https://github.com/yurinakira' },
+    ]
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/Masami.jpg',
+    name: 'Masami',
+    title: 'Developer',
+    links: [
+      { icon: 'github', link: 'https://github.com/Masami4711' },
+    ]
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/じゅき.jpg',
+    name: 'じゅき',
+    title: 'Developer',
+    links: [
+      { icon: 'github', link: 'https://github.com/jukimaguro1' },
+      { icon: 'twitter', link: 'https://twitter.com/2nomotokaicho' },
+    ]
+  },
+  {
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/はいず.png',
+    name: 'はいず',
+    title: 'Developer',
+    links: [
+      { icon: 'github', link: 'https://github.com/Hyz-sui' },
+      { icon: 'twitter', link: 'https://twitter.com/Hyze_suisui' },
+    ]
+  },
 ]
 </script>
 
-## Author
+## Authors
 
 <div align="center">
 <VPTeamMembers size="small" :members="members" />

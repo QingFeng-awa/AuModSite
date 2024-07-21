@@ -13,7 +13,10 @@ hero:
       text: No Host Mod
       link: /en/Mods/NoHost/
     - theme: brand
-      text: Authors
+      text: Functional Mod
+      link: /en/Mods/Functional/
+    - theme: brand
+      text: Author
       link: /en/Authors/
     - theme: alt
       text: Contributing
