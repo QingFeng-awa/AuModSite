@@ -63,6 +63,7 @@ export default defineConfig({
               text: '作者',
               items: [
                 { text: 'KARPED1EM', link: '/Authors/KARPED1EM' },
+                { text: 'Moe', link: '/Authors/Moe' },
               ]
             }
           ]
@@ -139,6 +140,7 @@ export default defineConfig({
               text: 'Authors',
               items: [
                 { text: 'KARPED1EM', link: '/en/Authors/KARPED1EM' },
+                { text: 'Moe', link: '/en/Authors/Moe' },
               ]
             }
           ]
