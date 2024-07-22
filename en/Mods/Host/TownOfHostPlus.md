@@ -8,7 +8,7 @@ title: TownOfHostPlus
 </div>
 
 > [!WARNING] Archived Mod
-> This mod's GitHub repository was archived on **2023年7月25日**, which usually means that the mod is no longer being updated.
+> This mod's GitHub repository was archived on **25 July 2023**, which usually means that the mod is no longer being updated.
 
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
