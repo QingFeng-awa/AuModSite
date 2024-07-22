@@ -5,7 +5,7 @@ title: TownOfHostEdited
 ![TownOfHostEdited-BG](https://cn-sy1.rains3.com/xtremewave/TownOfHostEdited.jpg)
 
 <div align="center">
-<h3>An AmongUs mod with learning & love.</h3>
+<h3>对游戏最高的热爱,是去创造他</h3>
 </div>
 
 > [!WARNING] 已归档的模组
@@ -53,3 +53,5 @@ const members = [
 - [模组官方网站](https://tohe.cc)
 - [模组GitHub](https://github.com/KARPED1EM/TownOfNext/tree/TOHE)
 - [模组Discord](https://discord.gg/hkk2p9ggv4)
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=527037322&bvid=BV1TM411T7UW&cid=1137124236&p=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500px" allowfullscreen="false" ></iframe>

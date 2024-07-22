@@ -23,9 +23,9 @@ hero:
       link: /Contributing
 features:
   - icon: 🌿
-    title: TownOfHostEdited
+    title: TownOfNext
     details: An Among Us mod with learning & love
-    link: /Mods/Host/TownOfHostEdited
+    link: /Mods/Host/TownOfNext
   - icon: 🔥
     title: TheOtherRoles
     details: The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game.

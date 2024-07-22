@@ -36,7 +36,8 @@ export default defineConfig({
                 { text: 'TownOfHost', link: '/Mods/Host/TownOfHost' },
                 { text: 'TownOfNewEpic_Xtreme', link: '/Mods/Host/TownOfNewEpic_Xtreme'},
                 { text: 'TownOfHostEdited', link: '/Mods/Host/TownOfHostEdited'},
-                { text: 'TownOfHostPlus', link: '/Mods/Host/TownOfHostPlus'},                
+                { text: 'TownOfHostPlus', link: '/Mods/Host/TownOfHostPlus'},
+                { text: 'TownOfNext', link: '/Mods/Host/TownOfNext'},
               ]
             }
           ],

@@ -23,7 +23,7 @@ hero:
       link: /Contributing
 features:
   - icon: 🌿
-    title: TownOfHostEdited
+    title: TownOfNext
     details: An Among Us mod with learning & love
     link: /en/Mods/Host/TownOfHostEdited
   - icon: 🔥
