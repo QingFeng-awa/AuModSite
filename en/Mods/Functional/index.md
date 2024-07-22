@@ -1,6 +1,6 @@
 ---
-title: 功能性模组
+title: Functional Mod
 ---
-# 什么是功能性模组?
-功能性模组不像H系与非H系模组,功能性模组大部分以插件的形式存在,这意味着他们基本兼容原版游戏。<br>
-并且,大部分功能性模组可以其它H/非H系模组同时存在。
+# What is a Functional mod?
+Functional mod are unlike Host and No Host mod. Most Functional mod exist in the form of plugins, which means they are generally compatible with the vanilla game.<br>
+Moreover, most Functional mod can coexist with other Host/No Host series mod.

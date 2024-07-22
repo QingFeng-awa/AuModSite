@@ -1,7 +1,7 @@
 ---
-title: 贡献
+title: Contribute
 ---
-# 贡献
+# Contribute
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
 
