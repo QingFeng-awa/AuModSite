@@ -39,8 +39,11 @@ features:
     details: Host only mod for Among Us, forked from Town Of Next
     link: /Mods/Host/TownOfNewEpic_Xtreme
 ---
-> [!WARNING] 试运行站点
-> 我们仍在开发此站点,因此网站可能并不稳定。
+<!--不要在其它语言显示这个提示,请在其它语言注释他。
+爱发电尚不支持PayPal,Visa等其它支付方式。-->
+> [!IMPORTANT] QingFeng入驻爱发电辣~
+> 我需要赞助才能给服务器续费……所以金主大大们能给点打赏吗?(星星眼)<br>
+> 请[点击此处访问赞助页面](/donate)了解更多。
 
 这是一个关于Among Us模组的文档网站。
 > Among Us(又译作“我们之中”、“太空狼人杀”),是一款由Innersloth LLC.制作发行的策略休闲派对游戏。

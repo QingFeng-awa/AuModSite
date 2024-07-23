@@ -39,8 +39,11 @@ features:
     details: Host only mod for Among Us, forked from Town Of Next
     link: /en/Mods/Host/TownOfNewEpic_Xtreme
 ---
-> [!WARNING] Site trial run
-> We are still developing this site, so it may be unstable.
+<!--不要在其它语言显示这个提示,请在其它语言注释他。
+爱发电尚不支持PayPal,Visa等其它支付方式。
+> [!IMPORTANT] QingFeng入驻爱发电辣~
+> 我需要赞助才能给服务器续费……所以金主大大们能给点打赏吗?(星星眼)<br>
+> 请[点击此处访问赞助页面](/donate)了解更多。-->
 
 This is a documentation website for Among Us mods.<br>
 > Among Us is a strategy-based casual party game developed and published by Innersloth LLC.
