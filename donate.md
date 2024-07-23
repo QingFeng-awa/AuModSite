@@ -15,7 +15,22 @@ title: 赞助
 所以,我们开放了赞助渠道。<br>
 我们希望您为我们出一份小小的力,即使是不足5元的赞助也足够了。
 ## 赞助我们,您会得到什么?
-- (任意金额)下列网站的感谢名单
-    - <https://aumod.site>
-    - <https://qingfengawa.me>
-    - (即将上线)fsx.net.cn
+- 任意赞助金额
+    - <https://aumod.site>的赞助名单
+    - <https://qingfengawa.me>的赞助名单
+    - (即将推出)fsusx.top的赞助名单
+- 累积赞助满30元
+    - 获得`任意赞助金额`的**所有内容**
+    - 赞助**优先展示**
+    - 赞助**金名展示**
+- 单次赞助满50元
+    - 获得`任意赞助金额`的**所有内容**
+    - 获得`累积赞助满60元`的**所有内容**
+    - 单肩帆布包1个 / 手机支架1个
+        - 您可以自主选择样式,请在赞助后咨询QingFeng。
+- 敬请期待……
+## 如何赞助我们?
+请访问下方网址赞助我们。
+- <https://afdian.net/a/aumodsite>
+- <https://ifdian.net/a/aumodsite>
+- <https://afdian.com/a/aumodsite>
