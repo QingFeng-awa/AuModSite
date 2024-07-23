@@ -26,7 +26,8 @@ export default defineConfig({
             ]
           },
           { text: '作者', link: '/Authors/' },
-          { text: '贡献', link: '/Contributing'}
+          { text: '贡献', link: '/Contributing'},
+          { text: '赞赏', link: '/donate'}
         ],
         sidebar: {
           '/Mods/Host/': [
