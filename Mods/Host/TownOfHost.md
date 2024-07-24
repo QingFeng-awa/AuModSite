@@ -2,10 +2,10 @@
 title: TownOfHost
 ---
 # TownOfHost
-![TownOfHost-BG](https://cn-sy1.rains3.com/xtremewave/TownOfHost.png)
+![TownOfHost-BG](/Image/TownOfHost.png)
 
 <div align="center">
-<h3>TownOfHost, Host only mod for Among Us.</h3>
+<h3>Town Of Host, Host only mod for Among Us.</h3>
 </div>
 
 <script setup>
@@ -13,7 +13,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/EmptyBottle.png',
+    avatar: '/Image/EmptyBottle.png',
     name: 'EmptyBottle',
     title: '开发者',
     links: [
@@ -23,7 +23,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Tanakarina.png',
+    avatar: '/Image/Tanakarina.png',
     name: 'Tanakarina',
     title: '开发者',
     links: [
@@ -31,7 +31,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/しゅー.jpg',
+    avatar: 'Image/しゅー.jpg',
     name: 'しゅー',
     title: '开发者',
     links: [
