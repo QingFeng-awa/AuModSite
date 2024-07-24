@@ -45,7 +45,7 @@ const members = [
     orgLink: 'https://github.com/XtremeWave',
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/QingFeng.png',
+    avatar: '/Image/QingFeng.png',
     name: 'QingFeng',
     title: 'WebSiteDeveloper',
     org: 'XtremeWave',
