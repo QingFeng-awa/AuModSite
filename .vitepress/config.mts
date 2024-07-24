@@ -39,6 +39,7 @@ export default defineConfig({
                 { text: 'TownOfHostEdited', link: '/Mods/Host/TownOfHostEdited'},
                 { text: 'TownOfHostPlus', link: '/Mods/Host/TownOfHostPlus'},
                 { text: 'TownOfNext', link: '/Mods/Host/TownOfNext'},
+                { text: 'TownOfHostEnhanced', link: '/Mods/Host/TownOfHostEnhanced'},
               ]
             }
           ],
