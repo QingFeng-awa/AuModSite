@@ -8,4 +8,4 @@ Moe源为是TOH-RE的网站搭建的人。<br>
 TOH-RE被Moe接管,并被更名为TownofHost-Enhanced。<br>
 
 # 开发模组
-[TownofHost-Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced)
+- [TownofHost-Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced)
