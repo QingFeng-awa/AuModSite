@@ -31,7 +31,7 @@ const members = [
     ]
   },
   {
-    avatar: 'Image/しゅー.jpg',
+    avatar: '/Image/しゅー.jpg',
     name: 'しゅー',
     title: '开发者',
     links: [
@@ -40,7 +40,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/kihi.jpg',
+    avatar: '/Image/kihi.jpg',
     name: 'kihi',
     title: '开发者',
     links: [
@@ -48,27 +48,27 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/TAKU_GG.jpg',
+    avatar: '/Image/TAKU_GG.jpg',
     name: 'TAKU_GG',
     title: '开发者',
     links: [
-      { icon: 'github', link: 'https://github.com/Kihi1120' },
+      { icon: 'github', link: 'https://github.com/TAKUGG' },
       { icon: 'twitter', link: 'https://twitter.com/TAKUGGYouTube1' },
       { icon: 'youtube', link: 'https://www.youtube.com/c/TAKUGG'}
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/そうくん.jpg',
+    avatar: '/Image/そうくん.jpg',
     name: 'そうくん',
     title: '开发者',
     links: [
-      { icon: 'github', link: 'https://github.com/Kihi1120' },
+      { icon: 'github', link: 'https://github.com/soukunsandesu' },
       { icon: 'twitter', link: 'https://twitter.com/Soukun_Dev' },
       { icon: 'youtube', link: 'https://www.youtube.com/channel/UCsCOqxmXBVT-BD_UKaXpUPw'}
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/みぃー.png',
+    avatar: '/Image/みぃー.png',
     name: 'みぃー',
     title: '开发者',
     links: [
@@ -76,7 +76,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/たんぽぽ.png',
+    avatar: '/Image/たんぽぽ.png',
     name: 'たんぽぽ',
     title: '开发者',
     links: [
@@ -86,7 +86,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/こう。.png',
+    avatar: '/Image/こう。.png',
     name: 'こう。',
     title: '开发者',
     links: [
@@ -94,6 +94,7 @@ const members = [
     ]
   },
   {
+    avatar: '/Image/ゆりの.png',
     name: 'ゆりの',
     title: '开发者',
     links: [
@@ -101,7 +102,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Masami.jpg',
+    avatar: '/Image/Masami.jpg',
     name: 'Masami',
     title: '开发者',
     links: [
@@ -109,7 +110,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/じゅき.jpg',
+    avatar: '/Image/じゅき.jpg',
     name: 'じゅき',
     title: '开发者',
     links: [
@@ -118,7 +119,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/はいず.png',
+    avatar: '/Image/はいず.png',
     name: 'はいず',
     title: '开发者',
     links: [
@@ -165,5 +166,3 @@ const members = [
 
 - [模组GitHub](https://github.com/tukasa0001/TownOfHost)
 - [模组Discord](https://discord.gg/W5ug6hXB9V)
-- [开发者YouTube](https://www.youtube.com/@XenonBottle)
-- [开发者X](https://x.com/XenonBottle)
