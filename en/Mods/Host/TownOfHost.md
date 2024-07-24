@@ -13,7 +13,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/EmptyBottle.png',
+    avatar: '/Image/EmptyBottle.png',
     name: 'EmptyBottle',
     title: 'Developer',
     links: [
@@ -23,7 +23,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Tanakarina.png',
+    avatar: '/Image/Tanakarina.png',
     name: 'Tanakarina',
     title: 'Developer',
     links: [
@@ -31,7 +31,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/しゅー.jpg',
+    avatar: '/Image/しゅー.jpg',
     name: 'しゅー',
     title: 'Developer',
     links: [
@@ -40,7 +40,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/kihi.jpg',
+    avatar: '/Image/kihi.jpg',
     name: 'kihi',
     title: 'Developer',
     links: [
@@ -48,27 +48,27 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/TAKU_GG.jpg',
+    avatar: '/Image/TAKU_GG.jpg',
     name: 'TAKU_GG',
     title: 'Developer',
     links: [
-      { icon: 'github', link: 'https://github.com/Kihi1120' },
+      { icon: 'github', link: 'https://github.com/TAKUGG' },
       { icon: 'twitter', link: 'https://twitter.com/TAKUGGYouTube1' },
       { icon: 'youtube', link: 'https://www.youtube.com/c/TAKUGG'}
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/そうくん.jpg',
+    avatar: '/Image/そうくん.jpg',
     name: 'そうくん',
     title: 'Developer',
     links: [
-      { icon: 'github', link: 'https://github.com/Kihi1120' },
+      { icon: 'github', link: 'https://github.com/soukunsandesu' },
       { icon: 'twitter', link: 'https://twitter.com/Soukun_Dev' },
       { icon: 'youtube', link: 'https://www.youtube.com/channel/UCsCOqxmXBVT-BD_UKaXpUPw'}
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/みぃー.png',
+    avatar: '/Image/みぃー.png',
     name: 'みぃー',
     title: 'Developer',
     links: [
@@ -76,7 +76,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/たんぽぽ.png',
+    avatar: '/Image/たんぽぽ.png',
     name: 'たんぽぽ',
     title: 'Developer',
     links: [
@@ -86,7 +86,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/こう。.png',
+    avatar: '/Image/こう。.png',
     name: 'こう。',
     title: 'Developer',
     links: [
@@ -94,6 +94,7 @@ const members = [
     ]
   },
   {
+    avatar: '/Image/ゆりの.png',
     name: 'ゆりの',
     title: 'Developer',
     links: [
@@ -101,7 +102,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Masami.jpg',
+    avatar: '/Image/Masami.jpg',
     name: 'Masami',
     title: 'Developer',
     links: [
@@ -109,7 +110,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/じゅき.jpg',
+    avatar: '/Image/じゅき.jpg',
     name: 'じゅき',
     title: 'Developer',
     links: [
@@ -118,7 +119,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/はいず.png',
+    avatar: '/Image/はいず.png',
     name: 'はいず',
     title: 'Developer',
     links: [
@@ -127,6 +128,7 @@ const members = [
     ]
   },
 ]
+
 </script>
 
 ## Authors
