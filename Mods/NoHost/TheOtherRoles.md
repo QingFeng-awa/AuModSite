@@ -13,7 +13,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/twix.jpg',
+    avatar: '/Image/twix.png',
     name: 'twix',
     title: '开发者',
     org: 'The Other Roles',
