@@ -2,7 +2,7 @@
 title: TownOfNext
 ---
 # TownOfNext
-![TownOfNext-BG](/Image/TownOfNext.jpg)
+![TownOfNext-BG](https://cn-sy1.rains3.com/xtremewave/TownOfNext.jpg)
 
 <div align="center">
 <h3>An AmongUs mod with learning & love.</h3>
