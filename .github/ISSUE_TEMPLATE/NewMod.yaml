@@ -1,7 +1,7 @@
 name: 模组收录
 description: 请求网站收录新模组。
 title: "[Bug]: "
-labels: ["类型:问题","状态:待处理","备注:模组"]
+labels: ["类型:需求","状态:待处理","备注:模组"]
 assignees:
   - QingFeng-awa
 body:
