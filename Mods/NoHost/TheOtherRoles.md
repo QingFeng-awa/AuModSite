@@ -2,7 +2,7 @@
 title: TheOtherRoles
 ---
 # TheOtherRoles
-![TheOtherRoles-BG](https://cn-sy1.rains3.com/xtremewave/TheOtherRoles.png)
+![TheOtherRoles-BG](/Image/TheOtherRoles.jpg)
 
 <div align="center">
 <h5>The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game.</h5>

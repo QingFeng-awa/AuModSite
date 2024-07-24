@@ -2,7 +2,7 @@
 title: TownOfUs
 ---
 # TownOfUs <Badge type="warning" text="已归档的模组" />
-![TownOfUs-BG](https://cn-sy1.rains3.com/xtremewave/TownOfUs.png)
+![TownOfUs-BG](/Image/TownOfUs.jpg)
 
 <div align="center">
 <h3>An Among Us mod containing a bunch of roles.</h3>
