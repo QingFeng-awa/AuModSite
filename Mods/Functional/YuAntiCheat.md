@@ -2,7 +2,7 @@
 title: YuAntiCheat
 ---
 # YuAntiCheat
-![YuAntiCheat-BG](https://cn-sy1.rains3.com/xtremewave/YuAntiCheat.jpg)
+![YuAntiCheat-BG](/Image/YuAC.jpg)
 
 <div align="center">
 <h3>An Anti Cheat for Among Us Game.</h3>
@@ -13,7 +13,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Yu.png',
+    avatar: '/Image/Yu.png',
     name: 'Yu',
     title: '开发者',
     links: [
