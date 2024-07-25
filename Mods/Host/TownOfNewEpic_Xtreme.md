@@ -13,7 +13,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Slok7565.jpg',
+    avatar: '/Image/Slok7565.jpg',
     name: 'Slok7565',
     title: '开发者',
     org: 'XtremeWave',
@@ -23,7 +23,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Xi.jpg',
+    avatar: '/Image/Xi.jpg',
     name: '喜',
     title: '开发者',
     org: 'XtremeWave',
@@ -33,14 +33,14 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/JiuMi.jpg',
+    avatar: '/Image/JiuMi.jpg',
     name: '玖咪',
     title: '开发者',
     org: 'XtremeWave',
     orgLink: 'https://github.com/XtremeWave',
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Zeyan.jpg',
+    avatar: '/Image/Zeyan.jpg',
     name: 'Zeyan',
     title: '开发者',
     org: 'XtremeWave',
