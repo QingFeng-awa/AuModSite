@@ -2,7 +2,7 @@
 title: TownOfUs
 ---
 # TownOfUs <Badge type="warning" text="Archived Mod" />
-![TownOfUs-BG](https://cn-sy1.rains3.com/xtremewave/TownOfUs.png)
+![TownOfUs-BG](/Image/TownOfUs.png)
 
 <div align="center"> 
 <h3>An Among Us mod containing a bunch of roles.</h3>
@@ -16,7 +16,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Slushie.png',
+    avatar: '/Image/Slushie.png',
     name: 'Slushie',
     title: 'Developer',
     links: [
