@@ -1,7 +1,7 @@
 ---
 title: YuAntiCheat
 ---
-# YuAntiCheat <Badge type="tip" text="Functional Mod" />
+# YuAntiCheat
 ![YuAntiCheat-BG](/Image/YuAC.jpg)
 
 <div align="center">
