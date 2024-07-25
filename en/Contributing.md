@@ -7,7 +7,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/QingFeng.png',
+    avatar: '/Image/QingFeng.png',
     name: 'QingFeng',
     title: 'Main Developer',
     org: 'XtremeWave',
@@ -17,7 +17,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/LezaiYa1.jpg',
+    avatar: '/Image/LezaiYa1.png',
     name: 'LezaiYa1',
     title: 'Developer',
     links: [
