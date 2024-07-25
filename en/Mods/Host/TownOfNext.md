@@ -13,7 +13,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/KARPED1EM.png',
+    avatar: '/Image/KARPED1EM.png',
     name: 'KARPED1EM',
     title: 'Developer',
     links: [
