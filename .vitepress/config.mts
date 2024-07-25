@@ -107,7 +107,7 @@ export default defineConfig({
           },
           { text: 'Authors', link: '/en/Authors/' },
           { text: 'Contributing', link: '/en/Contributing'},
-          { text: 'Sponsorship', link: 'en/donate'}
+          { text: 'Sponsorship', link: '/en/donate'}
         ],
         sidebar: {
           '/en/Mods/Host/': [
@@ -117,9 +117,9 @@ export default defineConfig({
                 { text: 'TownOfHost', link: '/en/Mods/Host/TownOfHost' },
                 { text: 'TownOfNewEpic_Xtreme', link: '/en/Mods/Host/TownOfNewEpic_Xtreme'},
                 { text: 'TownOfHostEdited', link: '/en/Mods/Host/TownOfHostEdited'},
-                { text: 'TownOfHostPlus', link: 'en/Mods/Host/TownOfHostPlus'},
-                { text: 'TownOfNext', link: 'en/Mods/Host/TownOfNext'},
-                { text: 'TownOfHostEnhanced', link: 'en/Mods/Host/TownOfHostEnhanced'},
+                { text: 'TownOfHostPlus', link: '/en/Mods/Host/TownOfHostPlus'},
+                { text: 'TownOfNext', link: '/en/Mods/Host/TownOfNext'},
+                { text: 'TownOfHostEnhanced', link: '/en/Mods/Host/TownOfHostEnhanced'},
               ]
             }
           ],
