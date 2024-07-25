@@ -2,7 +2,7 @@
 title: TownOfNewEpic_Xtreme
 ---
 # TownOfNewEpic_Xtreme
-![TownOfNewEpic_Xtreme-BG](/Image/TONEX.png)
+![TownOfNewEpic_Xtreme-BG](https://cn-sy1.rains3.com/xtremewave/TONEX.png)
 
 <div align="center">
 <h3>Host only mod for Among Us, forked from Town Of Next.</h3>
@@ -13,7 +13,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: '/Image/Slok7565.jpg',
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/Slok7565.jpg',
     name: 'Slok7565',
     title: 'Developer',
     links: [
@@ -21,7 +21,7 @@ const members = [
     ]
   },
   {
-    avatar: '/Image/Xi.jpg',
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/Xi.jpg',
     name: '喜',
     title: 'Developer',
     org: 'XtremeWave',
@@ -31,14 +31,14 @@ const members = [
     ]
   },
   {
-    avatar: '/Image/JiuMi.jpg',
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/JiuMi.jpg',
     name: '玖咪',
     title: 'Developer',
     org: 'XtremeWave',
     orgLink: 'https://github.com/XtremeWave',
   },
   {
-    avatar: '/Image/Zeyan.jpg',
+    avatar: 'https://cn-sy1.rains3.com/xtremewave/Zeyan.jpg',
     name: 'Zeyan',
     title: 'Developer',
     org: 'XtremeWave',
