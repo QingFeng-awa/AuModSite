@@ -1,4 +1,4 @@
----
+<!-----
 title: Sponsorship
 ---
 # Sponsorship
@@ -29,4 +29,4 @@ We hope you can lend a hand, even a sponsorship of less than 5 yuan can provide 
 Please visit the following website to sponsor us.
 - <https://afdian.net/a/aumodsite>
 - <https://ifdian.net/a/aumodsite>
-- <https://afdian.com/a/aumodsite>
+- <https://afdian.com/a/aumodsite>-->
