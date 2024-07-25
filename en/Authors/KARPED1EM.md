@@ -2,6 +2,9 @@
 title: KARPED1EM
 ---
 # KARPED1EM
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=527037322&bvid=BV1TM411T7UW&cid=1137124236&p=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500px" allowfullscreen="false" ></iframe>
+
 KARPED1EM's TownOfHostEdited mod has been loved by players.<br>
 But even passionate's love can't withstand the cold...<br>
 The TownOfHostEdited mod stopped maintenance on June 16.<br>
