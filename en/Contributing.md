@@ -7,7 +7,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/QingFeng.png',
+    avatar: '/Image/QingFeng.png',
     name: 'QingFeng',
     title: 'Main Developer',
     org: 'XtremeWave',
@@ -17,7 +17,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/LezaiYa1.jpg',
+    avatar: '/Image/LezaiYa1.png',
     name: 'LezaiYa1',
     title: 'Developer',
     links: [
@@ -26,11 +26,14 @@ const members = [
   },
 ]
 </script>
+
 <div align="center">
-<h3>Thank you to the members below for their contributions to the site</h3>
+<h2>Contribute</h2>
+<h2>Thank you to the members below for their contributions to the site</h2>
 <VPTeamMembers size="medium" :members="members" />
-</div>
 <br>
 
-# How to Contribute to This Site
+</h1>How to Contribute to This Site</h1>
 You can contribute to this site by submitting a Pull Request to the GitHub repository. Once your PR is merged, you will become a contributor to the site.
+
+</div>

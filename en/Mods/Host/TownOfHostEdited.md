@@ -4,6 +4,7 @@ title: TownOfHostEdited
 # TownOfHostEdited <Badge type="warning" text="Archived Mod" />
 
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=527037322&bvid=BV1TM411T7UW&cid=1137124236&p=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500px" allowfullscreen="false" ></iframe>
+
 <div align="center">
 <h3>An AmongUs mod with learning & love.</h3>
 </div>

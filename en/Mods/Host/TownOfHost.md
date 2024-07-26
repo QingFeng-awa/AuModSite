@@ -2,7 +2,7 @@
 title: TownOfHost
 ---
 # TownOfHost
-![TownOfHost-BG](https://cn-sy1.rains3.com/xtremewave/TownOfHost.png)
+![TownOfHost-BG](/Image/TownOfHost.png)
 
 <div align="center">
 <h3>TownOfHost, Host only mod for Among Us.</h3>

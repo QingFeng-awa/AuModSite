@@ -1,8 +1,8 @@
 ---
 title: YuAntiCheat
 ---
-# YuAntiCheat <Badge type="tip" text="Functional Mod" />
-![YuAntiCheat-BG](https://cn-sy1.rains3.com/xtremewave/YuAntiCheat.jpg)
+# YuAntiCheat
+![YuAntiCheat-BG](/Image/YuAC.jpg)
 
 <div align="center">
 <h3>An Anti Cheat for Among Us Game.</h3>
@@ -13,7 +13,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Yu.png',
+    avatar: '/Image/Yu.png',
     name: 'Yu',
     title: 'Developer',
     links: [
