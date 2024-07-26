@@ -1,4 +1,4 @@
-<!-----
+---
 title: Sponsorship
 ---
 # Sponsorship
@@ -26,7 +26,14 @@ We hope you can lend a hand, even a sponsorship of less than 5 yuan can provide 
         - You can choose the style at your own discretion, please consult QingFeng after sponsorship.
 - Stay tuned...
 ## How to sponsor us?
+<!--
 Please visit the following website to sponsor us.
 - <https://afdian.net/a/aumodsite>
 - <https://ifdian.net/a/aumodsite>
 - <https://afdian.com/a/aumodsite>-->
+> [!CAUTION] Your country's payment method does not support sponsoring us.
+> We do not yet support payment methods in your country.<br>
+> We currently support the following countries and payment methods:
+> - Chinese Mainland
+>   - Alipay
+>   - WeChat Pay
