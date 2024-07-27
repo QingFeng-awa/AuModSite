@@ -1,11 +1,11 @@
 ---
-title: YuAntiCheat
+title: MalumMenu
 ---
-# YuAntiCheat
-![YuAntiCheat-BG](/Image/YuAC.jpg)
+# MalumMenu
+![MalumMenu-BG](/Image/MalumMenu.png)
 
 <div align="center">
-<h3>An Anti Cheat for Among Us Game.</h3>
+<h3>An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.</h3>
 </div>
 
 <script setup>
@@ -13,12 +13,11 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: '/Image/Yu.png',
-    name: 'Yu',
+    avatar: '/Image/scp222thj.png',
+    name: 'scp222thj',
     title: '开发者',
     links: [
-      { icon: 'github', link: 'https://github.com/Night-GUA' },
-      { icon: 'discord', link: 'https://discord.gg/9Jy7gzPq' },
+      { icon: 'github', link: 'https://github.com/scp222thj' },
     ]
   }
 ]
@@ -32,8 +31,8 @@ const members = [
 </div>
 
 ## 版本
-- 最新正式版本: `v1.1.20`
-  - 发布于2024年7月19日,下午7:52
+- 最新正式版本: `v2.4.0`
+  - 发布于2024年6月25日
 - 支持Among Us版本:
     - 支持最新版本: `v2024.6.18`
     - 不支持的版本: `v2024.3.5`及更早版本。
@@ -41,10 +40,8 @@ const members = [
 ## 多语言支持性
 该模组目前支持以下语言:
 - 英语
-- 日语
-- 简体中文
-- 繁体中文
 
 ## 相关链接
 
-- [模组GitHub](https://github.com/Night-GUA/YuAntiCheat)
+- [模组GitHub](https://github.com/scp222thj/MalumMenu)
+- [模组Discord](https://discord.gg/YYcYf88jAb)

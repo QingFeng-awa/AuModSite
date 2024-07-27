@@ -1,11 +1,11 @@
 ---
-title: YuAntiCheat
+title: MalumMenu
 ---
-# YuAntiCheat
-![YuAntiCheat-BG](/Image/YuAC.jpg)
+# MalumMenu
+![MalumMenu-BG](/Image/MalumMenu.png)
 
 <div align="center">
-<h3>An Anti Cheat for Among Us Game.</h3>
+<h3>An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.</h3>
 </div>
 
 <script setup>
@@ -13,12 +13,11 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: '/Image/Yu.png',
-    name: 'Yu',
+    avatar: '/Image/scp222thj.png',
+    name: 'scp222thj',
     title: 'Developer',
     links: [
-      { icon: 'github', link: 'https://github.com/Night-GUA' },
-      { icon: 'discord', link: 'https://discord.gg/9Jy7gzPq' },
+      { icon: 'github', link: 'https://github.com/scp222thj' },
     ]
   }
 ]
@@ -32,8 +31,8 @@ const members = [
 </div>
 
 ## Version
-- Latest version: `v1.1.20`
-  - Released on 19 July 2024, 7:52 PM(GMT +8)
+- Latest version: `v2.4.0`
+  - Released on 25 Jun 2024
 - Support Among Us version:
     - Support latest version: `v2024.6.18`
     - Unsupported version: `v2024.3.5` and earlier.
@@ -41,11 +40,8 @@ const members = [
 ## Language Support
 The mod currently supports the following languages:
 - English
-- Japanese
-- Simplified Chinese
-- Traditional Chinese
-
 
 ## Links
 
-- [Mod GitHub](https://github.com/Night-GUA/YuAntiCheat)
+- [Mod GitHub](https://github.com/scp222thj/MalumMenu)
+- [Mod Discord](https://discord.gg/YYcYf88jAb)
