@@ -22,6 +22,16 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/LezaiYa1' }
     ]
+  },
+  {
+    avatar: '/Image/Slok7565.png',
+    name: 'Slok7565',
+    title: '贡献者',
+    org: 'XtremeWave',
+    orgLink: 'https://github.com/XtremeWave',
+    links: [
+      { icon: 'github', link: 'https://github.com/Slok7565' }
+    ]
   }
 ]
 </script>
