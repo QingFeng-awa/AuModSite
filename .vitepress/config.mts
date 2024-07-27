@@ -30,7 +30,7 @@ export default defineConfig({
           { text: '赞赏', link: '/donate'}
         ],
         sidebar: {
-          '/Mods/Host/': [
+          '/Mods/HostOnly/': [
             {
               text: 'H系模组',
               items: [
@@ -43,9 +43,9 @@ export default defineConfig({
               ]
             }
           ],
-          '/Mods/NoHost/': [
+          '/Mods/AllClient/': [
             {
-                  text: '全客户端系模组',
+              text: '全客户端系模组',
               items: [
                   { text: 'TownOfUs', link: '/Mods/AllClient/TownOfUs' },
                   { text: 'TheOtherRoles', link: '/Mods/AllClient/TheOtherRoles' },
