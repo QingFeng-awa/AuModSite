@@ -49,6 +49,7 @@ export default defineConfig({
               items: [
                   { text: 'TownOfUs', link: '/Mods/AllClient/TownOfUs' },
                   { text: 'TheOtherRoles', link: '/Mods/AllClient/TheOtherRoles' },
+                  { text: 'LasMonjas', link: '/Mods/AllClient/LasMonjas' }
               ]
             }
           ],
@@ -129,6 +130,7 @@ export default defineConfig({
               items: [
                   { text: 'TownOfUs', link: '/en/Mods/AllClient/TownOfUs' },
                   { text: 'TheOtherRoles', link: '/en/Mods/AllClient/TheOtherRoles' },
+                  { text: 'LasMonjas', link: '/en/Mods/AllClient/LasMonjas' }
               ]
             }
           ],
