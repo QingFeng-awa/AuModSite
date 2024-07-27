@@ -58,6 +58,7 @@ export default defineConfig({
               text: '功能性插件',
               items: [
                 { text: 'YuAntiCheat', link: '/Mods/Functional/YuAntiCheat' },
+                { text: 'MalumMenu', link: '/Mods/Functional/MalumMenu' }
               ]
             }
           ],
@@ -140,6 +141,7 @@ export default defineConfig({
               text: 'Functional',
               items: [
                 { text: 'YuAntiCheat', link: '/en/Mods/Functional/YuAntiCheat' },
+                { text: 'MalumMenu', link: '/en/Mods/Functional/MalumMenu' }
               ]
             }
           ],
