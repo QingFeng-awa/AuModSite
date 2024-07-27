@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: Host Mod
-      link: /en/Mods/Host/
+      link: /en/Mods/HostOnly/
     - theme: brand
       text: No Host Mod
-      link: /en/Mods/NoHost/
+      link: /en/Mods/AllClient/
     - theme: brand
       text: Functional Mod
       link: /en/Mods/Functional/
@@ -25,11 +25,11 @@ features:
   - icon: 🌿
     title: TownOfNext
     details: An Among Us mod with learning & love
-    link: /en/Mods/Host/TownOfHostEdited
+    link: /en/Mods/HostOnly/TownOfHostEdited
   - icon: 🔥
     title: TheOtherRoles
     details: The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game.
-    link: /en/Mods/Host/TownOfHostEnhanced
+    link: /en/Mods/HostOnly/TownOfHostEnhanced
   - icon: 🛠️
     title: YuAntiCheat
     details: An Anti Cheat for Among Us Game
@@ -37,7 +37,7 @@ features:
   - icon: ⭐️
     title: TownOfNewEpic_Xtreme
     details: Host only mod for Among Us, forked from Town Of Next
-    link: /en/Mods/Host/TownOfNewEpic_Xtreme
+    link: /en/Mods/HostOnly/TownOfNewEpic_Xtreme
 ---
 <!--不要在其它语言显示这个提示,请在其它语言注释他。
 爱发电尚不支持PayPal,Visa等其它支付方式。
