@@ -39,7 +39,6 @@ const members = [
     - Unsupported versions: `v2023.11.28` and earlier versions.
 
 ## Language Support
-The mod currently supports the following languages:
 - English
 
 ## Links
