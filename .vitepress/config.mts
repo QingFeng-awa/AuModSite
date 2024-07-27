@@ -49,7 +49,6 @@ export default defineConfig({
               items: [
                   { text: 'TownOfUs', link: '/Mods/AllClient/TownOfUs' },
                   { text: 'TheOtherRoles', link: '/Mods/AllClient/TheOtherRoles' },
-                  { text: 'LasMonjas', link: '/Mods/AllClient/LasMonjas' }
               ]
             }
           ],
@@ -58,7 +57,6 @@ export default defineConfig({
               text: '功能性插件',
               items: [
                 { text: 'YuAntiCheat', link: '/Mods/Functional/YuAntiCheat' },
-                { text: 'MalumMenu', link: '/Mods/Functional/MalumMenu' }
               ]
             }
           ],
@@ -68,7 +66,6 @@ export default defineConfig({
               items: [
                 { text: 'KARPED1EM', link: '/Authors/KARPED1EM' },
                 { text: 'Moe', link: '/Authors/Moe' },
-                { text: 'Loonie', link: '/Authors/Loonie' },
               ]
             }
           ]
@@ -104,8 +101,8 @@ export default defineConfig({
           {
             text: 'Mods',
             items: [
-                { text: 'HostOnly', link: '/en/Mods/HostOnly/' },
-                { text: 'AllClient', link: '/en/Mods/AllClient/' }
+                { text: 'Host Mod', link: '/en/Mods/HostOnly/' },
+                { text: 'All Client Mod', link: '/en/Mods/AllClient/' }
             ]
           },
           { text: 'Authors', link: '/en/Authors/' },
@@ -113,9 +110,9 @@ export default defineConfig({
           { text: 'Sponsorship', link: '/en/donate'}
         ],
         sidebar: {
-          '/en/Mods/HostOnly/': [
+          '/en/Mods/Host/': [
             {
-              text: 'HostOnly',
+              text: 'Host Mod',
               items: [
                   { text: 'TownOfHost', link: '/en/Mods/HostOnly/TownOfHost' },
                 //{ text: 'TownOfNewEpic_Xtreme', link: '/en/Mods/Host/TownOfNewEpic_Xtreme'},
@@ -126,22 +123,20 @@ export default defineConfig({
               ]
             }
           ],
-          '/en/Mods/AllClient/': [
+          '/en/Mods/NoHost/': [
             {
-              text: 'AllClient',
+              text: 'No Host Mod',
               items: [
                   { text: 'TownOfUs', link: '/en/Mods/AllClient/TownOfUs' },
                   { text: 'TheOtherRoles', link: '/en/Mods/AllClient/TheOtherRoles' },
-                  { text: 'LasMonjas', link: '/en/Mods/AllClient/LasMonjas' }
               ]
             }
           ],
-          'en/Mods/Functional/': [
+          '/Mods/Functional/': [
             {
-              text: 'Functional',
+              text: 'Functional Mods',
               items: [
                 { text: 'YuAntiCheat', link: '/en/Mods/Functional/YuAntiCheat' },
-                { text: 'MalumMenu', link: '/en/Mods/Functional/MalumMenu' }
               ]
             }
           ],
@@ -151,7 +146,6 @@ export default defineConfig({
               items: [
                 { text: 'KARPED1EM', link: '/en/Authors/KARPED1EM' },
                 { text: 'Moe', link: '/en/Authors/Moe' },
-                { text: 'Loonie', link: '/en/Authors/Loonie' },
               ]
             }
           ]
