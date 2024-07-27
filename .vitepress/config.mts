@@ -67,6 +67,7 @@ export default defineConfig({
               items: [
                 { text: 'KARPED1EM', link: '/Authors/KARPED1EM' },
                 { text: 'Moe', link: '/Authors/Moe' },
+                { text: 'Loonie', link: '/Authors/Loonie' },
               ]
             }
           ]
@@ -148,6 +149,7 @@ export default defineConfig({
               items: [
                 { text: 'KARPED1EM', link: '/en/Authors/KARPED1EM' },
                 { text: 'Moe', link: '/en/Authors/Moe' },
+                { text: 'Loonie', link: '/en/Authors/Loonie' },
               ]
             }
           ]
