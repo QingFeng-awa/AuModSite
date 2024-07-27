@@ -1,6 +1,6 @@
 ---
-title: Functional Mod
+title: Functional Plugin
 ---
-# What is a Functional mod?
-Functional mod are unlike Host and No Host mod. Most Functional mod exist in the form of plugins, which means they are generally compatible with the vanilla game.<br>
-Moreover, most Functional mod can coexist with other Host/No Host series mod.
+# What is a Functional Plugin?
+Functional Plugin are unlike Host Only and All Client mod. Most Functional Plugin exist in the form of plugins, which means they are generally compatible with the vanilla game.<br>
+Moreover, most Functional Plugin can coexist with other Host Only/All Client series mod.

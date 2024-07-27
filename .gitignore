@@ -27,3 +27,6 @@ crashlytics.properties
 crashlytics-build.properties
 .vitepress/cache/
 sitemap.xml
+/.vs/AuModSite/v17
+/.vs/AuModSite/FileContentIndex
+/.vs
