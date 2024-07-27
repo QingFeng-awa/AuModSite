@@ -20,8 +20,8 @@ export default defineConfig({
           {
             text: '模组',
             items: [
-              { text: 'H系模组', link: '/Mods/Host/' },
-              { text: '非H系模组', link: '/Mods/NoHost/' },
+                { text: 'H系模组', link: '/Mods/HostOnly/' },
+                { text: '全客户端系模组', link: '/Mods/AllClient/' },
               { text: '功能性模组', link: '/Mods/Functional/' }
             ]
           },
@@ -34,27 +34,27 @@ export default defineConfig({
             {
               text: 'H系模组',
               items: [
-                { text: 'TownOfHost', link: '/Mods/Host/TownOfHost' },
+                  { text: 'TownOfHost', link: '/Mods/HostOnly/TownOfHost' },
                 //{ text: 'TownOfNewEpic_Xtreme', link: '/Mods/Host/TownOfNewEpic_Xtreme'},
-                { text: 'TownOfHostEdited', link: '/Mods/Host/TownOfHostEdited'},
-                { text: 'TownOfHostPlus', link: '/Mods/Host/TownOfHostPlus'},
-                { text: 'TownOfNext', link: '/Mods/Host/TownOfNext'},
-                { text: 'TownOfHostEnhanced', link: '/Mods/Host/TownOfHostEnhanced'},
+                  { text: 'TownOfHostEdited', link: '/Mods/HostOnly/TownOfHostEdited'},
+                  { text: 'TownOfHostPlus', link: '/Mods/HostOnly/TownOfHostPlus'},
+                  { text: 'TownOfNext', link: '/Mods/HostOnly/TownOfNext'},
+                  { text: 'TownOfHostEnhanced', link: '/Mods/HostOnly/TownOfHostEnhanced'},
               ]
             }
           ],
           '/Mods/NoHost/': [
             {
-              text: '非H系模组',
+                  text: '全客户端系模组',
               items: [
-                { text: 'TownOfUs', link: '/Mods/NoHost/TownOfUs' },
-                { text: 'TheOtherRoles', link: '/Mods/NoHost/TheOtherRoles' },
+                  { text: 'TownOfUs', link: '/Mods/AllClient/TownOfUs' },
+                  { text: 'TheOtherRoles', link: '/Mods/AllClient/TheOtherRoles' },
               ]
             }
           ],
           '/Mods/Functional/': [
             {
-              text: '功能性模组',
+              text: '功能性插件',
               items: [
                 { text: 'YuAntiCheat', link: '/Mods/Functional/YuAntiCheat' },
               ]
@@ -101,8 +101,8 @@ export default defineConfig({
           {
             text: 'Mods',
             items: [
-              { text: 'Host Mod', link: '/en/Mods/Host/' },
-              { text: 'NoHost Mod', link: '/en/Mods/NoHost/' }
+                { text: 'Host Mod', link: '/en/Mods/HostOnly/' },
+                { text: 'All Client Mod', link: '/en/Mods/AllClient/' }
             ]
           },
           { text: 'Authors', link: '/en/Authors/' },
@@ -114,12 +114,12 @@ export default defineConfig({
             {
               text: 'Host Mod',
               items: [
-                { text: 'TownOfHost', link: '/en/Mods/Host/TownOfHost' },
+                  { text: 'TownOfHost', link: '/en/Mods/HostOnly/TownOfHost' },
                 //{ text: 'TownOfNewEpic_Xtreme', link: '/en/Mods/Host/TownOfNewEpic_Xtreme'},
-                { text: 'TownOfHostEdited', link: '/en/Mods/Host/TownOfHostEdited'},
-                { text: 'TownOfHostPlus', link: '/en/Mods/Host/TownOfHostPlus'},
-                { text: 'TownOfNext', link: '/en/Mods/Host/TownOfNext'},
-                { text: 'TownOfHostEnhanced', link: '/en/Mods/Host/TownOfHostEnhanced'},
+                  { text: 'TownOfHostEdited', link: '/en/Mods/HostOnly/TownOfHostEdited'},
+                  { text: 'TownOfHostPlus', link: '/en/Mods/HostOnly/TownOfHostPlus'},
+                  { text: 'TownOfNext', link: '/en/Mods/HostOnly/TownOfNext'},
+                  { text: 'TownOfHostEnhanced', link: '/en/Mods/HostOnly/TownOfHostEnhanced'},
               ]
             }
           ],
@@ -127,8 +127,8 @@ export default defineConfig({
             {
               text: 'No Host Mod',
               items: [
-                { text: 'TownOfUs', link: '/en/Mods/NoHost/TownOfUs' },
-                { text: 'TheOtherRoles', link: '/en/Mods/NoHost/TheOtherRoles' },
+                  { text: 'TownOfUs', link: '/en/Mods/AllClient/TownOfUs' },
+                  { text: 'TheOtherRoles', link: '/en/Mods/AllClient/TheOtherRoles' },
               ]
             }
           ],

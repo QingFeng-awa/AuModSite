@@ -10,10 +10,10 @@ hero:
       text: H系模组
       link: /Mods/HostOnly/
     - theme: brand
-      text: 非H系模组
+      text: 全客户端系模组
       link: /Mods/AllClient/
     - theme: brand
-      text: 功能性模组
+      text: 功能性插件
       link: /Mods/Functional/
     - theme: brand
       text: 作者
@@ -48,4 +48,4 @@ features:
 这是一个关于Among Us模组的文档网站。
 > Among Us(又译作“我们之中”、“太空狼人杀”),是一款由Innersloth LLC.制作发行的策略休闲派对游戏。
 
-我在此收录了大部分的Among Us模组供玩家们查看,您可以通过此网站快速了解现在Among Us的H系模组/非H系模组。
+我在此收录了大部分的Among Us模组供玩家们查看,您可以通过此网站快速了解现在Among Us的H系模组/全客户端系模组。

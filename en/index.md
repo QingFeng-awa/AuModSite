@@ -13,7 +13,7 @@ hero:
       text: No Host Mod
       link: /en/Mods/AllClient/
     - theme: brand
-      text: Functional Mod
+      text: Functional Plugin
       link: /en/Mods/Functional/
     - theme: brand
       text: Author
