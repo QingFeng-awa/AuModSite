@@ -49,6 +49,7 @@ export default defineConfig({
               items: [
                   { text: 'TownOfUs', link: '/Mods/AllClient/TownOfUs' },
                   { text: 'TheOtherRoles', link: '/Mods/AllClient/TheOtherRoles' },
+                  { text: 'SuperNewRoles', link: '/Mods/AllClient/SuperNewRoles' },
               ]
             }
           ],
@@ -57,6 +58,7 @@ export default defineConfig({
               text: '功能性插件',
               items: [
                 { text: 'YuAntiCheat', link: '/Mods/Functional/YuAntiCheat' },
+                { text: 'MalumMenu', link: '/Mods/Functional/MalumMenu' },
               ]
             }
           ],
