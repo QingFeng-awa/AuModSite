@@ -42,5 +42,4 @@ const members = [
 该模组目前支持以下语言:
 - 英语
 ## 相关链接
-- [模组GitHub](https://github.com/slushiegoose/Town-Of-Us)
-- [模组Discord](https://discord.gg/polus)
+- [模组GitHub](https://github.com/scp222thj/MalumMenu)
