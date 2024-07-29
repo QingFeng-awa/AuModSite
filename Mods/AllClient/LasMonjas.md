@@ -5,8 +5,10 @@ title: LasMonjas
 ![LasMonjas-BG](/Image/LasMonjas.png)
 
 <div align="center">
-</h3>Among Us Mod with many roles and gamemodes.</h3>
+<h3>Among Us Mod with many roles and gamemodes.</h3>
 </div>
+
+## 作者
 
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
@@ -17,13 +19,12 @@ const members = [
     name: 'KiraYamato94',
     title: '开发者',
     links: [
-      { icon: 'github', link: 'https://github.com/KiraYamato94' },
+      { icon: 'github', link: 'https://github.com/KiraYamato94' }
     ]
   }
 ]
-</script>
 
-## 作者
+</script>
 
 <div align="center">
 <VPTeamMembers size="small" :members="members" />
