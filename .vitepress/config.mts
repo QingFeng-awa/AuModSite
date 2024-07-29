@@ -40,6 +40,7 @@ export default defineConfig({
                   { text: 'TownOfHostPlus', link: '/Mods/HostOnly/TownOfHostPlus'},
                   { text: 'TownOfNext', link: '/Mods/HostOnly/TownOfNext'},
                   { text: 'TownOfHostEnhanced', link: '/Mods/HostOnly/TownOfHostEnhanced'},
+                  { text: 'EndlessHostRoles', link: '/Mods/HostOnly/EndlessHostRoles'},
               ]
             }
           ],

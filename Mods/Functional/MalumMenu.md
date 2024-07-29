@@ -5,7 +5,7 @@ title: MalumMenu
 ![MalumMenu-BG](/Image/MalumMenu.png)
 
 <div align="center">
-<h3>An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.</h3>
+<h5>An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.</h5>
 </div>
 
 <script setup>
