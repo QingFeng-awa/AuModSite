@@ -50,6 +50,7 @@ export default defineConfig({
                   { text: 'TownOfUs', link: '/Mods/AllClient/TownOfUs' },
                   { text: 'TheOtherRoles', link: '/Mods/AllClient/TheOtherRoles' },
                   { text: 'SuperNewRoles', link: '/Mods/AllClient/SuperNewRoles' },
+                  { text: 'LasMonjas', link: '/Mods/AllClient/LasMonjas' }
               ]
             }
           ],
@@ -131,6 +132,8 @@ export default defineConfig({
               items: [
                   { text: 'TownOfUs', link: '/en/Mods/AllClient/TownOfUs' },
                   { text: 'TheOtherRoles', link: '/en/Mods/AllClient/TheOtherRoles' },
+                  { text: 'SuperNewRoles', link: '/Mods/AllClient/SuperNewRoles' },
+                  { text: 'LasMonjas', link: '/Mods/AllClient/LasMonjas' },
               ]
             }
           ],
@@ -138,7 +141,7 @@ export default defineConfig({
             {
               text: 'Functional',
               items: [
-                { text: 'YuAntiCheat', link: '/en/Mods/Functional/YuAntiCheat' },
+                { text: 'YuAntiCheat', link: '/en/Mods/Functional/YuAntiCheat' }
               ]
             }
           ],
