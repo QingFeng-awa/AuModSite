@@ -15,11 +15,15 @@ jobs:
         REPO: ${{ github.repository }}
         ISSUE_NUMBER: ${{ github.event.issue.number }}
       run: |
+        # 对标签名称进行URL编码
+        LABEL_TO_REMOVE=$(echo -n "状态:待处理" | jq -sRr @uri)
+        LABEL_TO_ADD=$(echo -n "状态:已完成" | jq -sRr @uri)
+
         # 移除标签 "状态:待处理"
         curl -X DELETE -H "Authorization: token $GITHUB_TOKEN" \
-          https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/labels/状态:待处理
+          "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/labels/$LABEL_TO_REMOVE"
 
         # 添加标签 "状态:已完成"
         curl -X POST -H "Authorization: token $GITHUB_TOKEN" -H "Content-Type: application/json" \
           -d '{"labels": ["状态:已完成"]}' \
-          https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/labels
+          "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/labels"
