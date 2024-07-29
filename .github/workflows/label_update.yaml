@@ -1,29 +1,31 @@
-name: Update Labels on Issue Close Based on Reason
+name: Issue Command Handler
 
 on:
-  issues:
-    types: [closed]
+  issue_comment:
+    types: [created]
 
 jobs:
-  update_labels:
+  handle_comment:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Set Labels Based on Close Reason
+    - name: Check for Command and Set Labels
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPO: ${{ github.repository }}
         ISSUE_NUMBER: ${{ github.event.issue.number }}
-        CLOSE_REASON: ${{ github.event.issue.closed_by.login }}
+        COMMENT_BODY: ${{ github.event.comment.body }}
       run: |
         LABEL_TO_REMOVE=$(echo -n "状态:待处理" | jq -sRr @uri)
         
-        if [[ "$CLOSE_REASON" == "completed" ]]; then
-          LABEL_TO_ADD="状态:已完成"
-        elif [[ "$CLOSE_REASON" == "not planned" ]]; then
+        if [[ "$COMMENT_BODY" == "/f-issue" ]]; then
           LABEL_TO_ADD="暂不处理"
+          CLOSE_REASON="not planned"
+        elif [[ "$COMMENT_BODY" == "/d-issue" ]]; then
+          LABEL_TO_ADD="状态:已完成"
+          CLOSE_REASON="completed"
         else
-          echo "Unknown reason for closing the issue, skipping label update."
+          echo "No relevant command found, skipping action."
           exit 0
         fi
 
@@ -37,3 +39,8 @@ jobs:
         curl -X POST -H "Authorization: token $GITHUB_TOKEN" -H "Content-Type: application/json" \
           -d "{\"labels\": [\"$LABEL_TO_ADD\"]}" \
           "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/labels"
+
+        # 关闭 issue 并提供关闭原因
+        curl -X PATCH -H "Authorization: token $GITHUB_TOKEN" -H "Content-Type: application/json" \
+          -d "{\"state\": \"closed\", \"state_reason\": \"$CLOSE_REASON\"}" \
+          "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER"
