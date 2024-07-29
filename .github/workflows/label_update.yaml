@@ -9,24 +9,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Determine the Closing Reason
-      id: get_reason
-      run: |
-        COMMENT_BODY=$(jq -r '.issue.timeline | .[] | select(.event == "closed") | .body' "${GITHUB_EVENT_PATH}")
-        echo "comment_body=$COMMENT_BODY" >> $GITHUB_ENV
-
-    - name: Remove "状态:待处理" and Add Appropriate Label
+    - name: Set Labels Based on Close Reason
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPO: ${{ github.repository }}
         ISSUE_NUMBER: ${{ github.event.issue.number }}
-        COMMENT_BODY: ${{ env.comment_body }}
+        CLOSE_REASON: ${{ github.event.issue.closed_by.login }}
       run: |
         LABEL_TO_REMOVE=$(echo -n "状态:待处理" | jq -sRr @uri)
         
-        if [[ "$COMMENT_BODY" == *"completed"* ]]; then
+        if [[ "$CLOSE_REASON" == "completed" ]]; then
           LABEL_TO_ADD="状态:已完成"
-        elif [[ "$COMMENT_BODY" == *"not planned"* ]]; then
+        elif [[ "$CLOSE_REASON" == "not planned" ]]; then
           LABEL_TO_ADD="暂不处理"
         else
           echo "Unknown reason for closing the issue, skipping label update."
