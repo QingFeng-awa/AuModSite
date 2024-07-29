@@ -2,7 +2,7 @@
 title: TownOfNewEpic_Xtreme
 ---
 # TownOfNewEpic_Xtreme
-![TownOfNewEpic_Xtreme-BG](https://cn-sy1.rains3.com/xtremewave/TONEX.png)
+![TownOfNewEpic_Xtreme-BG](/Image/TownOfNewEpic_Xtreme.png)
 
 <div align="center">
 <h3>Host only mod for Among Us, forked from Town Of Next.</h3>
@@ -13,7 +13,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Slok7565.jpg',
+    avatar: '/Image/Slok7565.png',
     name: 'Slok7565',
     title: '开发者',
     org: 'XtremeWave',
@@ -21,38 +21,7 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/Slok7565' },
     ]
-  },
-  {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Xi.jpg',
-    name: '喜',
-    title: '开发者',
-    org: 'XtremeWave',
-    orgLink: 'https://github.com/XtremeWave',
-    links: [
-      { icon: 'github', link: 'https://github.com/Xieiawa' },
-    ]
-  },
-  {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/JiuMi.jpg',
-    name: '玖咪',
-    title: '开发者',
-    org: 'XtremeWave',
-    orgLink: 'https://github.com/XtremeWave',
-  },
-  {
-    avatar: 'https://cn-sy1.rains3.com/xtremewave/Zeyan.jpg',
-    name: 'Zeyan',
-    title: '开发者',
-    org: 'XtremeWave',
-    orgLink: 'https://github.com/XtremeWave',
-  },
-  {
-    avatar: '/Image/QingFeng.png',
-    name: 'QingFeng',
-    title: '云服务维护',
-    org: 'XtremeWave',
-    orgLink: 'https://github.com/XtremeWave',
-  },
+  }
 ]
 
 </script>
@@ -64,11 +33,11 @@ const members = [
 </div>
 
 ## 版本
-- 最新正式版本: `v1.2`
-  - 发布于2024年5月21日,下午11:20
+- 最新正式版本: `v1.3`
+  - 发布于2024年7月26日,下午7:16
 - 支持Among Us版本:
-    - 支持最新版本: *尚不明确,但它并不支持`v2024.6.18`及之后版本。*
-    - 不支持的版本: `v2023.11.28`及更早版本。
+    - 支持最新版本: `v2024.6.18`
+    - 不支持的版本: `v2024.6.4`及更早版本。
 
 ## 多语言支持性
 该模组目前支持以下语言:

@@ -35,7 +35,7 @@ export default defineConfig({
               text: 'H系模组',
               items: [
                   { text: 'TownOfHost', link: '/Mods/HostOnly/TownOfHost' },
-                //{ text: 'TownOfNewEpic_Xtreme', link: '/Mods/Host/TownOfNewEpic_Xtreme'},
+                  { text: 'TownOfNewEpic_Xtreme', link: '/Mods/HostOnly/TownOfNewEpic_Xtreme'},
                   { text: 'TownOfHostEdited', link: '/Mods/HostOnly/TownOfHostEdited'},
                   { text: 'TownOfHostPlus', link: '/Mods/HostOnly/TownOfHostPlus'},
                   { text: 'TownOfNext', link: '/Mods/HostOnly/TownOfNext'},
@@ -117,7 +117,7 @@ export default defineConfig({
               text: 'Host Mod',
               items: [
                   { text: 'TownOfHost', link: '/en/Mods/HostOnly/TownOfHost' },
-                //{ text: 'TownOfNewEpic_Xtreme', link: '/en/Mods/Host/TownOfNewEpic_Xtreme'},
+                  { text: 'TownOfNewEpic_Xtreme', link: '/en/Mods/HostOnly/TownOfNewEpic_Xtreme'},
                   { text: 'TownOfHostEdited', link: '/en/Mods/HostOnly/TownOfHostEdited'},
                   { text: 'TownOfHostPlus', link: '/en/Mods/HostOnly/TownOfHostPlus'},
                   { text: 'TownOfNext', link: '/en/Mods/HostOnly/TownOfNext'},
