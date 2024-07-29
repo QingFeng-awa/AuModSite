@@ -104,8 +104,8 @@ export default defineConfig({
           {
             text: 'Mods',
             items: [
-                { text: 'HostOnly Mod', link: '/en/Mods/HostOnly/' },
-                { text: 'AllClient Mod', link: '/en/Mods/AllClient/' }
+                { text: 'HostOnly', link: '/en/Mods/HostOnly/' },
+                { text: 'AllClient', link: '/en/Mods/AllClient/' }
             ]
           },
           { text: 'Authors', link: '/en/Authors/' },
