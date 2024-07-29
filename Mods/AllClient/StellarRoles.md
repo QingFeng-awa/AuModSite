@@ -1,11 +1,11 @@
 ---
-title: TheOtherRoles
+title: StellarRoles
 ---
-# TheOtherRoles
-![TheOtherRoles-BG](/Image/TheOtherRoles.png)
+# StellarRoles
+![StellarRoles-BG](/Image/StellarRoles.png)
 
 <div align="center">
-<h5>The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game.</h5>
+<h3>Among Us Mod StellarRoles.</h3>
 </div>
 
 <script setup>
@@ -35,15 +35,13 @@ const members = [
 > 由于TheOtherRoles仓库有16个贡献者,我不知道哪个是主创,故直接选择了TheOtherRoles组织唯一公开的成员。
 
 ## 版本
-- 最新正式版本: `v4.5.3`
+- 最新正式版本: `v1.4.4`
   - 发布于2024年5月15日,下午2:37
 - 支持Among Us版本:
     - 支持最新版本: `v2024.3.5`
     - 不支持的版本: `v2023.11.28`及更早版本。
 
 ## 相关链接
-[![官方网站](https://badgen.net/badge/Web/Site/3AA675)](http://theotherroles.de)
+[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/Mr-Fluuff/StellarRolesAU)
 
-[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/TheOtherRolesAU/TheOtherRoles)
-
-[![Discord服务器](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/77RkMJHWsM)
+[![Discord服务器](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/7UcvM9CFdY)

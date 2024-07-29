@@ -41,9 +41,5 @@ const members = [
     - 支持最新版本: `v2023.3.28`
     - 不支持的版本: `v2023.2.28`及更早版本。
 
-## 多语言支持性
-*尚不明确。*
-
 ## 相关链接
-
-- [模组GitHub](https://github.com/ItzLoonie/TownOfHostPlus)
+[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/ItzLoonie/TownOfHostPlus)

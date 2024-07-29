@@ -38,13 +38,5 @@ const members = [
     - 支持最新版本: `v2024.6.18`
     - 不支持的版本: `v2024.3.5`及更早版本。
 
-## 多语言支持性
-该模组目前支持以下语言:
-- 英语
-- 日语
-- 简体中文
-- 繁体中文
-
 ## 相关链接
-
-- [模组GitHub](https://github.com/Night-GUA/YuAntiCheat)
+[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/Night-GUA/YuAntiCheat)

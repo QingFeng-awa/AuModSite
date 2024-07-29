@@ -38,8 +38,6 @@ const members = [
 - 支持Among Us版本:
     - 支持最新版本: `v2021.6.30`
     - 不支持的版本: `v2021.6.15`
-## 多语言支持性
-该模组目前支持以下语言:
-- 英语
+
 ## 相关链接
-- [模组GitHub](https://github.com/scp222thj/MalumMenu)
+[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/slushiegoose/Town-Of-Us)

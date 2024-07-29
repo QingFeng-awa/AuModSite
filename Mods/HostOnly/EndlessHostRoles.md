@@ -38,16 +38,9 @@ const members = [
     - 支持最新版本: `2024.6.18`
     - 不支持的版本: `v2024.6.4`及更早版本。
 
-## 多语言支持性
-该模组目前支持以下语言:
-- 英语
-- 俄语
-- 韩语
-- 葡萄牙语
-- 简体中文
-
 ## 相关链接
+[![官方网站](https://badgen.net/badge/Web/Site/3AA675)](https://sites.google.com/view/ehr-au)
 
-- [模组官方网站](https://sites.google.com/view/ehr-au)
-- [模组GitHub](https://github.com/Gurge44/EndlessHostRoles)
-- [模组Discord](https://discord.gg/W5ug6hXB9V)
+[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/Gurge44/EndlessHostRoles)
+
+[![Discord服务器](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/W5ug6hXB9V)

@@ -3,6 +3,9 @@ title: 赞助
 ---
 # 赞助
 **赞助我们!得到赞助的我们能为你提供更好的服务。**
+
+<iframe src="https://afdian.com/leaflet?slug=aumodsite" width="640" scrolling="no" height="200" frameborder="0"></iframe>
+
 ## 为什么要赞助我们?
 “Among Us 模组档案” 是一个记录所有Among Us模组在GitHub上开源的网站。<br>
 我们创建这个网站的初衷是提供完全免费的内容(*那毕竟网站没法做什么特别的付费内容*),并在GitHub上开源。<br>
@@ -13,7 +16,8 @@ title: 赞助
 ## 赞助我们,您会得到什么?
 请您在赞助链接内查看。
 ## 如何赞助我们?
-请访问下方网址赞助我们。
-- <https://afdian.net/a/aumodsite>
-- <https://ifdian.net/a/aumodsite>
-- <https://afdian.com/a/aumodsite>
+请点击下方按钮访问赞助页面。
+
+<div align="center">
+<a href="https://afdian.com/a/aumodsite" target="_blank"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="https://afdian.com/a/aumodsite"></a>
+</div>

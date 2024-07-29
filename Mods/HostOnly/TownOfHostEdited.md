@@ -41,16 +41,9 @@ const members = [
     - 支持最新版本: *尚不明确,但它并不支持`v2024.6.18`及之后版本。*
     - 不支持的版本: *尚不明确。*
 
-## 多语言支持性
-该模组目前支持以下语言:
-- 英语
-- 俄语
-- 西班牙语
-- 简体中文
-- 繁体中文
-
 ## 相关链接
+[![官方网站](https://badgen.net/badge/Web/Site/3AA675)](https://tohe.cc)
 
-- [模组官方网站](https://tohe.cc)
-- [模组GitHub](https://github.com/KARPED1EM/TownOfNext/tree/TOHE)
-- [模组Discord](https://discord.gg/hkk2p9ggv4)
+[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/KARPED1EM/TownOfNext/tree/TOHE)
+
+[![Discord服务器](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/hkk2p9ggv4)

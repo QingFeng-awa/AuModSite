@@ -39,11 +39,7 @@ const members = [
     - 支持最新版本: `v2024.3.5`
     - 不支持的版本: `v2023.11.28`及更早版本。
 
-## 多语言支持性
-该模组目前支持以下语言:
-- 英语
-
 ## 相关链接
-- [模组官方网站](http://theotherroles.de)
-- [模组GitHub](https://github.com/TheOtherRolesAU/TheOtherRoles)
-- [模组Discord](https://discord.gg/77RkMJHWsM)
+[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/SuperNewRoles/SuperNewRoles)
+
+[![Discord服务器](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/77RkMJHWsM)

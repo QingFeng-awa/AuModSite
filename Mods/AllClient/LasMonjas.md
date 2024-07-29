@@ -37,13 +37,7 @@ const members = [
     - 支持最新版本: `v2024.3.5`
     - 不支持的版本: `v2023.11.28`及更早版本。
 
-## 多语言支持性
-该模组目前支持以下语言:
-- 英语
-- 西班牙语
-- 中文
-- 日文
-
 ## 相关链接
-- [模组GitHub](https://github.com/KiraYamato94/LasMonjas)
-- [模组Discord](https://discord.gg/UPCSqnD4NU)
+[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/KiraYamato94/LasMonjas)
+
+[![Discord服务器](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/UPCSqnD4NU)

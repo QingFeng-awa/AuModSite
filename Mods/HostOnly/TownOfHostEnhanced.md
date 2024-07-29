@@ -5,7 +5,7 @@ title: TownOfHostEnhanced
 ![TownOfHostEnhanced-BG](/Image/TownOfHostEnhanced.jpg)
 
 <div align="center">
-<h3>TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!</h3>
+<h5>TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!</h5>
 </div>
 
 <script setup>
@@ -38,27 +38,7 @@ const members = [
     - 支持最新版本: `v2024.6.18`
     - 不支持的版本: `v2024.6.4`及更早版本。
 
-## 多语言支持性
-该模组目前支持以下语言:
-- 英语
-- 俄语
-- 韩语
-- 拉丁美洲语
-- 葡萄牙语
-- 巴西语
-- 朝鲜语
-- 荷兰语
-- 菲律宾语
-- 法语
-- 德语
-- 意大利语
-- 日语
-- 西班牙语
-- 简体中文
-- 繁体中文
-- 爱尔兰语
-
 ## 相关链接
+[![官方网站](https://badgen.net/badge/Web/Site/3AA675)](https://tohre.dev)
 
-- [模组官方网站](https://tohre.dev)
-- [模组GitHub](https://github.com/0xDrMoe/TownofHost-Enhanced)
+[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/0xDrMoe/TownofHost-Enhanced)

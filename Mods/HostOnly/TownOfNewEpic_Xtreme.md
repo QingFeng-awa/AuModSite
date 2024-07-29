@@ -39,13 +39,9 @@ const members = [
     - 支持最新版本: `v2024.6.18`
     - 不支持的版本: `v2024.6.4`及更早版本。
 
-## 多语言支持性
-该模组目前支持以下语言:
-- 英语
-- 简体中文
-
 ## 相关链接
+[![官方网站](https://badgen.net/badge/Web/Site/3AA675)](https://tonex.cc)
 
-- [模组官方网站](https://tonex.cc)
-- [模组GitHub](https://github.com/XtremeWave/TownOfNewEpic_Xtreme)
-- [模组Discord](https://discord.gg/pMd4NMW6kV)
+[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/XtremeWave/TownOfNewEpic_Xtreme)
+
+[![Discord服务器](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/pMd4NMW6kV)
