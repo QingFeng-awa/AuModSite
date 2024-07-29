@@ -1,0 +1,25 @@
+name: Update Labels on Issue Close
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  update_labels:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Remove "状态:待处理" Label and Add "状态:已完成" Label
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPO: ${{ github.repository }}
+        ISSUE_NUMBER: ${{ github.event.issue.number }}
+      run: |
+        # 移除标签 "状态:待处理"
+        curl -X DELETE -H "Authorization: token $GITHUB_TOKEN" \
+          https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/labels/状态:待处理
+
+        # 添加标签 "状态:已完成"
+        curl -X POST -H "Authorization: token $GITHUB_TOKEN" -H "Content-Type: application/json" \
+          -d '{"labels": ["状态:已完成"]}' \
+          https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/labels
