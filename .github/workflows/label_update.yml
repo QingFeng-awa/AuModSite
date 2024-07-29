@@ -1,0 +1,45 @@
+name: Update Labels on Issue Close Based on Reason
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  update_labels:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Determine the Closing Reason
+      id: get_reason
+      run: |
+        COMMENT_BODY=$(jq -r '.issue.timeline | .[] | select(.event == "closed") | .body' "${GITHUB_EVENT_PATH}")
+        echo "comment_body=$COMMENT_BODY" >> $GITHUB_ENV
+
+    - name: Remove "状态:待处理" and Add Appropriate Label
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPO: ${{ github.repository }}
+        ISSUE_NUMBER: ${{ github.event.issue.number }}
+        COMMENT_BODY: ${{ env.comment_body }}
+      run: |
+        LABEL_TO_REMOVE=$(echo -n "状态:待处理" | jq -sRr @uri)
+        
+        if [[ "$COMMENT_BODY" == *"completed"* ]]; then
+          LABEL_TO_ADD="状态:已完成"
+        elif [[ "$COMMENT_BODY" == *"not planned"* ]]; then
+          LABEL_TO_ADD="暂不处理"
+        else
+          echo "Unknown reason for closing the issue, skipping label update."
+          exit 0
+        fi
+
+        LABEL_TO_ADD_ENCODED=$(echo -n "$LABEL_TO_ADD" | jq -sRr @uri)
+
+        # 移除标签 "状态:待处理"
+        curl -X DELETE -H "Authorization: token $GITHUB_TOKEN" \
+          "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/labels/$LABEL_TO_REMOVE"
+
+        # 添加相应的标签
+        curl -X POST -H "Authorization: token $GITHUB_TOKEN" -H "Content-Type: application/json" \
+          -d "{\"labels\": [\"$LABEL_TO_ADD\"]}" \
+          "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/labels"
