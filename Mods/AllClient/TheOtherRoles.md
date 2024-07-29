@@ -21,7 +21,7 @@ const members = [
     links: [
       { icon: 'github', link: 'https://github.com/whichtwix' },
     ]
-  },
+  }
 ]
 </script>
 

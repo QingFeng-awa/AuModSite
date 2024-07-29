@@ -7,10 +7,10 @@ hero:
   tagline: A website to record all mods and authors.
   actions:
     - theme: brand
-      text: Host Mod
+      text: HostOnly
       link: /en/Mods/HostOnly/
     - theme: brand
-      text: No Host Mod
+      text: AllClient
       link: /en/Mods/AllClient/
     - theme: brand
       text: Functional Plugin
