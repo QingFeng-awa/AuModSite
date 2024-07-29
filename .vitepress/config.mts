@@ -134,7 +134,7 @@ export default defineConfig({
               ]
             }
           ],
-          '/Mods/Functional/': [
+          '/en/Mods/Functional/': [
             {
               text: 'Functional',
               items: [
