@@ -103,8 +103,8 @@ export default defineConfig({
           {
             text: 'Mods',
             items: [
-                { text: 'Host Mod', link: '/en/Mods/HostOnly/' },
-                { text: 'All Client Mod', link: '/en/Mods/AllClient/' }
+                { text: 'HostOnly', link: '/en/Mods/HostOnly/' },
+                { text: 'AllClient', link: '/en/Mods/AllClient/' }
             ]
           },
           { text: 'Authors', link: '/en/Authors/' },
@@ -112,9 +112,9 @@ export default defineConfig({
           { text: 'Sponsorship', link: '/en/donate'}
         ],
         sidebar: {
-          '/en/Mods/Host/': [
+          '/en/Mods/HostOnly/': [
             {
-              text: 'Host Mod',
+              text: 'HostOnly',
               items: [
                   { text: 'TownOfHost', link: '/en/Mods/HostOnly/TownOfHost' },
                   { text: 'TownOfNewEpic_Xtreme', link: '/en/Mods/HostOnly/TownOfNewEpic_Xtreme'},
@@ -125,9 +125,9 @@ export default defineConfig({
               ]
             }
           ],
-          '/en/Mods/NoHost/': [
+          '/en/Mods/AllClient/': [
             {
-              text: 'No Host Mod',
+              text: 'AllClient',
               items: [
                   { text: 'TownOfUs', link: '/en/Mods/AllClient/TownOfUs' },
                   { text: 'TheOtherRoles', link: '/en/Mods/AllClient/TheOtherRoles' },
@@ -136,7 +136,7 @@ export default defineConfig({
           ],
           '/Mods/Functional/': [
             {
-              text: 'Functional Mods',
+              text: 'Functional',
               items: [
                 { text: 'YuAntiCheat', link: '/en/Mods/Functional/YuAntiCheat' },
               ]
