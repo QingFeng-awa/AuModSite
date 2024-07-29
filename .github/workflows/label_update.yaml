@@ -39,8 +39,3 @@ jobs:
         curl -X POST -H "Authorization: token $GITHUB_TOKEN" -H "Content-Type: application/json" \
           -d "{\"labels\": [\"$LABEL_TO_ADD\"]}" \
           "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/labels"
-
-        # 关闭 issue 并提供关闭原因
-        curl -X PATCH -H "Authorization: token $GITHUB_TOKEN" -H "Content-Type: application/json" \
-          -d "{\"state\": \"closed\", \"state_reason\": \"$CLOSE_REASON\"}" \
-          "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER"
