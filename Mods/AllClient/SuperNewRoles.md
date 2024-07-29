@@ -22,49 +22,7 @@ const members = [
       { icon: 'github', link: 'https://github.com/ykundesu' },
       { icon: 'x', link: 'https://x.com/ReYYYYoking'}
     ]
-  },
-  {
-    avatar: '/Image/UKONpeople.jpg',
-    name: 'UKON people',
-    title: '开发者',
-    org: 'SuperNewRoles',
-    orgLink: 'https://github.com/SuperNewRoles',
-    links: [
-      { icon: 'github', link: 'https://github.com/UKON256' },
-    ]
-  },
-  {
-    avatar: '/Image/KuratoTsukishiro.png',
-    name: 'Kurato_Tsukishiro',
-    title: '开发者',
-    org: 'SuperNewRoles',
-    orgLink: 'https://github.com/SuperNewRoles',
-    links: [
-      { icon: 'github', link: 'https://github.com/Kurato-Tsukishiro' },
-      { icon: 'x', link: 'https://twitter.com/Kurato_SNR7' },
-    ]
-  },
-  {
-    avatar: '/Image/Kuki.png',
-    name: 'Kuki',
-    title: '开发者',
-    org: 'SuperNewRoles',
-    orgLink: 'https://github.com/SuperNewRoles',
-    links: [
-      { icon: 'github', link: 'https://github.com/Kuki12345' },
-    ]
-  },
-  {
-    avatar: '/Image/Glaceon.jpg',
-    name: 'Glaceon',
-    title: '开发者',
-    org: 'SuperNewRoles',
-    orgLink: 'https://github.com/SuperNewRoles',
-    links: [
-      { icon: 'github', link: 'https://github.com/Glaceon-471' },
-      { icon: 'x', link: 'https://twitter.com/Glaceon_SNR11' },
-    ]
-  },
+  }
 ]
 </script>
 
