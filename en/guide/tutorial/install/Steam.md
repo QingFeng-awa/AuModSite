@@ -13,7 +13,7 @@ The **size of the installation package is small**, making it the recommended opt
 ### How to install mods using an installation package?
 This chapter will use **TownOfHostEnhanced** as a demonstration to guide you through the installation of mods.
 > [!NOTE] Skip part of the tutorial...
-> If you have already downloaded the mod you want to install, please start from step 2.
+> If you have already downloaded the mod you want to install, please start from step 5.
 1. Open the Github repository of the mod you want to install.
 > The name of the mod repository is usually the full name of the mod.<br>
 > Searching for `full name of the mod` + `GitHub` on [Bing](https://cn.bing.com) usually leads you to the mod you want.<br>
@@ -23,7 +23,7 @@ This chapter will use **TownOfHostEnhanced** as a demonstration to guide you thr
 3. You should be redirected to the latest official version of the mod you want to install. In this page, scroll down until you find the word `Assets`.
 ![Tutorial Image 2](/guide/SteamInstall2.png)
 4. Click the file with the `.zip` suffix. The browser will pop up a download page, please wait for it to finish downloading.
-5. After the download is complete, open the compressed package.
+5. After the download is complete, open the compressed package and extract it.
 > We will not elaborate on the use of compression software in this tutorial, please click the link to watch the tutorial video:<br>
 > [【Electronic Literacy Course】【Beginner Must-See】How to extract compressed files?](https://www.bilibili.com/video/BV1xZ4y1v7pU)
 6. After extracting the compressed package, open the Among Us root directory.
@@ -41,4 +41,13 @@ If it is not installed in the default path, please follow the following steps to
 5. Click `Manage` in the options that pop up.
 6. Click `Browse Local Files` in the secondary options that pop up.
 Afterwards, Steam will automatically open the Among Us root directory.
+![Opening Among Us Root Directory Tutorial](/guide/SteamInstalln1.png)
 :::
+7. Move the extracted mod files to the Among Us root directory.
+After completion, your Among Us root directory should look like this:
+![Overview of Installation Completion Directory](/guide/SteamInstall3.png)
+This marks the end of the installation.
+## Installing Mods Using Lazy Package
+Most mods no longer provide lazy packages, so I no longer provide lazy package installation tutorials.<br>
+I prefer that players have the ability to solve problems on their own rather than constantly seeking `lazy packages`, `installation programs`, and other `lazy` things.<br>
+This is not about **suffering in vain**, but rather a great opportunity for practice.

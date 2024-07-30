@@ -117,7 +117,7 @@ export default defineConfig({
             ]
           },
           { text: 'Authors', link: '/en/Authors/' },
-          { text: 'Tutorials', link: '/en/guide/'},
+          { text: 'Guide', link: '/en/guide/'},
           { text: 'Contributing', link: '/en/Contributing'},
           { text: 'Sponsorship', link: '/en/donate'},
         ],
@@ -140,7 +140,7 @@ export default defineConfig({
               text: 'FAQ',
               collapsed: true,
               items: [
-                {text: '',link: '/en/guide/FAQ/……'}
+                {text: 'Cannot open github',link: '/en/guide/FAQ/GithubError'}
               ]
             }
           ],

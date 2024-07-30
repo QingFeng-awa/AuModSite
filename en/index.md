@@ -18,9 +18,12 @@ hero:
     - theme: brand
       text: Author
       link: /en/Authors/
+    - theme: brand
+      text: Guide
+      link: /en/guide/
     - theme: alt
       text: Contributing
-      link: /Contributing
+      link: /en/Contributing
 features:
   - icon: 🌿
     title: TownOfNext
