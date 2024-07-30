@@ -82,6 +82,8 @@ export default defineConfig({
                 { text: 'StellarRoles', link: '/Mods/AllClient/StellarRoles' },
                 { text: 'Nebula on the Ship', link: '/Mods/AllClient/NebulaOnTheShip' },
                 { text: 'TownOfUsR', link: '/Mods/AllClient/TownOfUsR' },
+                { text: 'StellarRoles', link: '/Mods/AllClient/StellarRoles' },
+                { text: 'AllTheRoles', link: '/Mods/AllClient/AllTheRoles' },
               ]
             },
             {
