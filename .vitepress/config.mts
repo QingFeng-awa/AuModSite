@@ -26,10 +26,33 @@ export default defineConfig({
             ]
           },
           { text: '作者', link: '/Authors/' },
+          { text: '教程', link: '/guide/'},
           { text: '贡献', link: '/Contributing'},
           { text: '赞赏', link: '/donate'}
         ],
         sidebar: {
+          '/guide/': [
+            {
+              text: '教程',
+              collapsed: false,
+              items: [
+                {
+                  text: '模组安装',
+                  collapsed: false,
+                  items: [
+                    {text: 'Steam安装模组',link: '/guide/tutorial/install/Steam'}
+                  ]
+                },
+              ]
+            },
+            {
+              text: '疑难',
+              collapsed: true,
+              items: [
+                {text: '',link: '/guide/FAQ/……'}
+              ]
+            }
+          ],
           '/Mods/HostOnly/': [
             {
               text: 'H系模组',

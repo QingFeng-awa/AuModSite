@@ -13,13 +13,13 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: '/Image/twix.png',
-    name: 'twix',
+    avatar: '/Image/bavari.jpg',
+    name: 'bavari',
     title: '开发者',
     org: 'The Other Roles',
     orgLink: 'https://github.com/TheOtherRolesAU',
     links: [
-      { icon: 'github', link: 'https://github.com/whichtwix' },
+      { icon: 'github', link: 'https://github.com/dwd0tcom' },
     ]
   }
 ]
