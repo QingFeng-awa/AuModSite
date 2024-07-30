@@ -36,10 +36,8 @@ const members = [
 - 最新正式版本: `v2.3`
   - 发布于2024年6月14日,下午11:32
 - 支持Among Us版本:
-    - 支持最新版本: `v2024.6.18`
-    - 不支持的版本: `v2024.6.4`及更早版本。
+    - 支持最新版本: `v2024.3.5`
+    - 不支持的版本: `v2023.11.28`及更早版本。
 
 ## 相关链接
-[![官方网站](https://badgen.net/badge/Web/Site/3AA675)](https://tohre.dev)
-
-[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/0xDrMoe/TownofHost-Enhanced)
+[![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/xprogamer008/TheOtherHostRoles)

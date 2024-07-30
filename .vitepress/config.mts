@@ -67,6 +67,7 @@ export default defineConfig({
                   { text: 'TownOfPuls', link: '/Mods/HostOnly/TownOfPuls'},
                   { text: 'TownOfHost_Y', link: '/Mods/HostOnly/TownOfHost_Y'},
                   { text: 'TownOfChaos', link: '/Mods/HostOnly/TownOfChaos' },
+                  { text: 'TheOtherHostRoles', link: '/Mods/HostOnly/TheOtherHostRoles' },
               ]
             }
           ],
