@@ -2,7 +2,7 @@
 title: 安装
 ---
 
-# INSTALLATION
+# 安装
 
 <br>
 <details>
