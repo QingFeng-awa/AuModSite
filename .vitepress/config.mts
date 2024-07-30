@@ -27,7 +27,8 @@ export default defineConfig({
           },
           { text: '作者', link: '/Authors/' },
           { text: '贡献', link: '/Contributing'},
-          { text: '赞赏', link: '/donate'}
+          { text: '赞赏', link: '/donate'},
+          { text: '安装', link: '/Install'}
         ],
         sidebar: {
           '/Mods/HostOnly/': [
@@ -99,7 +100,7 @@ export default defineConfig({
         }
       }
     },
-    /*en: {
+    en: {
       label: 'English',
       lang: 'en-US',
       link: '/en/',
@@ -118,7 +119,8 @@ export default defineConfig({
           },
           { text: 'Authors', link: '/en/Authors/' },
           { text: 'Contributing', link: '/en/Contributing'},
-          { text: 'Sponsorship', link: '/en/donate'}
+          { text: 'Sponsorship', link: '/en/donate'},
+          { text: 'Install', link: '/en/Install/'}
         ],
         sidebar: {
           '/en/Mods/HostOnly/': [
@@ -180,7 +182,7 @@ export default defineConfig({
           }
         }
       }
-    }*/
+    }
   },
   themeConfig: {
     logo: '/favicon.ico',
