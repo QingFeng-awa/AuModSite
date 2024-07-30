@@ -2,7 +2,7 @@
 title: LasMonjas
 ---
 # LasMonjas
-![LasMonjas-BG](/Image/LasMonjas_banner.png)
+![LasMonjas-BG](/Image/LasMonjas.png)
 
 <div align="center">
 <h3>Among Us Mod with many roles and gamemodes.</h3>
