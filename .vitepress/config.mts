@@ -44,6 +44,7 @@ export default defineConfig({
                   //{ text: 'TownOfHostEditedXi', link: '/Mods/HostOnly/TownOfHostEditedXi'},
                   { text: 'TownOfPuls', link: '/Mods/HostOnly/TownOfPuls'},
                   { text: 'TownOfHost_Y', link: '/Mods/HostOnly/TownOfHost_Y'},
+                  { text: 'TownOfChaos', link: '/Mods/HostOnly/TownOfChaos' },
               ]
             }
           ],
@@ -98,7 +99,7 @@ export default defineConfig({
         }
       }
     },
-    en: {
+    /*en: {
       label: 'English',
       lang: 'en-US',
       link: '/en/',
@@ -179,7 +180,7 @@ export default defineConfig({
           }
         }
       }
-    }
+    }*/
   },
   themeConfig: {
     logo: '/favicon.ico',
