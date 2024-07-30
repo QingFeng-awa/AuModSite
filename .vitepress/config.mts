@@ -54,7 +54,10 @@ export default defineConfig({
                   { text: 'TownOfUs', link: '/Mods/AllClient/TownOfUs' },
                   { text: 'TheOtherRoles', link: '/Mods/AllClient/TheOtherRoles' },
                   { text: 'SuperNewRoles', link: '/Mods/AllClient/SuperNewRoles' },
-                  { text: 'LasMonjas', link: '/Mods/AllClient/LasMonjas' }
+                  { text: 'LasMonjas', link: '/Mods/AllClient/LasMonjas' },
+                  { text: 'StellarRoles', link: '/Mods/AllClient/StellarRoles' },
+                  { text: 'Nebula on the Ship', link: '/Mods/AllClient/NebulaOnTheShip' },
+                  { text: 'TownOfUsR', link: '/Mods/AllClient/TownOfUsR' },
               ]
             }
           ],
