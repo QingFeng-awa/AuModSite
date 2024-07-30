@@ -28,7 +28,6 @@ export default defineConfig({
           { text: '作者', link: '/Authors/' },
           { text: '贡献', link: '/Contributing'},
           { text: '赞赏', link: '/donate'},
-          { text: '安装', link: '/Install'}
         ],
         sidebar: {
           '/Mods/HostOnly/': [
@@ -120,7 +119,6 @@ export default defineConfig({
           { text: 'Authors', link: '/en/Authors/' },
           { text: 'Contributing', link: '/en/Contributing'},
           { text: 'Sponsorship', link: '/en/donate'},
-          { text: 'Install', link: '/en/Install/'}
         ],
         sidebar: {
           '/en/Mods/HostOnly/': [
@@ -133,6 +131,11 @@ export default defineConfig({
                   { text: 'TownOfHostPlus', link: '/en/Mods/HostOnly/TownOfHostPlus'},
                   { text: 'TownOfNext', link: '/en/Mods/HostOnly/TownOfNext'},
                   { text: 'TownOfHostEnhanced', link: '/en/Mods/HostOnly/TownOfHostEnhanced'},
+                  { text: 'EndlessHostRoles', link: '/en/Mods/HostOnly/EndlessHostRoles'},
+                  //{ text: 'TownOfHostEditedXi', link: '/Mods/HostOnly/TownOfHostEditedXi'},
+                  { text: 'TownOfPuls', link: '/en/Mods/HostOnly/TownOfPuls'},
+                  { text: 'TownOfHost_Y', link: '/en/Mods/HostOnly/TownOfHost_Y'},
+                  { text: 'TownOfChaos', link: '/en/Mods/HostOnly/TownOfChaos' },
               ]
             }
           ],
@@ -142,8 +145,11 @@ export default defineConfig({
               items: [
                   { text: 'TownOfUs', link: '/en/Mods/AllClient/TownOfUs' },
                   { text: 'TheOtherRoles', link: '/en/Mods/AllClient/TheOtherRoles' },
-                  { text: 'SuperNewRoles', link: '/Mods/AllClient/SuperNewRoles' },
-                  { text: 'LasMonjas', link: '/Mods/AllClient/LasMonjas' },
+                  { text: 'SuperNewRoles', link: '/en/Mods/AllClient/SuperNewRoles' },
+                  { text: 'LasMonjas', link: '/en/Mods/AllClient/LasMonjas' },
+                  { text: 'StellarRoles', link: '/en/Mods/AllClient/StellarRoles' },
+                  { text: 'Nebula on the Ship', link: '/en/Mods/AllClient/NebulaOnTheShip' },
+                  { text: 'TownOfUsR', link: '/en/Mods/AllClient/TownOfUsR' },
               ]
             }
           ],
@@ -151,7 +157,8 @@ export default defineConfig({
             {
               text: 'Functional',
               items: [
-                { text: 'YuAntiCheat', link: '/en/Mods/Functional/YuAntiCheat' }
+                { text: 'YuAntiCheat', link: '/en/Mods/Functional/YuAntiCheat' },
+                { text: 'MalumMenu', link: '/en/Mods/Functional/MalumMenu' },
               ]
             }
           ],
