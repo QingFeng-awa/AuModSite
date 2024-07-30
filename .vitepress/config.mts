@@ -64,7 +64,6 @@ export default defineConfig({
                   { text: 'TownOfNext', link: '/Mods/HostOnly/TownOfNext'},
                   { text: 'TownOfHostEnhanced', link: '/Mods/HostOnly/TownOfHostEnhanced'},
                   { text: 'EndlessHostRoles', link: '/Mods/HostOnly/EndlessHostRoles'},
-                  //{ text: 'TownOfHostEditedXi', link: '/Mods/HostOnly/TownOfHostEditedXi'},
                   { text: 'TownOfPuls', link: '/Mods/HostOnly/TownOfPuls'},
                   { text: 'TownOfHost_Y', link: '/Mods/HostOnly/TownOfHost_Y'},
                   { text: 'TownOfChaos', link: '/Mods/HostOnly/TownOfChaos' },
@@ -163,7 +162,6 @@ export default defineConfig({
               text: 'FAQ',
               collapsed: true,
               items: [
-                {text: 'Cannot open github',link: '/en/guide/FAQ/GithubError'}
               ]
             }
           ],
@@ -178,7 +176,6 @@ export default defineConfig({
                   { text: 'TownOfNext', link: '/en/Mods/HostOnly/TownOfNext'},
                   { text: 'TownOfHostEnhanced', link: '/en/Mods/HostOnly/TownOfHostEnhanced'},
                   { text: 'EndlessHostRoles', link: '/en/Mods/HostOnly/EndlessHostRoles'},
-                  //{ text: 'TownOfHostEditedXi', link: '/Mods/HostOnly/TownOfHostEditedXi'},
                   { text: 'TownOfPuls', link: '/en/Mods/HostOnly/TownOfPuls'},
                   { text: 'TownOfHost_Y', link: '/en/Mods/HostOnly/TownOfHost_Y'},
                   { text: 'TownOfChaos', link: '/en/Mods/HostOnly/TownOfChaos' },
