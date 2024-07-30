@@ -53,41 +53,40 @@ export default defineConfig({
               ]
             }
           ],
-          '/Mods/HostOnly/': [
+          '/Mods/': [
             {
               text: 'H系模组',
-              items: [
-                  { text: 'TownOfHost', link: '/Mods/HostOnly/TownOfHost' },
-                  { text: 'TownOfNewEpic_Xtreme', link: '/Mods/HostOnly/TownOfNewEpic_Xtreme'},
-                  { text: 'TownOfHostEdited', link: '/Mods/HostOnly/TownOfHostEdited'},
-                  { text: 'TownOfHostPlus', link: '/Mods/HostOnly/TownOfHostPlus'},
-                  { text: 'TownOfNext', link: '/Mods/HostOnly/TownOfNext'},
-                  { text: 'TownOfHostEnhanced', link: '/Mods/HostOnly/TownOfHostEnhanced'},
-                  { text: 'EndlessHostRoles', link: '/Mods/HostOnly/EndlessHostRoles'},
-                  { text: 'TownOfPuls', link: '/Mods/HostOnly/TownOfPuls'},
-                  { text: 'TownOfHost_Y', link: '/Mods/HostOnly/TownOfHost_Y'},
-                  { text: 'TownOfChaos', link: '/Mods/HostOnly/TownOfChaos' },
-                  { text: 'TheOtherHostRoles', link: '/Mods/HostOnly/TheOtherHostRoles' },
+              collapsed: false,
+              items:[
+                { text: 'TownOfHost', link: '/Mods/HostOnly/TownOfHost' },
+                { text: 'TownOfNewEpic_Xtreme', link: '/Mods/HostOnly/TownOfNewEpic_Xtreme'},
+                { text: 'TownOfHostEdited', link: '/Mods/HostOnly/TownOfHostEdited'},
+                { text: 'TownOfHostPlus', link: '/Mods/HostOnly/TownOfHostPlus'},
+                { text: 'TownOfNext', link: '/Mods/HostOnly/TownOfNext'},
+                { text: 'TownOfHostEnhanced', link: '/Mods/HostOnly/TownOfHostEnhanced'},
+                { text: 'EndlessHostRoles', link: '/Mods/HostOnly/EndlessHostRoles'},
+                { text: 'TownOfPuls', link: '/Mods/HostOnly/TownOfPuls'},
+                { text: 'TownOfHost_Y', link: '/Mods/HostOnly/TownOfHost_Y'},
+                { text: 'TownOfChaos', link: '/Mods/HostOnly/TownOfChaos' },
+                { text: 'TheOtherHostRoles', link: '/Mods/HostOnly/TheOtherHostRoles' },
               ]
-            }
-          ],
-          '/Mods/AllClient/': [
+            },
             {
               text: '全客户端系模组',
+              collapsed: false,
               items: [
-                  { text: 'TownOfUs', link: '/Mods/AllClient/TownOfUs' },
-                  { text: 'TheOtherRoles', link: '/Mods/AllClient/TheOtherRoles' },
-                  { text: 'SuperNewRoles', link: '/Mods/AllClient/SuperNewRoles' },
-                  { text: 'LasMonjas', link: '/Mods/AllClient/LasMonjas' },
-                  { text: 'StellarRoles', link: '/Mods/AllClient/StellarRoles' },
-                  { text: 'Nebula on the Ship', link: '/Mods/AllClient/NebulaOnTheShip' },
-                  { text: 'TownOfUsR', link: '/Mods/AllClient/TownOfUsR' },
+                { text: 'TownOfUs', link: '/Mods/AllClient/TownOfUs' },
+                { text: 'TheOtherRoles', link: '/Mods/AllClient/TheOtherRoles' },
+                { text: 'SuperNewRoles', link: '/Mods/AllClient/SuperNewRoles' },
+                { text: 'LasMonjas', link: '/Mods/AllClient/LasMonjas' },
+                { text: 'StellarRoles', link: '/Mods/AllClient/StellarRoles' },
+                { text: 'Nebula on the Ship', link: '/Mods/AllClient/NebulaOnTheShip' },
+                { text: 'TownOfUsR', link: '/Mods/AllClient/TownOfUsR' },
               ]
-            }
-          ],
-          '/Mods/Functional/': [
+            },
             {
               text: '功能性插件',
+              collapsed: false,
               items: [
                 { text: 'YuAntiCheat', link: '/Mods/Functional/YuAntiCheat' },
                 { text: 'MalumMenu', link: '/Mods/Functional/MalumMenu' },
