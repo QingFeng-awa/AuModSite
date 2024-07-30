@@ -117,10 +117,33 @@ export default defineConfig({
             ]
           },
           { text: 'Authors', link: '/en/Authors/' },
+          { text: 'Tutorials', link: '/en/guide/'},
           { text: 'Contributing', link: '/en/Contributing'},
           { text: 'Sponsorship', link: '/en/donate'},
         ],
         sidebar: {
+          '/en/guide/': [
+            {
+              text: 'Tutorials',
+              collapsed: false,
+              items: [
+                {
+                  text: 'Mod Install',
+                  collapsed: false,
+                  items: [
+                    {text: 'Steam Install Mod',link: '/en/guide/tutorial/install/Steam'}
+                  ]
+                },
+              ]
+            },
+            {
+              text: 'FAQ',
+              collapsed: true,
+              items: [
+                {text: '',link: '/en/guide/FAQ/……'}
+              ]
+            }
+          ],
           '/en/Mods/HostOnly/': [
             {
               text: 'HostOnly',
