@@ -8,11 +8,11 @@ title: 安装
 <details>
 <summary><b>安装模组至</font>Steam</font></b></summary>
 
-1. 先找到你想安装的模组，比如 `TONEX.zip`
+1. 先找到你想安装的模组，比如`TONEX.zip`
 
-2. 下载完成后，打开压缩包，其窗口禁止在后台
+2. 下载完成后，打开压缩包，其窗口静止在后台
 
-3. 找到你安装的 Among Us根目录。例如，如果你在 Steam 上拥有该游戏，那么你可以右键单击游戏库中的游戏，选择 "管理"，最后选择 "浏览本地文件"。<br>
+3. 找到你安装的 Among Us 的根目录。在 Steam 上，你可以打开 Among Us 的库，点击“设置”，选择“管理”，最后选择“浏览本地文件”<br>
 ![image](/Image/SteamGetFolder.png)
 
 4. 然后把压缩包里面的所有文件解压至 Among Us 根目录
