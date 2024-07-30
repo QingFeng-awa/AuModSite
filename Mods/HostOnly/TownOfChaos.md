@@ -30,8 +30,8 @@ const members = [
 <!--<div align="center">
 <VPTeamMembers size="small" :members="members" />
 </div>-->
-> [!CAUTION] 无法提供作者信息
-> TownOfChaos的README我看不懂。
+> [!CAUTION] 无法显示作者
+> 我们不接受只提供YouTube链接的作者。
 
 ## 版本
 - 最新正式版本: `v3.4`
