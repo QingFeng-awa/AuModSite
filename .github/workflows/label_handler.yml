@@ -16,14 +16,14 @@ jobs:
         ISSUE_NUMBER: ${{ github.event.issue.number }}
         COMMENT_BODY: ${{ github.event.comment.body }}
       run: |
+        echo "Comment Body: $COMMENT_BODY"  # 输出评论内容以供调试
+        
         LABEL_TO_REMOVE=$(echo -n "状态:待处理" | jq -sRr @uri)
         
         if [[ "$COMMENT_BODY" == "/f-issue" ]]; then
           LABEL_TO_ADD="暂不处理"
-          CLOSE_REASON="not planned"
         elif [[ "$COMMENT_BODY" == "/d-issue" ]]; then
           LABEL_TO_ADD="状态:已完成"
-          CLOSE_REASON="completed"
         else
           echo "No relevant command found, skipping action."
           exit 0
