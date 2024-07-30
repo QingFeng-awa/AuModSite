@@ -26,7 +26,7 @@ export default defineConfig({
             ]
           },
           { text: '作者', link: '/Authors/' },
-          { text: '教程', link: '/guide/'},
+          { text: '指南', link: '/guide/'},
           { text: '贡献', link: '/Contributing'},
           { text: '赞赏', link: '/donate'}
         ],
@@ -49,7 +49,7 @@ export default defineConfig({
               text: '疑难',
               collapsed: true,
               items: [
-                {text: '',link: '/guide/FAQ/……'}
+                {text: '无法打开github.com',link: '/guide/FAQ/GithubError'}
               ]
             }
           ],

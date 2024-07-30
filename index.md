@@ -18,6 +18,9 @@ hero:
     - theme: brand
       text: 作者
       link: /Authors/
+    - theme: brand
+      text: 教程
+      link: /guide/
     - theme: alt
       text: 贡献
       link: /Contributing
