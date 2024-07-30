@@ -33,16 +33,11 @@ const members = [
 </div>
 
 ## Versions
-- Latest stable version: `v2.2.1`
-  - Released on August 6, 2021, at 8:30 AM (GMT +8)
+- Latest version: `v2.2.1`
+  - Released on August 6, 2021, 8:30 AM (GMT +8)
 - Supported Among Us versions:
     - Latest supported version: `v2021.6.30`
-    - Unsupported versions: `v2021.6.15` and earlier versions.
-
-## Language Support
-The mod currently supports the following languages:
-- English
+    - Unsupported versions: `v2021.6.15`
 
 ## Links
-- [Mod GitHub](https://github.com/slushiegoose/Town-Of-Us)
-- [Mod Discord](https://discord.gg/polus)
+[![Github](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/slushiegoose/Town-Of-Us)

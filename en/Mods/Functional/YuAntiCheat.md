@@ -36,15 +36,7 @@ const members = [
   - Released on 19 July 2024, 7:52 PM(GMT +8)
 - Support Among Us version:
     - Support latest version: `v2024.6.18`
-    - Unsupported versions: *Unclear.*
-
-## Language Support
-- English
-- Japanese
-- Simplified Chinese
-- Traditional Chinese
-
+    - Unsupported versions: *v2024.6.4` and earlier versions*
 
 ## Links
-
-- [Mod GitHub](https://github.com/Night-GUA/YuAntiCheat)
+[![Github](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/Night-GUA/YuAntiCheat)

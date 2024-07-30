@@ -31,37 +31,14 @@ const members = [
 <VPTeamMembers size="small" :members="members" />
 </div>
 
-> [!NOTE] Note
-> Since the TownOfHostEnhanced repository has 26 contributors, I cannot list them all here. Therefore, I will only list the GitHub repository creator.
-
 ## Version
-- Latest version: `v1.6.0`
-  - Released on 26 April 2024, 4:00 AM (GMT +8) 
+- Latest version: `v2.0.0`
+  - Released on 28 July 2024, 2:27 AM (GMT +8) 
 - Support Among Us version:
-    - Support latest version: *Unclear, but it does not support `v2024.6.18` and later versions.*
-    - Unsupported versions: *Unclear.*
-
-## Language Support
-The mod currently supports the following languages:
-- English
-- Russian
-- Korean
-- Latin America
-- Portuguese
-- Brazilian
-- Korean
-- Dutch
-- Filipino
-- French
-- German
-- Italian
-- Japanese
-- Spanish
-- Simplified Chinese
-- Traditional Chinese
-- Irish
+    - Support latest version: `v2024.6.18
+    - Unsupported versions: `v2024.6.4` and earlier versions
 
 ## Links
+[![Website](https://badgen.net/badge/Web/Site/3AA675)](https://tohre.dev)
 
-- [Mod WebSite](https://tohre.dev)
-- [Mod GitHub](https://github.com/0xDrMoe/TownofHost-Enhanced)
+[![Github](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/0xDrMoe/TownofHost-Enhanced)
