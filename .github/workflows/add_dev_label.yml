@@ -1,29 +1,25 @@
-name: Issue Command Handler
+name: Add Dev Label on Comment
 
 on:
   issue_comment:
     types: [created]
 
 jobs:
-  handle_comment:
+  add_dev_label:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Check for Command and Set Labels
+    - name: Check for /dev Command and Add Label
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPO: ${{ github.repository }}
         ISSUE_NUMBER: ${{ github.event.issue.number }}
         COMMENT_BODY: ${{ github.event.comment.body }}
       run: |
-        LABEL_TO_REMOVE=$(echo -n "状态:待处理" | jq -sRr @uri)
+        echo "Comment Body: $COMMENT_BODY"  # 输出评论内容以供调试
         
-        if [[ "$COMMENT_BODY" == "/f-issue" ]]; then
-          LABEL_TO_ADD="暂不处理"
-          CLOSE_REASON="not planned"
-        elif [[ "$COMMENT_BODY" == "/d-issue" ]]; then
-          LABEL_TO_ADD="状态:已完成"
-          CLOSE_REASON="completed"
+        if [[ "$COMMENT_BODY" == "/dev" ]]; then
+          LABEL_TO_ADD="dev"
         else
           echo "No relevant command found, skipping action."
           exit 0
@@ -31,11 +27,7 @@ jobs:
 
         LABEL_TO_ADD_ENCODED=$(echo -n "$LABEL_TO_ADD" | jq -sRr @uri)
 
-        # 移除标签 "状态:待处理"
-        curl -X DELETE -H "Authorization: token $GITHUB_TOKEN" \
-          "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/labels/$LABEL_TO_REMOVE"
-
-        # 添加相应的标签
+        # 添加标签 "dev"
         curl -X POST -H "Authorization: token $GITHUB_TOKEN" -H "Content-Type: application/json" \
           -d "{\"labels\": [\"$LABEL_TO_ADD\"]}" \
           "https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER/labels"
