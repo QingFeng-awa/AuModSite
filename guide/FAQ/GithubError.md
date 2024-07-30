@@ -10,7 +10,7 @@ title: 无法打开github.com
 Watt Toolkit是一个开源跨平台的多功能Steam工具箱。<br>
 Watt Toolkit不仅可以加速GitHub,也可以加速Steam、Epic等网站/软件。<br>
 [Watt Toolkit on Microsoft Store](https://apps.microsoft.com/detail/9mtcfhs560ng)
-> [NOTE] 部分系统不适用
+> [!NOTE] 部分系统不适用
 > Windows 7不支持Watt Toolkit Microsoft Store版本。<br>
 > Windows 10 17763以下版本不支持Watt Toolkit Microsoft Store版本。<br>
 > 请使用[Watt Toolkit在Gitee的镜像仓库](https://gitee.com/rmbgame/SteamTools)下载Watt Toolkit。
