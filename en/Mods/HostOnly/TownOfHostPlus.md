@@ -41,9 +41,6 @@ const members = [
     - Support latest version: `v2023.3.28`
     - Unsupported versions: `v2023.2.28` and earlier versions.
 
-## Language Support
-*Unclear.*
-
 ## Links
 
-- [Mod GitHub](https://github.com/ItzLoonie/TownOfHostPlus)
+[![Github](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/ItzLoonie/TownOfHostPlus)

@@ -41,16 +41,9 @@ const members = [
     - Support latest version: *Unclear, but it does not support `v2024.6.18` and later versions.*
     - Unsupported versions: *Unclear.*
 
-## Language Support
-The mod currently supports the following languages:
-- English
-- Russian
-- Braziln
-- Simplified Chinese
-- Traditional Chinese
-
 ## Links
+[![Website](https://badgen.net/badge/Web/Site/3AA675)](https://tohe.cc)
 
-- [Mod WebSite](https://tohe.cc)
-- [Mod GitHub](https://github.com/KARPED1EM/TownOfNext/tree/TOHE)
-- [Mod Discord](https://discord.gg/hkk2p9ggv4)
+[![Github](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/KARPED1EM/TownOfNext/tree/TOHE)
+
+[![Discord](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/hkk2p9ggv4)

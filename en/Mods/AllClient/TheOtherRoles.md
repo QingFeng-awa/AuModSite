@@ -38,11 +38,9 @@ const members = [
     - Support latest version: `v2024.3.5`
     - Unsupported versions: `v2023.11.28` and earlier versions.
 
-## Language Support
-The mod currently supports the following languages:
-- English
-
 ## Links
-- [Mod Website](http://theotherroles.de)
-- [Mod GitHub](https://github.com/TheOtherRolesAU/TheOtherRoles)
-- [Mod Discord](https://discord.gg/77RkMJHWsM)
+[![Website](https://badgen.net/badge/Web/Site/3AA675)](http://theotherroles.de)
+
+[![Github](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/TheOtherRolesAU/TheOtherRoles)
+
+[![Discord](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/77RkMJHWsM)

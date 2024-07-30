@@ -8,6 +8,9 @@ title: TownOfNext
 <h3>An AmongUs mod with learning & love.</h3>
 </div>
 
+> [!WARNING] Archived mod
+> The author of this mod has declared that it will no longer be updated.
+
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
 
@@ -37,15 +40,7 @@ const members = [
     - Support latest version: *Unclear, but it does not support versions `v2024.6.18` and later.*
     - Unsupported versions: *Unclear.*
 
-## Language Support
-The mod currently supports the following languages:
-- Polish
-- English
-- Russian
-- Simplified Chinese
-- Traditional Chinese
-
 ## Links
+[![Website](https://badgen.net/badge/Web/Site/3AA675)](https://tonx.cc)
 
-- [Mod WebSite](https://tonx.cc)
-- [Mod GitHub](https://github.com/KARPED1EM/TownOfNext)
+[![Github](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/KARPED1EM/TownOfNext)
