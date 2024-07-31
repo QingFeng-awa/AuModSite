@@ -30,6 +30,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: '首页', link: '/' },
+          { text: '关于', link: '/about' },
           {
             text: '模组',
             items: [
@@ -38,7 +39,6 @@ export default defineConfig({
               { text: '功能性模组', link: '/Mods/Functional/' }
             ]
           },
-          { text: '作者', link: '/Authors/' },
           { text: '指南', link: '/guide/'},
           { text: '贡献', link: '/Contributing'},
           { text: '赞赏', link: '/donate'},

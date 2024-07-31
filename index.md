@@ -7,6 +7,12 @@ hero:
   tagline: 一个记录所有模组与作者的网站。
   actions:
     - theme: brand
+      text: 教程
+      link: /guide/
+    - theme: alt
+      text: 关于
+      link: /about
+    - theme: brand
       text: H系模组
       link: /Mods/HostOnly/
     - theme: brand
@@ -15,12 +21,6 @@ hero:
     - theme: brand
       text: 功能性插件
       link: /Mods/Functional/
-    - theme: brand
-      text: 作者
-      link: /Authors/
-    - theme: brand
-      text: 教程
-      link: /guide/
     - theme: alt
       text: 赞赏
       link: /donate
