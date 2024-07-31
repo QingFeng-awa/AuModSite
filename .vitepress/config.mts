@@ -50,7 +50,7 @@ export default defineConfig({
               text: '疑难',
               collapsed: true,
               items: [
-                {text: '无法打开github.com',link: '/guide/FAQ/GithubError'}
+                {text: '无法打开github.com',link: '/guide/FAQ/GithubTimeOut'}
               ]
             }
           ],

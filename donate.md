@@ -6,6 +6,25 @@ title: 赞助
 
 <iframe src="https://afdian.com/leaflet?slug=aumodsite" width="640" scrolling="no" height="200" frameborder="0"></iframe>
 
+<script setup>
+import { VPTeamMembers } from 'vitepress/theme'
+
+const members = [
+  {
+    avatar: '/Image/Slok7565.png',
+    name: 'Slok7565',
+    title: '赞助了QingFeng 100元',
+  },
+  {
+    avatar: 'https://pic1.afdiancdn.com/default/avatar/avatar-purple.png',
+    name: '爱发电用户_29fa4',
+    title: '赞助了QingFeng 5元',
+  }
+]
+</script>
+
+<VPTeamMembers size="small" :members="members" />
+
 ## 为什么要赞助我们?
 “Among Us 模组档案” 是一个记录所有Among Us模组在GitHub上开源的网站。<br>
 我们创建这个网站的初衷是提供完全免费的内容(*那毕竟网站没法做什么特别的付费内容*),并在GitHub上开源。<br>

@@ -37,7 +37,7 @@ const members = [
   - 发布于2021年8月6日,上午8:30
 - 支持Among Us版本:
     - 支持最新版本: `v2021.6.30`
-    - 不支持的版本: `v2021.6.15`
+    - 不支持的版本: `v2021.6.15`及更早版本。
 
 ## 相关链接
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/slushiegoose/Town-Of-Us)
