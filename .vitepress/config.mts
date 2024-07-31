@@ -40,7 +40,8 @@ export default defineConfig({
                   text: '模组安装',
                   collapsed: false,
                   items: [
-                    {text: 'Steam安装模组',link: '/guide/tutorial/install/Steam'}
+                    {text: 'Steam安装模组',link: '/guide/tutorial/install/Steam'},
+                    {text: 'Epic安装模组',link: '/guide/tutorial/install/Epic'}
                   ]
                 },
               ]
