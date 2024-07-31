@@ -22,8 +22,8 @@ hero:
       text: 教程
       link: /guide/
     - theme: alt
-      text: 贡献
-      link: /Contributing
+      text: 赞赏
+      link: /donate
 features:
   - icon: 🌿
     title: TownOfNext
