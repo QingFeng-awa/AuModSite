@@ -91,7 +91,7 @@ export default defineConfig({
               text: '功能性插件',
               collapsed: false,
               items: [
-                { text: 'YuAntiCheat', link: '/Mods/Functional/YuAntiCheat' },
+                { text: 'YuEzTools', link: '/Mods/Functional/YuEzTools' },
                 { text: 'MalumMenu', link: '/Mods/Functional/MalumMenu' },
               ]
             }
