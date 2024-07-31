@@ -6,12 +6,12 @@ hero:
   name: "Among Us模组档案"
   tagline: 一个记录所有模组与作者的网站。
   actions:
-    - theme: brand
-      text: 教程
-      link: /guide/
     - theme: alt
       text: 关于
       link: /about
+    - theme: brand
+      text: 教程
+      link: /guide/
     - theme: brand
       text: H系模组
       link: /Mods/HostOnly/
