@@ -4,7 +4,7 @@ export default defineConfig({
   cleanUrls: true,
   head: [
     ['link', 
-      { rel: 'icon', href: '/favicon.ico' }
+      { rel: 'image/png', href: '/AuModDocs.png' }
     ],
     [
       'script',
@@ -251,7 +251,7 @@ export default defineConfig({
     }
   },
   themeConfig: {
-    logo: '/favicon.ico',
+    logo: '/AuModDocs.png',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/QingFeng-awa/AuModSite' }
     ],
