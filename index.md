@@ -10,7 +10,7 @@ hero:
       text: 关于
       link: /about
     - theme: brand
-      text: 教程
+      text: 指南
       link: /guide/
     - theme: brand
       text: H系模组

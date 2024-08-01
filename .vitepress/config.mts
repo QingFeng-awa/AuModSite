@@ -31,15 +31,15 @@ export default defineConfig({
         nav: [
           { text: '首页', link: '/' },
           { text: '关于', link: '/about' },
+          { text: '指南', link: '/guide/'},
           {
             text: '模组',
             items: [
                 { text: 'H系模组', link: '/Mods/HostOnly/' },
                 { text: '全客户端系模组', link: '/Mods/AllClient/' },
-              { text: '功能性模组', link: '/Mods/Functional/' }
+              { text: '功能性插件', link: '/Mods/Functional/' }
             ]
           },
-          { text: '指南', link: '/guide/'},
           { text: '贡献', link: '/Contributing'},
           { text: '赞赏', link: '/donate'},
         ],
@@ -109,15 +109,6 @@ export default defineConfig({
               ]
             }
           ],
-          '/Authors/': [
-            {
-              text: '作者',
-              items: [
-                { text: 'KARPED1EM', link: '/Authors/KARPED1EM' },
-                { text: 'Moe', link: '/Authors/Moe' },
-              ]
-            }
-          ]
         },
         editLink: {
           pattern: 'https://github.com/QingFeng-awa/AuModSite/blob/main/docs/:path',

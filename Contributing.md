@@ -36,13 +36,13 @@ const members = [
 ]
 </script>
 
-<div align="center">
-<h2>贡献</h2>
-<h2>感谢下方成员对本站的贡献</h2>
-<VPTeamMembers size="medium" :members="members" />
-<br>
+# 贡献
+## 感谢下方成员对本站的贡献
 
-<h1>如何为本站做出贡献?</h1>
+<div align="center">
+<VPTeamMembers size="medium" :members="members" />
+</div>
+
+## 如何为本站做出贡献?
 您可以在本网站的GitHub的仓库Pr,在Pr合并后您将成为本网站的贡献者。
 
-</div>
