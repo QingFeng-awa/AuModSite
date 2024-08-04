@@ -1,5 +1,6 @@
 ---
 title: 贡献
+description: 您可以在本网站的GitHub的仓库Pr,在Pr合并后您将成为本网站的贡献者。
 ---
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'

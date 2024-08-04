@@ -2,6 +2,7 @@
 layout: home
 title: Among Us模组档案
 titleTemplate: 一个记录所有模组与作者的网站。
+description: 这是一个关于Among Us模组的文档网站。我在此收录了大部分的Among Us模组供玩家们查看,您可以通过此网站快速了解现在Among Us的H系模组/全客户端系模组。除此之外,我还额外收录了一些功能性插件,并且还制作了一些教程来让玩家们更快的上手Among Us模组。
 hero:
   name: "Among Us模组档案"
   tagline: 一个记录所有模组与作者的网站。
