@@ -1,5 +1,6 @@
 ---
 title: 无法打开github.com
+description: 请使用加速器,推荐使用Watt Toolkit软件的使用方法不再赘述,请自行搜索。
 ---
 # 无法打开github.com
 请使用加速器。
