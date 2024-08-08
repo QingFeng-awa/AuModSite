@@ -4,7 +4,7 @@ export default defineConfig({
   cleanUrls: true,
   head: [
     ['link', 
-      { rel: 'image/png', href: '/AuModDocs.png' }
+      { rel: 'shortcut icon', href: '/AuModDocs.png', type: 'image/x-icon'}
     ],
     [
       'script',
