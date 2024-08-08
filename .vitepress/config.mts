@@ -16,9 +16,10 @@ export default defineConfig({
       })(window, document, "clarity", "script", "nfuw1z0crm");`
     ]
   ],
+  // So,这玩意到底有什么用?
   sitemap: {
     hostname: 'https://aumod.site/',
-    lastmodDateOnly: true
+    lastmodDateOnly: false
   },
   locales: {
     root: {
@@ -37,7 +38,7 @@ export default defineConfig({
             items: [
                 { text: 'H系模组', link: '/Mods/HostOnly/' },
                 { text: '全客户端系模组', link: '/Mods/AllClient/' },
-              { text: '功能性插件', link: '/Mods/Functional/' }
+                { text: '功能性插件', link: '/Mods/Functional/' }
             ]
           },
           { text: '贡献', link: '/Contributing'},
@@ -63,7 +64,8 @@ export default defineConfig({
               text: '疑难',
               collapsed: true,
               items: [
-                {text: '无法打开github.com',link: '/guide/FAQ/GithubTimeOut'}
+                {text: '无法打开github.com',link: '/guide/FAQ/GithubTimeOut'},
+                {text: '启动Among Us时无反应',link: '/guide/FAQ/FirstRunMod'}
               ]
             }
           ],
