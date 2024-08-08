@@ -32,11 +32,11 @@ features:
   - icon: 🔥
     title: TheOtherRoles
     details: The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game.
-    link: /en/Mods/HostOnly/TownOfHostEnhanced
+    link: /en/Mods/AllClient/TheOtherRoles
   - icon: 🛠️
-    title: YuAntiCheat
-    details: An Anti Cheat for Among Us Game
-    link: /en/Mods/Functional/YuAntiCheat
+    title: YuEzTools
+    details: An Easy Tools for Among Us Game.
+    link: /Mods/Functional/YuEzTools
   - icon: ⭐️
     title: TownOfNewEpic_Xtreme
     details: Host only mod for Among Us, forked from Town Of Next

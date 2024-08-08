@@ -35,9 +35,9 @@ features:
     details: The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game.
     link: /Mods/AllClient/TheOtherRoles
   - icon: 🛠️
-    title: YuAntiCheat
-    details: An Anti Cheat for Among Us Game
-    link: /Mods/Functional/YuAntiCheat
+    title: YuEzTools
+    details: An Easy Tools for Among Us Game.
+    link: /Mods/Functional/YuEzTools
   - icon: ⭐️
     title: TownOfNewEpic_Xtreme
     details: Host only mod for Among Us, forked from Town Of Next
@@ -45,7 +45,8 @@ features:
 ---
 > [!IMPORTANT] 最近……
 > 我找不到合适的模组来收录了,因此网站现在的更新频率整体放缓。<br>
-> 如果您找到了合适的模组,请在[本站GitHub仓库提issue](https://github.com/QingFeng-awa/AuModSite/issues/new?assignees=QingFeng-awa&labels=%E7%B1%BB%E5%9E%8B%3A%E9%9C%80%E6%B1%82%2C%E7%8A%B6%E6%80%81%3A%E5%BE%85%E5%A4%84%E7%90%86%2C%E5%A4%87%E6%B3%A8%3A%E6%A8%A1%E7%BB%84&projects=&template=NewMod.yaml&title=%5BMod%5D%3A),我将很快处理。
+> 如果您找到了合适的模组,请在[本站GitHub仓库提issue](https://github.com/QingFeng-awa/AuModSite/issues/new?assignees=QingFeng-awa&labels=%E7%B1%BB%E5%9E%8B%3A%E9%9C%80%E6%B1%82%2C%E7%8A%B6%E6%80%81%3A%E5%BE%85%E5%A4%84%E7%90%86%2C%E5%A4%87%E6%B3%A8%3A%E6%A8%A1%E7%BB%84&projects=&template=NewMod.yaml&title=%5BMod%5D%3A),我将很快处理。<br>
+> 在这段时间,我会先注重优化已有文档。
 
 这是一个关于Among Us模组的文档网站。
 > Among Us(又译作“我们之中”、“太空狼人杀”),是一款由Innersloth LLC.制作发行的策略休闲派对游戏。
