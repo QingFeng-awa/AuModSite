@@ -1,11 +1,11 @@
 ---
-title: YuAntiCheat
+title: YuEzTools
 ---
-# YuAntiCheat
-![YuAntiCheat-BG](/Image/YuAC.jpg)
+# YuEzTools
+![YuEzTools-BG](/Image/YuEzTools.jpg)
 
 <div align="center">
-<h3>An Anti Cheat for Among Us Game.</h3>
+<h3>An Easy Tools for Among Us Game.</h3>
 </div>
 
 <script setup>
@@ -32,11 +32,11 @@ const members = [
 </div>
 
 ## Version
-- Latest version: `v1.1.20`
-  - Released on 19 July 2024, 7:52 PM(GMT +8)
+- Latest version: `v1.1.30`
+  - Released on 30 July 2024, 1:50 PM
 - Support Among Us version:
     - Support latest version: `v2024.6.18`
     - Unsupported versions: *v2024.6.4` and earlier versions*
 
 ## Links
-[![Github](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/Night-GUA/YuAntiCheat)
+[![Github](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/Team-YuTeam/YuEzTools)

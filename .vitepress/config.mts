@@ -212,7 +212,7 @@ export default defineConfig({
               text: 'Functional',
               collapsed: false,
               items: [
-                { text: 'YuAntiCheat', link: '/en/Mods/Functional/YuAntiCheat' },
+                { text: 'YuEzTools', link: '/en/Mods/Functional/YuEzTools' },
                 { text: 'MalumMenu', link: '/en/Mods/Functional/MalumMenu' },
               ]
             }
