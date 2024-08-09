@@ -33,9 +33,7 @@ const members = [
 - Latest version: `v2.3`
   - Released on 14 June 2024, 11:32 PM
 - Support Among Us version:
-    - Support latest version: `v2024.6.18`
-    - Unsupported versions: `v2024.6.4` and earlier versions.
+    - Support latest version: `v2024.3.5`
+    - Unsupported versions: `v2023.11.28` and earlier versions.
 ## Links
-[![Website](https://badgen.net/badge/Web/Site/3AA675)](https://tohre.dev)
-
-[![Github](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/0xDrMoe/TownofHost-Enhanced)
+[![Github](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/xprogamer008/TheOtherHostRoles)
