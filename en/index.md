@@ -22,8 +22,8 @@ hero:
       text: Guide
       link: /en/guide/
     - theme: alt
-      text: Contributing
-      link: /en/Contributing
+      text: Donate
+      link: /donate
 features:
   - icon: 🌿
     title: TownOfNext
