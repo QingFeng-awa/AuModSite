@@ -134,9 +134,9 @@ export default defineConfig({
       label: 'English',
       lang: 'en-US',
       link: '/en/',
-      title: 'Among Us Mod Archives',
-      titleTemplate: ':title - Among Us Mod Archives',
-      description: 'A website to record all mods and authors.',
+      title: 'Among Us Mod Archive',
+      titleTemplate: ':title - Among Us Mod Archive',
+      description: 'A website to record all Mod and Authors.',
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
