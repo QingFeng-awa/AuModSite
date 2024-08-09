@@ -32,19 +32,20 @@ The initial purpose of creating this website is to provide completely free conte
 However, in order to provide high-quality content, we have invested a lot of money.<br>
 From **server purchase**, **domain registration**, to **CDN services**, all of these require a lot of money.<br>
 We are just a group of passionate students with limited funds, and we cannot afford these expenses.<br>
-We hope you can lend a hand, even a sponsorship of less than 5 yuan can provide us with great help.
+We hope you can lend a hand, even a sponsorship of less than 5 CNY can provide us with great help.
 ## What will you get by sponsoring us?
 - Any amount of sponsorship
  - Sponsorship list on <https://aumod.site>
  - Sponsorship list on <https://qingfengawa.me>
  - (Coming soon) Sponsorship list on fsusx.top
-- Accumulated sponsorship of 30 yuan or more
+- Accumulated sponsorship of 30 CNY or more
  - Get all the content of `Any amount of sponsorship`
  - Sponsorship priority display
  - Gold name display
-- Single-time sponsorship of 50 yuan or more
+  - Due to the architectural limitations of <https://aumod.site>, <https://aumod.site> not display the gold name.
+- Single-time sponsorship of 50 CNY or more
  - Get all the content of `Any amount of sponsorship`
- - Get all the content of `Accumulated sponsorship of 30 yuan or more`
+ - Get all the content of `Accumulated sponsorship of 30 CNY or more`
  - 1 shoulder bag / 1 phone stand
     - You can choose the style at your own discretion, please consult QingFeng after sponsorship.
 - Stay tuned...
