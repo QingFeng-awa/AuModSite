@@ -162,7 +162,8 @@ export default defineConfig({
                   text: 'Mod Install',
                   collapsed: false,
                   items: [
-                    {text: 'Steam Install Mod',link: '/en/guide/tutorial/install/Steam'}
+                    {text: 'Steam Install Mod',link: '/en/guide/tutorial/install/Steam'},
+                    {text: 'Epic Install Mod',link: '/guide/tutorial/install/Epic'}
                   ]
                 },
               ]
