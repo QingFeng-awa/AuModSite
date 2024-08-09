@@ -30,8 +30,8 @@ const members = [
 <!--<div align="center">
 <VPTeamMembers size="small" :members="members" />
 </div>-->
-> [!CAUTION] Unable to provide author information
-> I can't understand the README of TownOfChaos.
+> [!CAUTION] Unable to display author
+> We do not accept authors who only provide YouTube links.
 
 ## Version
 - Latest version: `v3.4`
