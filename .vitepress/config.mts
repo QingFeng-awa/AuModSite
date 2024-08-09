@@ -140,6 +140,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
+          { text: '关于', link: '/en/about/' }
           {
             text: 'Mods',
             items: [
@@ -147,7 +148,6 @@ export default defineConfig({
                 { text: 'AllClient', link: '/en/Mods/AllClient/' }
             ]
           },
-          { text: 'Authors', link: '/en/Authors/' },
           { text: 'Guide', link: '/en/guide/'},
           { text: 'Contributing', link: '/en/Contributing'},
           { text: 'Sponsorship', link: '/en/donate'},

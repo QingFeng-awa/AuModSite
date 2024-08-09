@@ -7,6 +7,12 @@ hero:
   tagline: A website to record all mods and authors.
   actions:
     - theme: brand
+      text: Guide
+      link: /guide/
+    - theme: alt
+      text: About
+      link: /about/
+    - theme: brand
       text: HostOnly
       link: /en/Mods/HostOnly/
     - theme: brand
@@ -15,12 +21,6 @@ hero:
     - theme: brand
       text: Functional Plugin
       link: /en/Mods/Functional/
-    - theme: brand
-      text: Author
-      link: /en/Authors/
-    - theme: brand
-      text: Guide
-      link: /en/guide/
     - theme: alt
       text: Donate
       link: /donate
