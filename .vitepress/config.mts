@@ -140,7 +140,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
-          { text: '关于', link: '/en/about/' }
+          { text: 'About', link: '/en/about/' },
           {
             text: 'Mods',
             items: [

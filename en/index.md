@@ -6,12 +6,12 @@ hero:
   name: "Among Us Mod Archives"
   tagline: A website to record all mods and authors.
   actions:
-    - theme: brand
-      text: Guide
-      link: /guide/
     - theme: alt
       text: About
-      link: /about/
+      link: /en/about/
+    - theme: brand
+      text: Guide
+      link: /en/guide/
     - theme: brand
       text: HostOnly
       link: /en/Mods/HostOnly/
