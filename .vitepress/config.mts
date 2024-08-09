@@ -217,15 +217,6 @@ export default defineConfig({
               ]
             }
           ],
-          '/en/Authors/': [
-            {
-              text: 'Authors',
-              items: [
-                { text: 'KARPED1EM', link: '/en/Authors/KARPED1EM' },
-                { text: 'Moe', link: '/en/Authors/Moe' },
-              ]
-            }
-          ]
         },
         editLink: {
           pattern: 'https://github.com/QingFeng-awa/AuModSite/blob/main/docs/:path',

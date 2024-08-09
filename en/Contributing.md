@@ -37,13 +37,12 @@ const members = [
 ]
 </script>
 
+# Contribute
+## Thank you to the members below for their contribution to the site
+
 <div align="center">
-<h2>Contribute</h2>
-<h2>Thank you to the members below for their contributions to the site</h2>
 <VPTeamMembers size="medium" :members="members" />
-<br>
-
-</h1>How to Contribute to This Site</h1>
-You can contribute to this site by submitting a Pull Request to the GitHub repository. Once your PR is merged, you will become a contributor to the site.
-
 </div>
+
+## How to Contribute to This Site
+You can contribute to this site by submitting a Pull Request to the GitHub repository. Once your PR is merged, you will become a contributor to the site.
