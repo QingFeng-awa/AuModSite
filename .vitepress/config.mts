@@ -162,7 +162,8 @@ export default defineConfig({
                   text: 'Mod Install',
                   collapsed: false,
                   items: [
-                    {text: 'Steam Install Mod',link: '/en/guide/tutorial/install/Steam'}
+                    {text: 'Steam Install Mod',link: '/en/guide/tutorial/install/Steam'},
+                    {text: 'Epic Install Mod',link: '/guide/tutorial/install/Epic'}
                   ]
                 },
               ]
@@ -174,40 +175,42 @@ export default defineConfig({
               ]
             }
           ],
-          '/en/Mods/HostOnly/': [
+          '/en/Mods/': [
             {
               text: 'HostOnly',
+              collapsed: false,
               items: [
-                  { text: 'TownOfHost', link: '/en/Mods/HostOnly/TownOfHost' },
-                  { text: 'TownOfNewEpic_Xtreme', link: '/en/Mods/HostOnly/TownOfNewEpic_Xtreme'},
-                  { text: 'TownOfHostEdited', link: '/en/Mods/HostOnly/TownOfHostEdited'},
-                  { text: 'TownOfHostPlus', link: '/en/Mods/HostOnly/TownOfHostPlus'},
-                  { text: 'TownOfNext', link: '/en/Mods/HostOnly/TownOfNext'},
-                  { text: 'TownOfHostEnhanced', link: '/en/Mods/HostOnly/TownOfHostEnhanced'},
-                  { text: 'EndlessHostRoles', link: '/en/Mods/HostOnly/EndlessHostRoles'},
-                  { text: 'TownOfPuls', link: '/en/Mods/HostOnly/TownOfPuls'},
-                  { text: 'TownOfHost_Y', link: '/en/Mods/HostOnly/TownOfHost_Y'},
-                  { text: 'TownOfChaos', link: '/en/Mods/HostOnly/TownOfChaos' },
+                { text: 'TownOfHost', link: '/en/Mods/HostOnly/TownOfHost' },
+                { text: 'TownOfNewEpic_Xtreme', link: '/en/Mods/HostOnly/TownOfNewEpic_Xtreme'},
+                { text: 'TownOfHostEdited', link: '/en/Mods/HostOnly/TownOfHostEdited'},
+                { text: 'TownOfHostPlus', link: '/en/Mods/HostOnly/TownOfHostPlus'},
+                { text: 'TownOfNext', link: '/en/Mods/HostOnly/TownOfNext'},
+                { text: 'TownOfHostEnhanced', link: '/en/Mods/HostOnly/TownOfHostEnhanced'},
+                { text: 'EndlessHostRoles', link: '/en/Mods/HostOnly/EndlessHostRoles'},
+                { text: 'TownOfPlus', link: '/en/Mods/HostOnly/TownOfPuls'},
+                { text: 'TownOfHost_Y', link: '/en/Mods/HostOnly/TownOfHost_Y'},
+                { text: 'TownOfChaos', link: '/en/Mods/HostOnly/TownOfChaos' },
+                { text: 'TheOtherHostRoles', link: '/en/Mods/HostOnly/TheOtherHostRoles' },
               ]
-            }
-          ],
-          '/en/Mods/AllClient/': [
+            },
             {
               text: 'AllClient',
+              collapsed: false,
               items: [
-                  { text: 'TownOfUs', link: '/en/Mods/AllClient/TownOfUs' },
-                  { text: 'TheOtherRoles', link: '/en/Mods/AllClient/TheOtherRoles' },
-                  { text: 'SuperNewRoles', link: '/en/Mods/AllClient/SuperNewRoles' },
-                  { text: 'LasMonjas', link: '/en/Mods/AllClient/LasMonjas' },
-                  { text: 'StellarRoles', link: '/en/Mods/AllClient/StellarRoles' },
-                  { text: 'Nebula on the Ship', link: '/en/Mods/AllClient/NebulaOnTheShip' },
-                  { text: 'TownOfUsR', link: '/en/Mods/AllClient/TownOfUsR' },
+                { text: 'TownOfUs', link: '/en/Mods/AllClient/TownOfUs' },
+                { text: 'TheOtherRoles', link: '/en/Mods/AllClient/TheOtherRoles' },
+                { text: 'SuperNewRoles', link: '/en/Mods/AllClient/SuperNewRoles' },
+                { text: 'LasMonjas', link: '/en/Mods/AllClient/LasMonjas' },
+                { text: 'StellarRoles', link: '/en/Mods/AllClient/StellarRoles' },
+                { text: 'Nebula on the Ship', link: '/en/Mods/AllClient/NebulaOnTheShip' },
+                { text: 'TownOfUsR', link: '/en/Mods/AllClient/TownOfUsR' },
+                { text: 'StellarRoles', link: '/en/Mods/AllClient/StellarRoles' },
+                { text: 'AllTheRoles', link: '/en/Mods/AllClient/AllTheRoles' },
               ]
-            }
-          ],
-          '/en/Mods/Functional/': [
+            },
             {
               text: 'Functional',
+              collapsed: false,
               items: [
                 { text: 'YuAntiCheat', link: '/en/Mods/Functional/YuAntiCheat' },
                 { text: 'MalumMenu', link: '/en/Mods/Functional/MalumMenu' },
