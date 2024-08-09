@@ -37,7 +37,7 @@ const members = [
   - Released on August 6, 2021, 8:30 AM (GMT +8)
 - Supported Among Us versions:
     - Latest supported version: `v2021.6.30`
-    - Unsupported versions: `v2021.6.15`
+    - Unsupported versions: `v2021.6.15` and earlier versions
 
 ## Links
 [![Github](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/slushiegoose/Town-Of-Us)
