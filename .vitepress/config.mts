@@ -186,7 +186,7 @@ export default defineConfig({
                 { text: 'TownOfNext', link: '/en/Mods/HostOnly/TownOfNext'},
                 { text: 'TownOfHostEnhanced', link: '/en/Mods/HostOnly/TownOfHostEnhanced'},
                 { text: 'EndlessHostRoles', link: '/en/Mods/HostOnly/EndlessHostRoles'},
-                { text: 'TownOfPuls', link: '/en/Mods/HostOnly/TownOfPuls'},
+                { text: 'TownOfPlus', link: '/en/Mods/HostOnly/TownOfPuls'},
                 { text: 'TownOfHost_Y', link: '/en/Mods/HostOnly/TownOfHost_Y'},
                 { text: 'TownOfChaos', link: '/en/Mods/HostOnly/TownOfChaos' },
                 { text: 'TheOtherHostRoles', link: '/en/Mods/HostOnly/TheOtherHostRoles' },
