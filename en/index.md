@@ -42,13 +42,13 @@ features:
     details: Host only mod for Among Us, forked from Town Of Next
     link: /en/Mods/HostOnly/TownOfNewEpic_Xtreme
 ---
-<!--不要在其它语言显示这个提示,请在其它语言注释他。
-爱发电尚不支持PayPal,Visa等其它支付方式。
-> [!IMPORTANT] QingFeng入驻爱发电辣~
-> 我需要赞助才能给服务器续费……所以金主大大们能给点打赏吗?(星星眼)<br>
-> 请[点击此处访问赞助页面](/donate)了解更多。-->
+> [!IMPORTANT] Recently……
+I can't find a suitable mod to include, so the overall update frequency of the website has slowed down.<br>
+> [!IMPORTANT] If you find a suitable mod. Please [SUBMIT AN ISSUE TO THE GITHUB REPOSITROY OF THIS SITE](https://github.com/QingFeng-awa/AuModSite/issues/new?assignees=QingFeng-awa&labels=%E7%B1%BB%E5%9E%8B%3A%E9%9C%80%E6%B1%82%2C%E7%8A%B6%E6%80%81%3A%E5%BE%85%E5%A4%84%E7%90%86%2C%E5%A4%87%E6%B3%A8%3A%E6%A8%A1%E7%BB%84&projects=&template=NewMod.yaml&title=%5BMod%5D%3A), and I will handle it soon.
 
 This is a documentation website for Among Us mods.<br>
 > Among Us is a strategy-based casual party game developed and published by Innersloth LLC.
 
 I have collected most of the Among Us mods for players to view. You can quickly learn about the Host Mod and non-Host Mod mods of Among Us through this website.
+
+In addition, I have also included some functional plugins and created tutorials to help players quickly get started with Among Us mods.

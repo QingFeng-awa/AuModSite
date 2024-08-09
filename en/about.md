@@ -14,5 +14,5 @@ I have collected most of the Among Us mods here for players to view, and you can
 - **Multi-language support**.
 - **Fast loading speed**, relying on the advantage of [VitePress](https://vitepress.dev/zh/), we make it possible for the client to quickly load the page.
 ## Found a mod that is not included in the archive?
-Please submit an issue to the GitHub repository of this site [Issues](https://github.com/QingFeng-awa/AuModSite/issues/new?assignees=QingFeng-awa&labels=%E7%B1%BB%E5%9E%8B%3A%E9%9C%80%E6%B1%82%2C%E7%8A%B6%E6%80%81%3A%E5%BE%85%E5%A4%84%E7%90%86%2C%E5%A4%87%E6%B3%A8%3A%E6%A8%A1%E7%BB%84&projects=&template=NewMod.yaml&title=%5BMod%5D%3A+).<br>
+Please [SUBMIT AN ISSUE TO THE GITHUB REPOSITROY OF THIS SITE](https://github.com/QingFeng-awa/AuModSite/issues/new?assignees=QingFeng-awa&labels=%E7%B1%BB%E5%9E%8B%3A%E9%9C%80%E6%B1%82%2C%E7%8A%B6%E6%80%81%3A%E5%BE%85%E5%A4%84%E7%90%86%2C%E5%A4%87%E6%B3%A8%3A%E6%A8%A1%E7%BB%84&projects=&template=NewMod.yaml&title=%5BMod%5D%3A+).<br>
 QingFeng will handle your issue within 24 hours.
