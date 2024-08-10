@@ -41,7 +41,9 @@ const members = [
 ## 感谢下方成员对本站的贡献
 
 <div align="center">
+
 <VPTeamMembers size="medium" :members="members" />
+
 </div>
 
 ## 如何为本站做出贡献?

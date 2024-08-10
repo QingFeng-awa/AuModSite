@@ -2,7 +2,7 @@
 title: YuAntiCheat
 ---
 # YuAntiCheat
-![YuAntiCheat-BG](/Image/YuAC.jpg)
+![YuAntiCheat-BG](/Image/YuEzTools.png)
 
 <div align="center">
 <h3>An Anti Cheat for Among Us Game.</h3>
