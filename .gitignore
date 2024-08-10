@@ -30,3 +30,4 @@ crashlytics-build.properties
 /.vs/AuModSite/FileContentIndex
 /.vs
 .vitepress/dist
+node_modules
