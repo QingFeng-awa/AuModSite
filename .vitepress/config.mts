@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  srcDir: './docs',
   cleanUrls: true,
   head: [
     ['link', 
