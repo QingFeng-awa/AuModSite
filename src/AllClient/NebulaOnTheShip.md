@@ -2,34 +2,19 @@
 title: Nebula on the Ship
 ---
 # Nebula On the Ship
-
-<div align="center">
-<h3>Nebula on the Ship is Mod for Among Us.</h3>
-</div>
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/Dolly1016.png',
-    name: 'Dolly1016',
-    title: '开发者',
-    links: [
-      { icon: 'github', link: 'https://github.com/Dolly1016' },
-    ]
-  }
-]
-</script>
-
 ## 作者
 
 <div align="center">
-<VPTeamMembers size="small" :members="members" />
+<VPCard
+  title="Dolly1016"
+  desc="开发者"
+  logo="/Image/Dolly1016.png"
+  link="https://github.com/Dolly1016"
+/>
 </div>
 
 ## 版本
-- 最新正式版本: `v2.7.8.1`
+- 最新正式版本: `v2.8.1`
   - 发布于2024年8月3日,下午3:02
 - 支持Among Us版本:
     - 支持最新版本: *尚不明确。*

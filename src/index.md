@@ -16,7 +16,7 @@ actions:
     link: /HostOnly/
     type: primary
   - text: 全客户端模组
-    link: /AllCllit/
+    link: /AllClient/
     type: primary
   - text: 工具
     link: /Tool/

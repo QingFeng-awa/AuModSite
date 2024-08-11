@@ -2,36 +2,20 @@
 title: ExtremeRoles
 ---
 # ExtremeRoles
-
-<div align="center">
-<h3>Extreme Roles, Extreme Skins and EngineVoiceEngine.</h3>
-</div>
-
 ## 作者
 
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/yukieiji.jpg',
-    name: 'yukieiji',
-    title: '开发者',
-    links: [
-      { icon: 'github', link: 'https://github.com/KiraYamato94' }
-    ]
-  }
-]
-
-</script>
-
 <div align="center">
-<VPTeamMembers size="small" :members="members" />
+<VPCard
+  title="yukieiji"
+  desc="开发者"
+  logo="/Image/yukieiji.jpg"
+  link="https://github.com/KiraYamato94"
+/>
 </div>
 
 ## 版本
-- 最新正式版本: `v11.1.0.1`
-  - 发布于2024年7月27日,上午12:52
+- 最新正式版本: `v11.1.1.0`
+  - 发布于2024年8月10日,下午8:29
 - 支持Among Us版本:
     - 支持最新版本: `v2024.6.18`
     - 不支持的版本: `v2023.6.4`及更早版本。

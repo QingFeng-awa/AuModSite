@@ -1,35 +1,22 @@
 ---
 title: TownOfUs
 ---
-# TownOfUs <Badge type="warning" text="已归档的模组" />
-![TownOfUs-BG](/Image/TownOfUs.png)
+# TownOfUs
+![An Among Us mod containing a bunch of roles.](/Image/TownOfUs.png)
 
-<div align="center">
-<h3>An Among Us mod containing a bunch of roles.</h3>
-</div>
-
-> [!WARNING] 已归档的模组
-> 该模组GitHub仓库已在**2022年2月19日**归档,这通常意味着该模组已停止更新。
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/Slushie.png',
-    name: 'Slushie',
-    title: '开发者',
-    links: [
-      { icon: 'github', link: 'https://github.com/slushiegoose' },
-    ]
-  }
-]
-</script>
+::: note 已归档的模组
+该模组GitHub仓库已在**2022年2月19日**归档,这通常意味着该模组已停止更新。
+:::
 
 ## 作者
 
 <div align="center">
-<VPTeamMembers size="small" :members="members" />
+<VPCard
+  title="Slushie"
+  desc="开发者"
+  logo="/Image/Slushie.png"
+  link="https://github.com/slushiegoose"
+/>
 </div>
 
 ## 版本

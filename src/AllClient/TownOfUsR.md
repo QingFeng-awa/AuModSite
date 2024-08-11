@@ -2,37 +2,22 @@
 title: TownOfUsR
 ---
 # TownOfUsR
-
-<div align="center">
-<h3>An Among Us mod containing a bunch of roles.</h3>
-</div>
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/Donners.jpg',
-    name: 'Donners',
-    title: '开发者',
-    links: [
-      { icon: 'github', link: 'https://github.com/eDonnes124' },
-    ]
-  }
-]
-</script>
-
 ## 作者
 
 <div align="center">
-<VPTeamMembers size="small" :members="members" />
+<VPCard
+  title="Donners"
+  desc="开发者"
+  logo="/Image/Donners.jpg"
+  link="https://github.com/eDonnes124"
+/>
 </div>
 
 ## 版本
 - 最新正式版本: `v5.0.4`
   - 发布于2024年4月21日,上午7:47
 - 支持Among Us版本:
-    - 支持最新版本: `v2024.3.5`
+    - 支持最新版本: `v2024.6.4`
     - 不支持的版本: `v2023.11.28`及更早版本。
 
 ## 相关链接

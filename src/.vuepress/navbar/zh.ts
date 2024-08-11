@@ -10,5 +10,10 @@ export const zhNavbar = navbar([
     text: "H系模组",
     link: "/HostOnly/",
     exact: false
+  },
+  {
+    text: "全客户端模组",
+    link: "/AllClient/",
+    exact: false
   }
 ]);

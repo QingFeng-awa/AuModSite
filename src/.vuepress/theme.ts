@@ -7,10 +7,11 @@ export default hopeTheme({
   logo: "/AuModDocs.png",
   favicon: "/AuModDocs.png",
   repo: "QingFeng-awa/AuModSite",
+  iconAssets: "https://at.alicdn.com/t/c/font_4649910_6ca6cfc71ig.css",
   docsDir: "src",
   copyright: false,
   toc: false,
-  /*隐藏上下一页的选项似乎不起作用,需要修正。
+  /*隐藏上下一页的Config似乎不起作用,需要其他解决方案。
   文档链接: https://theme-hope.vuejs.press/zh/config/intro.html
   prev: false,
   next: false,*/
@@ -55,7 +56,7 @@ export default hopeTheme({
             if (tag === "em")
               return {
                 tag: "Badge",
-                attrs: { type: "tip" },
+                attrs: { type: "note" },
                 content: "Recommended",
               };
           },
