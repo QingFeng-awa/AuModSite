@@ -3,8 +3,7 @@ home: true
 icon: home
 title: 项目主页
 heroImage: /AuModDocs(50r).png
-bgImage: https://www.innersloth.com/wp-content/uploads/2024/06/2024roles_nologo.png
-bgImageDark: https://www.innersloth.com/wp-content/uploads/2024/06/2024roles_nologo.png
+bgImage: /AmongUsSpace.png
 heroFullScreen: true
 bgImageStyle:
   background-attachment: fixed
@@ -14,44 +13,44 @@ actions:
   - text: 关于
     link: /about
   - text: H系模组
-    link: /Host
+    link: /HostOnly/
     type: primary
   - text: 全客户端模组
-    link: /AllCllit
+    link: /AllCllit/
     type: primary
-  - text: 插件
-    link: /plugin
+  - text: 工具
+    link: /Tool/
     type: primary
   - text: 赞助
     link: https://afdian.com/a/aumodsite
 
 highlights:
   - header: 推荐模组
-    bgImage: /AmongUs-BG.png
-    bgImageStyle:
-      background-repeat: repeat
-      background-size: initial
+    bgImage: /AmongUsSpace.png
     features:
       - title: TownOfHostEnhanced
         details: TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+        link: /HostOnly/TownOfHostEnhanced
 
       - title: Nebula on the Ship
         details: Nebula on the Ship is Mod for Among Us.
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/alert.html
+        link: /HostOnly/NebulaOnTheShip
 
       - title: TheOtherRoles
         details: EHR is the biggest host-only mod for Among Us, with over 350 roles and 7 game modes, along with a Custom Team Assigner application to fully customize your games!
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/tabs.html
+        link: /HostOnly/TheOtherRoles
 
       - title: LasMonjas
         details: Among Us Mod with many roles and gamemodes
+        link: /HostOnly/LasMonjas
 
       - title: YuEzTools
         details: An Easy Tools for Among Us Game.
+        link: /Tool/plugin/YuEzTools
   
       - title: TownOfNewEpic_Xtreme
         details: Host only mod for Among Us, forked from Town Of Next.
+        link: /HostOnly/TownOfNewEpic_Xtreme
 ---
 <br>
 这是一个关于Among Us模组的文档网站。

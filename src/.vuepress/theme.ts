@@ -21,9 +21,6 @@ export default hopeTheme({
       sidebar: zhSidebar,
       footer: "© 2024 By QingFeng",
       displayFooter: true,
-      metaLocales: {
-        editLink: "Edit this page on GitHub",
-      }
     }
   },
   plugins: {

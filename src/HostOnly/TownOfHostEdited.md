@@ -1,37 +1,26 @@
 ---
 title: TownOfHostEdited
 ---
-# TownOfHostEdited <Badge type="warning" text="已归档的模组" />
-
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=527037322&bvid=BV1TM411T7UW&cid=1137124236&p=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500px" allowfullscreen="false" ></iframe>
+# TownOfHostEdited
 
 <div align="center">
-<h3>对游戏最高的热爱,是去创造他</h3>
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=527037322&bvid=BV1TM411T7UW&cid=1137124236&p=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500px" allowfullscreen="false"></iframe>
+对游戏最高的热爱,是去创造他
 </div>
 
-> [!WARNING] 已归档的模组
-> 该模组作者已声明该模组停止更新。
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/KARPED1EM.png',
-    name: 'KARPED1EM',
-    title: '开发者',
-    links: [
-      { icon: 'github', link: 'https://github.com/KARPED1EM' },
-    ]
-  }
-]
-
-</script>
+::: note 已归档的模组
+该模组作者已声明该模组停止更新。
+:::
 
 ## 作者
 
 <div align="center">
-<VPTeamMembers size="small" :members="members" />
+<VPCard
+  title="KARPED1EM"
+  desc="开发者"
+  logo="/Image/KARPED1EM.png"
+  link="https://github.com/KARPED1EM"
+/>
 </div>
 
 ## 版本

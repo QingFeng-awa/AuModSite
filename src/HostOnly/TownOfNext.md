@@ -1,36 +1,22 @@
 ---
 title: TownOfNext
 ---
-# TownOfNext <Badge type="warning" text="已归档的模组" />
-![TownOfNext-BG](/Image/TownOfNext.jpg)
+# TownOfNext
+![An AmongUs mod with learning & love.](/Image/TownOfNext.jpg)
 
-<div align="center">
-<h3>An AmongUs mod with learning & love.</h3>
-</div>
-
-> [!WARNING] 已归档的模组
-> 该模组作者已声明该模组停止更新。
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/KARPED1EM.png',
-    name: 'KARPED1EM',
-    title: '开发者',
-    links: [
-      { icon: 'github', link: 'https://github.com/KARPED1EM' },
-    ]
-  }
-]
-
-</script>
+::: note 已归档的模组
+该模组作者已声明该模组停止更新。
+:::
 
 ## 作者
 
 <div align="center">
-<VPTeamMembers size="small" :members="members" />
+<VPCard
+  title="KARPED1EM"
+  desc="开发者"
+  logo="/Image/KARPED1EM.png"
+  link="https://github.com/KARPED1EM"
+/>
 </div>
 
 ## 版本

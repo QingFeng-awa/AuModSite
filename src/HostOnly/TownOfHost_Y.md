@@ -2,33 +2,15 @@
 title: TownOfHost_Y
 ---
 # TownOfHost_Y
-
-<div align="center">
-<h3>TownOfHostを元に役職や機能を追加したAmongUs MOD.</h3>
-</div>
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/Yumenopai.png',
-    name: 'Yumenopai',
-    title: '开发者',
-    links: [
-      { icon: 'github', link: 'https://github.com/Yumenopai' },
-      { icon: 'x', link: 'https://twitter.com/Yumepai_houchi'},
-      { icon: 'youtube', link: 'https://www.youtube.com/@Yumenopai'}
-    ]
-  }
-]
-
-</script>
-
 ## 作者
 
 <div align="center">
-<VPTeamMembers size="small" :members="members" />
+<VPCard
+  title="Yumenopai"
+  desc="开发者"
+  logo="/Image/Yumenopai.png"
+  link="https://github.com/Yumenopai"
+/>
 </div>
 
 ## 版本

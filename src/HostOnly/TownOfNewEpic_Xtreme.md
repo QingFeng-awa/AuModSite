@@ -2,34 +2,17 @@
 title: TownOfNewEpic_Xtreme
 ---
 # TownOfNewEpic_Xtreme
-![TownOfNewEpic_Xtreme-BG](/Image/TownOfNewEpic_Xtreme.png)
-
-<div align="center">
-<h3>Host only mod for Among Us, forked from Town Of Next.</h3>
-</div>
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/Slok7565.png',
-    name: 'Slok7565',
-    title: '开发者',
-    org: 'XtremeWave',
-    orgLink: 'https://github.com/XtremeWave',
-    links: [
-      { icon: 'github', link: 'https://github.com/Slok7565' },
-    ]
-  }
-]
-
-</script>
+![Host only mod for Among Us, forked from Town Of Next.](/Image/TownOfNewEpic_Xtreme.png)
 
 ## 作者
 
 <div align="center">
-<VPTeamMembers size="small" :members="members" />
+<VPCard
+  title="Slok7565"
+  desc="开发者"
+  logo="/Image/Slok7565.png"
+  link="https://github.com/Slok7565"
+/>
 </div>
 
 ## 版本

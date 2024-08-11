@@ -2,38 +2,22 @@
 title: TownOfHostEnhanced
 ---
 # TownOfHostEnhanced
-![TownOfHostEnhanced-BG](/Image/TownOfHostEnhanced.jpg)
-
-<div align="center">
-<h5>TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!</h5>
-</div>
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/Moe.png',
-    name: 'Moe',
-    title: '开发者',
-    links: [
-      { icon: 'github', link: 'https://github.com/0xDrMoe' },
-      { icon: 'x', link: 'https://x.com/0xDrMoe'}
-    ]
-  }
-]
-
-</script>
+![TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!](/Image/TownOfHostEnhanced.jpg)
 
 ## 作者
 
 <div align="center">
-<VPTeamMembers size="small" :members="members" />
+<VPCard
+  title="Moe"
+  desc="开发者"
+  logo="/Image/Moe.png"
+  link="https://github.com/0xDrMoe"
+/>
 </div>
 
 ## 版本
-- 最新正式版本: `v2.0.0`
-  - 发布于2024年7月28日,上午2:27
+- 最新正式版本: `v2.0.2`
+  - 发布于2024年8月4日,下午1:30
 - 支持Among Us版本:
     - 支持最新版本: `v2024.6.18`
     - 不支持的版本: `v2024.6.4`及更早版本。

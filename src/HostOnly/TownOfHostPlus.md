@@ -3,35 +3,19 @@ title: TownOfHostPlus
 ---
 # TownOfHostPlus
 
-<div align="center">
-<h5>A version of Town of Host The Other Roles with bug fixes along with new roles & modifiers!</h5>
-</div>
-
-> [!WARNING] 已归档的模组
-> 该模组GitHub仓库已在**2023年7月25日**归档,这通常意味着该模组已停止更新。
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/Loonie.png',
-    name: 'Loonie',
-    title: '开发者',
-    links: [
-      { icon: 'github', link: 'https://github.com/ItzLoonie' },
-      { icon: 'twitter', link: 'https://twitter.com/ItzLoonie' },
-      { icon: 'youtube', link: 'https://youtube.com/@Loonie-Toons' }
-    ]
-  }
-]
-
-</script>
+::: note 已归档的模组
+该模组GitHub仓库已在**2023年7月25日**归档,这通常意味着该模组已停止更新。
+:::
 
 ## 作者
 
 <div align="center">
-<VPTeamMembers size="small" :members="members" />
+<VPCard
+  title="Loonie"
+  desc="开发者"
+  logo="/Image/Loonie.png"
+  link="https://github.com/ItzLoonie"
+/>
 </div>
 
 ## 版本

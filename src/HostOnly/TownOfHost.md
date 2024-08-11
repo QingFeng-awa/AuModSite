@@ -2,34 +2,17 @@
 title: TownOfHost
 ---
 # TownOfHost
-![TownOfHost-BG](/Image/TownOfHost.png)
-
-<div align="center">
-<h3>Town Of Host, Host only mod for Among Us.</h3>
-</div>
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/EmptyBottle.png',
-    name: 'EmptyBottle',
-    title: '开发者',
-    links: [
-      { icon: 'github', link: 'https://github.com/tukasa0001' },
-      { icon: 'twitter', link: 'https://twitter.com/XenonBottle' },
-      { icon: 'youtube', link: 'https://www.youtube.com/@XenonBottle'}
-    ]
-  }
-]
-
-</script>
+![Town Of Host, Host only mod for Among Us.](/Image/TownOfHost.png)
 
 ## 作者
 
 <div align="center">
-<VPTeamMembers size="small" :members="members" />
+<VPCard
+  title="EmptyBottle"
+  desc="开发者"
+  logo="/Image/EmptyBottle.png"
+  link="https://github.com/tukasa0001"
+/>
 </div>
 
 ## 版本

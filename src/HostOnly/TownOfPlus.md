@@ -2,32 +2,17 @@
 title: TownOfPlus
 ---
 # TownOfPlus
-![TownOfPlus-BG](/Image/TownOfPlus.png)
-
-<div align="center">
-<h3>Among Usに様々な機能を追加するmod.</h3>
-</div>
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/tugaru1975.png',
-    name: 'tugaru1975',
-    title: '开发者',
-    links: [
-      { icon: 'github', link: 'https://github.com/tugaru1975' },
-    ]
-  }
-]
-
-</script>
+![Among Usに様々な機能を追加するmod.](/Image/TownOfPlus.png)
 
 ## 作者
 
 <div align="center">
-<VPTeamMembers size="small" :members="members" />
+<VPCard
+  title="tugaru1975"
+  desc="开发者"
+  logo="/Image/tugaru1975.png"
+  link="https://github.com/tugaru1975"
+/>
 </div>
 
 ## 版本
