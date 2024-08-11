@@ -11,6 +11,10 @@ export default hopeTheme({
   docsDir: "src",
   copyright: false,
   toc: false,
+  /*隐藏上下一页的选项似乎不起作用,需要修正。
+  文档链接: https://theme-hope.vuejs.press/zh/config/intro.html
+  prev: false,
+  next: false,*/
   locales: {
     "/": {
       navbar: zhNavbar,

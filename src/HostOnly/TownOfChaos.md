@@ -2,36 +2,13 @@
 title: TownOfChaos
 ---
 # TownOfChaos
-
-<div align="center">
-<h3>Town Of Chaos,Among us mod.</h3>
-</div>
-
-<!--<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: '/Image/EmptyBottle.png',
-    name: 'EmptyBottle',
-    title: '开发者',
-    links: [
-      { icon: 'github', link: 'https://github.com/tukasa0001' },
-      { icon: 'twitter', link: 'https://twitter.com/XenonBottle' },
-      { icon: 'youtube', link: 'https://www.youtube.com/@XenonBottle'}
-    ]
-  }
-]
-
-</script>-->
-
 ## 作者
 
-<!--<div align="center">
-<VPTeamMembers size="small" :members="members" />
-</div>-->
-> [!CAUTION] 无法显示作者
-> 我们不接受只提供YouTube链接的作者。
+::: caution 无法显示作者
+
+因Google对中国大陆的封锁,我们无法从YouTube采集作者信息。
+
+:::
 
 ## 版本
 - 最新正式版本: `v3.4`
