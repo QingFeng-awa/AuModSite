@@ -1,0 +1,50 @@
+name: Bug反馈
+description: 报告在浏览网站中遇到/发现的问题。
+title: "[Bug]: "
+labels: ["类型:问题","状态:待处理"]
+assignees:
+  - QingFeng-awa
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # 感谢您愿意花费时间来提出issue。
+        我们很高兴您能为“Among Us模组档案”提供反馈。
+  - type: markdown
+    attributes:
+      value: |
+        ## 在此之前,请您确认:
+        - 没有相同的issue已被提出。
+        - 您会准确、真实的填写下方内容。
+        - 您了解[提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)所讲述的内容。
+  - type: checkboxes
+    attributes:
+      label: 请确保您已阅读以上注意事项，并勾选下方的确认框。
+      options:
+        - label: 我已经在[Issue Tracker](https://github.com/QingFeng-awa/AuModSite/issues)中找过我要提出的问题，没有找到相同问题的issue。
+          required: true
+        - label: 我已知晓,如果我不真实填写issue,则我的issue可能会被无条件关闭&锁定。
+          required: true
+  - type: input
+    attributes:
+      label: 出现问题的URL
+      description: 请复制**完整**的URL(包括`https`)。
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 遇到/发现了什么问题?
+      description: 请描述的详细一点,以便开发者快速理解。
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 期望正确结果是?
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: 其它信息
+    validations:
+      required: false

@@ -3,19 +3,20 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://aumod.site",
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "QingFeng",
+    url: "https://qingfengawa.me",
   },
-  iconAssets: "fontawesome-with-brands",
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  iconAssets: "https://at.alicdn.com/t/c/font_4649910_6ca6cfc71ig.css",
+  logo: "/AuModDocs.png",
+  repo: "QingFeng-awa/AuModSite",
   docsDir: "src",
   locales: {
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
+      copyright: false,
       footer: "© 2024 By QingFeng",
       displayFooter: true,
       metaLocales: {
@@ -24,13 +25,13 @@ export default hopeTheme({
     }
   },
   plugins: {
-    comment: {
+    /*comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
+      repo: "QingFeng-awa/AuModSite",
       repoId: "R_kgDOG_Pt2A",
       category: "Announcements",
       categoryId: "DIC_kwDOG_Pt2M4COD69",
-    },
+    },*/
     components: {
       components: ["Badge", "VPCard"],
     },
@@ -47,6 +48,7 @@ export default hopeTheme({
       mark: true,
       plantuml: true,
       spoiler: true,
+      chart: true,
       stylize: [
         {
           matcher: "Recommended",
@@ -59,6 +61,12 @@ export default hopeTheme({
               };
           },
         },
+      ],
+      sitemapPlugin: [
+        {
+          sitemapFilename: "/sitemap.xml",
+          changefreq: "hourly"
+        }
       ],
       sub: true,
       sup: true,
