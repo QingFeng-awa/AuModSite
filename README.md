@@ -1,0 +1,1 @@
+![[Among Us模组档案-封面](https://aumod.site)](.github/README/AuModDocs-BG.png)
