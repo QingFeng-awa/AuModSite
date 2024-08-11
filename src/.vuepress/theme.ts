@@ -4,19 +4,17 @@ import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://aumod.site",
-  author: {
-    name: "QingFeng",
-    url: "https://qingfengawa.me",
-  },
   iconAssets: "https://at.alicdn.com/t/c/font_4649910_6ca6cfc71ig.css",
   logo: "/AuModDocs.png",
+  favicon: "/AuModDocs.png",
   repo: "QingFeng-awa/AuModSite",
   docsDir: "src",
+  copyright: false,
+  toc: false,
   locales: {
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      copyright: false,
       footer: "© 2024 By QingFeng",
       displayFooter: true,
       metaLocales: {
@@ -25,6 +23,7 @@ export default hopeTheme({
     }
   },
   plugins: {
+    readingTime: false,
     /*comment: {
       provider: "Giscus",
       repo: "QingFeng-awa/AuModSite",

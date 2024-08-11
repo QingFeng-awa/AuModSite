@@ -1,26 +1,25 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
-  "/zh/": [
-    "",
-    "portfolio",
+  "/HostOnly/": [
     {
-      text: "案例",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
-    },
-    {
-      text: "文档",
-      icon: "book",
-      prefix: "guide/",
-      children: "structure",
-    },
-    {
-      text: "幻灯片",
-      icon: "person-chalkboard",
-      link: "https://plugin-md-enhance.vuejs.press/zh/guide/content/revealjs/demo.html",
-    },
-  ],
+      text: "H系模组",
+      link: "/HostOnly/",
+      icon: "HostOnly",
+      activeMatch: "^/HostOnly/$",
+      children: [
+        { text: 'TownOfHost', link: '/HostOnly/TownOfHost' },
+        { text: 'TownOfNewEpic_Xtreme', link: '/HostOnly/TownOfNewEpic_Xtreme'},
+        { text: 'TownOfHostEdited', link: '/HostOnly/TownOfHostEdited'},
+        { text: 'TownOfHostPlus', link: '/HostOnly/TownOfHostPlus'},
+        { text: 'TownOfNext', link: '/HostOnly/TownOfNext'},
+        { text: 'TownOfHostEnhanced', link: '/HostOnly/TownOfHostEnhanced'},
+        { text: 'EndlessHostRoles', link: '/HostOnly/EndlessHostRoles'},
+        { text: 'TownOfPlus', link: '/HostOnly/TownOfPlus'},
+        { text: 'TownOfHost_Y', link: '/HostOnly/TownOfHost_Y'},
+        { text: 'TownOfChaos', link: '/HostOnly/TownOfChaos' },
+        { text: 'TheOtherHostRoles', link: '/HostOnly/TheOtherHostRoles' }
+      ]
+    }
+  ]
 });
