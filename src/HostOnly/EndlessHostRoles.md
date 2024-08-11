@@ -9,7 +9,7 @@ title: EndlessHostRoles
 
 <div align="center">
 <VPCard
-  title="Mr.Hope"
+  title="Gurge44"
   desc="开发者"
   logo="/Image/Gurge44.jpg"
   link="https://github.com/Gurge44"

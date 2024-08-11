@@ -4,7 +4,6 @@ import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://aumod.site",
-  iconAssets: "https://at.alicdn.com/t/c/font_4649910_6ca6cfc71ig.css",
   logo: "/AuModDocs.png",
   favicon: "/AuModDocs.png",
   repo: "QingFeng-awa/AuModSite",

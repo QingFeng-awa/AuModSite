@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: 项目主页
+title: 首页
 heroImage: /AuModDocs(50r).png
 bgImage: /AmongUsSpace.png
 heroFullScreen: true

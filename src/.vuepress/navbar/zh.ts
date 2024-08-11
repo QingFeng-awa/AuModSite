@@ -8,7 +8,6 @@ export const zhNavbar = navbar([
   },
   {
     text: "H系模组",
-    icon: "HostOnly",
     link: "/HostOnly/",
     exact: false
   }
