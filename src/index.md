@@ -18,7 +18,7 @@ actions:
   - text: 全客户端模组
     link: /AllClient/
     type: primary
-  - text: 工具
+  - text: 实用工具
     link: /Tool/
     type: primary
   - text: 赞助
@@ -44,10 +44,6 @@ highlights:
       - title: LasMonjas
         details: Among Us Mod with many roles and gamemodes
         link: /AllClient/LasMonjas
-
-      - title: YuEzTools
-        details: An Easy Tools for Among Us Game.
-        link: /Tool/plugin/YuEzTools
   
       - title: TownOfNewEpic_Xtreme
         details: Host only mod for Among Us, forked from Town Of Next.

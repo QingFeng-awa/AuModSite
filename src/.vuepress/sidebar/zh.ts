@@ -45,14 +45,14 @@ export const zhSidebar = sidebar({
       link: "/Tool/",
       children: [
         { text: "BetterCrewLink", link: "/Tool/BetterCrewLink" },
-        {
+        /*{
           text: "功能性插件",
           link: "/Tool/plugin/"
-        }
+        }*/
       ]
     }
   ],
-  "/Tool/plugin/": [
+  /*"/Tool/plugin/": [
     {
       text: "工具",
       link: "/Tool/",
@@ -67,5 +67,5 @@ export const zhSidebar = sidebar({
         }
       ]
     }
-  ]
+  ]*/
 });

@@ -17,7 +17,7 @@ export const zhNavbar = navbar([
     exact: false
   },
   {
-    text: "工具",
+    text: "实用工具",
     link: "/Tool/",
     exact: false
   }
