@@ -40,6 +40,24 @@ export default hopeTheme({
     components: {
       components: ["Badge", "VPCard"],
     },
+    notice: [
+      {
+        path: "/",
+        title: "网站尚未完成开发",
+        content: "由于v2版本站点编写较为仓促,导致部分v1原有功能未完成。<br>非常抱歉,我们将尽快完成。",
+        actions: [
+          {
+            text: "回到v1版本",
+            link: "https://v1.aumod.site",
+            type: "primary",
+          },
+          { 
+            text: "支持我的开发",
+            link: "https://afdian.com/a/aumodsite"
+          }
+        ]
+      }
+    ],
     mdEnhance: {
       align: true,
       attrs: true,
