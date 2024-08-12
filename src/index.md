@@ -25,8 +25,9 @@ actions:
     link: https://afdian.com/a/aumodsite
 
 highlights:
-  - header: 推荐模组
+  - header:
     bgImage: /AmongUsSpace.png
+  - header: 推荐模组
     features:
       - title: TownOfHostEnhanced
         details: TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!
@@ -34,15 +35,15 @@ highlights:
 
       - title: Nebula on the Ship
         details: Nebula on the Ship is Mod for Among Us.
-        link: /HostOnly/NebulaOnTheShip
+        link: /AllClient/NebulaOnTheShip
 
       - title: TheOtherRoles
         details: EHR is the biggest host-only mod for Among Us, with over 350 roles and 7 game modes, along with a Custom Team Assigner application to fully customize your games!
-        link: /HostOnly/TheOtherRoles
+        link: /AllClient/TheOtherRoles
 
       - title: LasMonjas
         details: Among Us Mod with many roles and gamemodes
-        link: /HostOnly/LasMonjas
+        link: /AllClient/LasMonjas
 
       - title: YuEzTools
         details: An Easy Tools for Among Us Game.
