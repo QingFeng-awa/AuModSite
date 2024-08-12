@@ -38,5 +38,34 @@ export const zhSidebar = sidebar({
         { text: 'AllTheRoles', link: '/AllClient/AllTheRoles' }
       ]
     }
+  ],
+  "/Tool/": [
+    {
+      text: "工具",
+      link: "/Tool/",
+      children: [
+        { text: "BetterCrewLink", link: "/Tool/BetterCrewLink" },
+        {
+          text: "功能性插件",
+          link: "/Tool/plugin/"
+        }
+      ]
+    }
+  ],
+  "/Tool/plugin/": [
+    {
+      text: "工具",
+      link: "/Tool/",
+      children: [
+        {
+          text: "功能性插件",
+          link: "/Tool/plugin/",
+          children: [
+            { text: 'YuEzTools', link: '/Tool/plugin/YuEzTools' },
+            { text: 'MalumMenu', link: '/Tool/plugin/MalumMenu' }
+          ]
+        }
+      ]
+    }
   ]
 });

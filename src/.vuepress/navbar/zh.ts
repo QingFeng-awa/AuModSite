@@ -15,5 +15,10 @@ export const zhNavbar = navbar([
     text: "全客户端模组",
     link: "/AllClient/",
     exact: false
+  },
+  {
+    text: "工具",
+    link: "/Tool/",
+    exact: false
   }
 ]);
