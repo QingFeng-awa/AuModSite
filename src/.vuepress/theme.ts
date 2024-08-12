@@ -8,7 +8,6 @@ export default hopeTheme({
   favicon: "/AuModDocs.png",
   iconAssets: "https://at.alicdn.com/t/c/font_4649910_6ca6cfc71ig.css",
   repo: "QingFeng-awa/AuModSite",
-  //页面在配置后仍未显示最后编辑时间与贡献者,需要解决。
   docsRepo: "QingFeng-awa/AuModSite",
   docsDir: "src",
   docsBranch: "v2",
@@ -29,6 +28,17 @@ export default hopeTheme({
     }
   },
   plugins: {
+    searchPro: {
+      autoSuggestions: true,
+      queryHistoryCount: "0",
+      resultHistoryCount: "10",
+      SearchProHotKeyOptions: [
+        {
+          key: "k",
+          ctrl: true
+        }
+      ]
+    },
     readingTime: false,
     /*comment: {
       provider: "Giscus",
