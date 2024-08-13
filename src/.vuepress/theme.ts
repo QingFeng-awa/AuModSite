@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://aumod.site",
   logo: "/AuModDocs.png",
   favicon: "/AuModDocs.png",
-  iconAssets: "https://at.alicdn.com/t/c/font_4649910_6ca6cfc71ig.css",
+  iconAssets: "https://at.alicdn.com/t/c/font_4649910_u4yea0vy3s.css",
   repo: "QingFeng-awa/AuModSite",
   docsRepo: "QingFeng-awa/AuModSite",
   docsDir: "src",
@@ -23,7 +23,7 @@ export default hopeTheme({
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      footer: "© 2024 By QingFeng",
+      footer: "© 2024 By <a href='https://qingfengawa.me' target='_blank'>QingFeng</a>",
       displayFooter: true,
     }
   },
@@ -105,7 +105,7 @@ export default hopeTheme({
       sup: true,
       tabs: true,
       tasklist: true,
-      vPre: true,
+      footnote: true
     },
   },
 });

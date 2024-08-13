@@ -22,7 +22,7 @@ actions:
     link: /Tool/
     type: primary
   - text: 赞助
-    link: https://afdian.com/a/aumodsite
+    link: /donate
 
 highlights:
   - header:

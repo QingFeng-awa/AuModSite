@@ -20,5 +20,10 @@ export const zhNavbar = navbar([
     text: "实用工具",
     link: "/Tool/",
     exact: false
+  },
+  {
+    text: "赞赏",
+    icon: "afdian",
+    link: "/donate"
   }
 ]);
