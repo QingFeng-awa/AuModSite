@@ -17,6 +17,6 @@ BetterCrewLink允许你在Among Us进行近距离语音聊天。<br>
 />
 </div>
 
-![最新版本](https://badgen.net/github/release/OhMyGuus/BetterCrewLink?icon=github)
+![Github最新版本](https://badgen.net/github/release/OhMyGuus/BetterCrewLink?icon=github)
 
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/OhMyGuus/BetterCrewLink)

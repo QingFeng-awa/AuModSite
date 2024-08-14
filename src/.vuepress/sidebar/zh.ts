@@ -35,7 +35,8 @@ export const zhSidebar = sidebar({
         { text: 'Nebula on the Ship', link: '/AllClient/NebulaOnTheShip' },
         { text: 'TownOfUsR', link: '/AllClient/TownOfUsR' },
         { text: 'StellarRoles', link: '/AllClient/StellarRoles' },
-        { text: 'AllTheRoles', link: '/AllClient/AllTheRoles' }
+        { text: 'AllTheRoles', link: '/AllClient/AllTheRoles' },
+        { text: 'CrowdedMod', link: '/AllClient/CrowdedMod' }
       ]
     }
   ],
