@@ -1,10 +1,11 @@
 ---
-title: LasMonjas
+title: LasMonjas(LM)
 ---
-# LasMonjas
 ![Among Us Mod with many roles and gamemodes.](/Image/LasMonjas.png)
 
-## 作者
+LasMonjas为Among Us添加了额外的职业、设置、地图、装扮。<br>
+LasMonjas同时自定义了游戏等待时的大厅,还提供了自制音乐。<br>
+LasMonjas还额外提供了7种游戏模式。
 
 <div align="center">
 <VPCard
@@ -15,14 +16,8 @@ title: LasMonjas
 />
 </div>
 
-## 版本
-- 最新正式版本: `v3.8.0`
-  - 发布于2024年8月4日,下午3:49
-- 支持Among Us版本:
-    - 支持最新版本: `v2024.8.16`
-    - 不支持的版本: `v2023.11.28`及更早版本。
+![Github最新版本](https://badgen.net/github/release/KiraYamato94/LasMonjas?icon=github)
 
-## 相关链接
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/KiraYamato94/LasMonjas)
 
 [![Discord服务器](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/UPCSqnD4NU)

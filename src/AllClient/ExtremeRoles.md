@@ -1,8 +1,10 @@
 ---
-title: ExtremeRoles
+title: ExtremeRoles(ER)
 ---
-# ExtremeRoles
-## 作者
+![AmongUs Mod for Advanced User.](/Image/ExtremeRoles.png)
+
+ExtremeRoles为Among Us添加了额外的角色、设置与装扮。<br>
+ExtremeRoles的作者为ExtremeRoles打造了良好的生态支持(REST API[^1],第三方语音聊天等)。
 
 <div align="center">
 <VPCard
@@ -13,12 +15,9 @@ title: ExtremeRoles
 />
 </div>
 
-## 版本
-- 最新正式版本: `v11.1.1.0`
-  - 发布于2024年8月10日,下午8:29
-- 支持Among Us版本:
-    - 支持最新版本: `v2024.6.18`
-    - 不支持的版本: `v2023.6.4`及更早版本。
+![Github最新版本](https://badgen.net/github/release/yukieiji/ExtremeRoles?icon=github)
 
-## 相关链接
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/yukieiji/ExtremeRoles)
+
+[^1]: REST API也称为RESTful API,是遵循REST架构规范的应用编程接口(API或WebAPI),支持与RESTful Web服务进行交互。<br>
+REST是表述性状态传递的英文缩写,由计算机科学家Roy Fielding创建。

@@ -1,7 +1,6 @@
 ---
-title: AllTheRoles
+title: AllTheRoles(ATR)
 ---
-# AllTheRoles(ATR)
 ![An Among Us mod which adds many new roles, modifiers, game modes, map settings, hats and more.](/Image/AllTheRoles.png)
 
 AllTheRoles为Among Us添加了许多新职业、地图、游戏模式、装扮等内容。
