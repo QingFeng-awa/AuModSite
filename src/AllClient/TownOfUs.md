@@ -1,12 +1,11 @@
 ---
-title: TownOfUs
+title: TownOfUs(TOU)
 ---
-# TownOfUs
 ![An Among Us mod containing a bunch of roles.](/Image/TownOfUs.png)
 
 ::: important 已归档的模组
 此模组GitHub仓库状态为**已归档**,这通常意味着该模组已停止更新。<br>
-已归档的模组不会继续更新,这意味着模组将无法兼容新版本,不会处理已知bug等。
+已归档的模组不会继续更新,这意味着模组将不会兼容新版本,不会处理已知bug等。
 :::
 
 <div align="center">

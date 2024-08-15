@@ -1,10 +1,10 @@
 ---
-title: SuperNewRoles
+title: SuperNewRoles(SNR)
 ---
-# SuperNewRoles
 ![モードや役職など、様々な要素があるAmongUsのMOD、SuperNewRoles!!!!](/Image/SuperNewRoles.png)
 
-## 作者
+SuperNewRoles为Among Us添加了额外的职业、游戏设置等内容。<br>
+除此之外,SuperNewRoles官方提供由社区赞助维护的私服服务器([SuperNewRolesTokyo](https://github.com/SuperNewRoles/SuperNewRoles/wiki/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E3%82%B5%E3%83%BC%E3%83%90%EF%BC%9ASuperNewRolesTokyo-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6))。
 
 <div align="center">
 <VPCard
@@ -15,14 +15,8 @@ title: SuperNewRoles
 />
 </div>
 
-## 版本
-- 最新正式版本: `v2.3.1.6`
-  - 发布于2024年7月29日,上午9:43
-- 支持Among Us版本:
-    - 支持最新版本: `v2024.6.4`
-    - 不支持的版本: `v2023.11.28`及更早版本。
+![Github最新版本](https://badgen.net/github/release/SuperNewRoles/SuperNewRoles?icon=github)
 
-## 相关链接
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/SuperNewRoles/SuperNewRoles)
 
 [![Discord服务器](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/77RkMJHWsM)

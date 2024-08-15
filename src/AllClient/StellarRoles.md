@@ -1,7 +1,6 @@
 ---
-title: StellarRoles
+title: StellarRoles(SR)
 ---
-# StellarRoles(SR)
 ![Among Us Mod StellarRoles.](/Image/StellarRoles.png)
 
 StellarRoles为Among Us添加了新职业、新设置以及新的自定义装扮。
