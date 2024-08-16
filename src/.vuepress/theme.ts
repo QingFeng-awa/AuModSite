@@ -11,6 +11,8 @@ export default hopeTheme({
   docsRepo: "QingFeng-awa/AuModSite",
   docsDir: "src",
   docsBranch: "v2",
+  author: false,
+  date: false,
   lastUpdated: true,
   contributors: true,
   copyright: false,
@@ -38,6 +40,9 @@ export default hopeTheme({
           ctrl: true
         }
       ]
+    },
+    photoSwipe: {
+      download: false
     },
     readingTime: false,
     /*comment: {
@@ -68,43 +73,16 @@ export default hopeTheme({
         ]
       }
     ],
+    sitemap: [
+      {
+        sitemapFilename: "/sitemap.xml",
+        changefreq: "hourly"
+      }
+    ],
     mdEnhance: {
       align: true,
-      attrs: true,
-      codetabs: true,
       component: true,
-      demo: true,
-      figure: true,
       imgLazyload: true,
-      imgSize: true,
-      include: true,
-      mark: true,
-      plantuml: true,
-      spoiler: true,
-      chart: true,
-      stylize: [
-        {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "note" },
-                content: "Recommended",
-              };
-          },
-        },
-      ],
-      sitemapPlugin: [
-        {
-          sitemapFilename: "/sitemap.xml",
-          changefreq: "hourly"
-        }
-      ],
-      sub: true,
-      sup: true,
-      tabs: true,
-      tasklist: true,
       footnote: true
     },
   },

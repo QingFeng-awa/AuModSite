@@ -1,11 +1,8 @@
 ---
-title: EndlessHostRoles
+title: EndlessHostRoles(EHR)
 ---
-# EndlessHostRoles
 
 ![EHR is the biggest host-only mod for Among Us, with over 350 roles and 7 game modes, along with a Custom Team Assigner application to fully customize your games!](/Image/EndlessHostRoles.png)
-
-## 作者
 
 <div align="center">
 <VPCard
