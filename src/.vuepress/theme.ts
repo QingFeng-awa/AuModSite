@@ -14,13 +14,11 @@ export default hopeTheme({
   author: false,
   date: false,
   lastUpdated: true,
-  contributors: true,
+  contributors: false,
   copyright: false,
   toc: false,
-  /*隐藏上下一页的Config似乎不起作用,需要其他解决方案。
-  文档链接: https://theme-hope.vuejs.press/zh/config/intro.html
-  prev: false,
-  next: false,*/
+  prevLink: false,
+  nextLink: false,
   locales: {
     "/": {
       navbar: zhNavbar,
@@ -45,21 +43,31 @@ export default hopeTheme({
       download: false
     },
     readingTime: false,
-    /*comment: {
-      provider: "Giscus",
-      repo: "QingFeng-awa/AuModSite",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
-    },*/
     components: {
       components: ["Badge", "VPCard"],
     },
+    /*激活评论系统会导致无法显示页面,需要解决。
+    参考https://theme-hope.vuejs.press/zh/guide/feature/comment.html#waline
+    与https://ecosystem.vuejs.press/zh/plugins/blog/comment/waline/config.html
+    comment: {
+      provider: "Waline",
+      serverURL: "https://waline.aumod.site",
+      dark: "auto",
+      meta: [
+        "nick",
+        "mail"
+      ],
+      requiredMeta: [
+        "mail"
+      ],
+      wordLimit: "200",
+      pageSize: "20"
+    },*/
     notice: [
       {
         path: "/",
         title: "网站尚未完成开发",
-        content: "由于v2版本站点编写较为仓促,导致部分v1原有功能未完成。<br>非常抱歉,我们将尽快完成。",
+        content: "由于v2版本站点编写较为仓促,导致部分v1原有功能未完成。<br>非常抱歉,我将尽快恢复所有功能。。",
         actions: [
           {
             text: "回到v1版本",
