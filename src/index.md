@@ -27,27 +27,15 @@ actions:
 highlights:
   - header:
     bgImage: /AmongUsSpace.png
-  - header: 推荐模组
+  - header: 热门模组
     features:
-      - title: TownOfHostEnhanced
+      - title: Town Of Host Enhanced
         details: TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!
         link: /HostOnly/TownOfHostEnhanced
 
       - title: Nebula on the Ship
         details: Nebula on the Ship is Mod for Among Us.
         link: /AllClient/NebulaOnTheShip
-
-      - title: TheOtherRoles
-        details: EHR is the biggest host-only mod for Among Us, with over 350 roles and 7 game modes, along with a Custom Team Assigner application to fully customize your games!
-        link: /AllClient/TheOtherRoles
-
-      - title: LasMonjas
-        details: Among Us Mod with many roles and gamemodes
-        link: /AllClient/LasMonjas
-  
-      - title: TownOfNewEpic_Xtreme
-        details: Host only mod for Among Us, forked from Town Of Next.
-        link: /HostOnly/TownOfNewEpic_Xtreme
 ---
 <br>
 这是一个关于Among Us模组的文档网站。
