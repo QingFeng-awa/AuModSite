@@ -90,6 +90,7 @@ export default hopeTheme({
     mdEnhance: {
       align: true,
       component: true,
+      figure: true,
       imgLazyload: true,
       footnote: true
     },
