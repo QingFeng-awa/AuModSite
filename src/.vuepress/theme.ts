@@ -28,7 +28,6 @@ export default hopeTheme({
   },
   plugins: {
     git: {
-      createdTime: false,
       contributors: false
     },
     searchPro: {

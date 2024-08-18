@@ -1,6 +1,7 @@
 ---
 title: 关于
 description: “Among Us 模组档案” 是一个记录所有Among Us模组在GitHub上开源的网站。我在此收录了大部分的Among Us模组供玩家们查看,您可以通过此网站快速了解现在Among Us的H系模组&全客户端系模组以及功能性插件。
+date: 2024-07-19
 ---
 # 关于
 
