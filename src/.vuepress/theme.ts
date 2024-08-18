@@ -12,13 +12,12 @@ export default hopeTheme({
   docsDir: "src",
   docsBranch: "v2",
   author: false,
-  date: false,
   lastUpdated: true,
-  contributors: false,
   copyright: false,
   toc: false,
   prevLink: false,
   nextLink: false,
+  date: false,
   locales: {
     "/": {
       navbar: zhNavbar,
@@ -28,6 +27,10 @@ export default hopeTheme({
     }
   },
   plugins: {
+    git: {
+      createdTime: false,
+      contributors: false
+    },
     searchPro: {
       autoSuggestions: true,
       queryHistoryCount: "0",
@@ -44,7 +47,7 @@ export default hopeTheme({
     },
     readingTime: false,
     components: {
-      components: ["Badge", "VPCard"],
+      components: ["VPCard"],
     },
     /*激活评论系统会导致无法显示页面,需要解决。
     参考https://theme-hope.vuejs.press/zh/guide/feature/comment.html#waline

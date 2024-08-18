@@ -1,8 +1,9 @@
 ---
-title: TheOtherHostRoles
+title: TheOtherHostRoles(TOHR)
 ---
-# TheOtherHostRoles
-## 作者
+
+TheOtherHostRoles自称为TOHTOR的延续。<br>
+模组在TOHTOR的基础上添加了更多职业,并且也修正了些许bug。
 
 ::: caution 无法显示作者
 
@@ -10,12 +11,6 @@ title: TheOtherHostRoles
 
 :::
 
-## 版本
-- 最新正式版本: `v2.3`
-  - 发布于2024年6月14日,下午11:32
-- 支持Among Us版本:
-    - 支持最新版本: `v2024.3.5`
-    - 不支持的版本: `v2023.11.28`及更早版本。
+![Github最新版本](https://badgen.net/github/release/xprogamer008/TheOtherHostRoles?icon=github)
 
-## 相关链接
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/xprogamer008/TheOtherHostRoles)

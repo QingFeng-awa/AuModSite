@@ -1,5 +1,6 @@
 ---
 title: 赞助
+description: 赞助我!得到赞助的我会为您提供更好的服务。
 ---
 # 赞助
 **赞助我!得到赞助的我会为您提供更好的服务。**
@@ -8,6 +9,10 @@ title: 赞助
 <VPCard
   title="<b>Slok</b>"
   desc="<b>赞助了QingFeng 100元</b>"
+/>
+<VPCard
+  title="ksy"
+  desc="赞助了QingFeng 6元"
 />
 </div>
 
