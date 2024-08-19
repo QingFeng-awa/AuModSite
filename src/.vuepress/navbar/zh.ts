@@ -7,17 +7,25 @@ export const zhNavbar = navbar([
     link: "/"
   },
   {
+    text: "关于",
+    icon: "about",
+    link: "/about",
+  },
+  {
     text: "H系模组",
+    icon: "project",
     link: "/HostOnly/",
     exact: false
   },
   {
     text: "全客户端模组",
+    icon: "project",
     link: "/AllClient/",
     exact: false
   },
   {
     text: "实用工具",
+    icon: "tool",
     link: "/Tool/",
     exact: false
   },

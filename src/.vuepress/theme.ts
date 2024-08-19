@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://aumod.site",
   logo: "/AuModDocs.png",
   favicon: "/AuModDocs.png",
-  iconAssets: "https://at.alicdn.com/t/c/font_4649910_u4yea0vy3s.css",
+  iconAssets: "https://at.alicdn.com/t/c/font_4649910_gbvi5yws1p.css",
   repo: "QingFeng-awa/AuModSite",
   docsRepo: "QingFeng-awa/AuModSite",
   docsDir: "src",

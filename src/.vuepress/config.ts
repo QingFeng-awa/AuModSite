@@ -6,14 +6,13 @@ export default defineUserConfig({
     "/": {
       lang: "zh-CN",
       title: "Among Us模组档案",
-      description: "一个记录所有Au模组的网站。",
+      description: "一个记录所有Among Us模组的网站。",
     },
     /*"/en/": {
       lang: "en-US",
       title: "Among Us Mod Archive",
-      description: "A website to record all mods."
+      description: "A website to record all Among Us Mods."
     }*/
   },
-  port: "8000",
   theme,
 });
