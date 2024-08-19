@@ -22,7 +22,7 @@ export default hopeTheme({
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      footer: "© 2024 By <a href='https://qingfengawa.me' target='_blank'>QingFeng</a>",
+      footer: "© 2024 By <a href='https://qingfengawa.me' target='_blank'>QingFeng</a><br>Powered by <a href='https://theme-hope.vuejs.press/zh/' target='blank'>VuePress-hope</a>",
       displayFooter: true,
     }
   },
