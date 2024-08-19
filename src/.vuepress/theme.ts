@@ -46,7 +46,7 @@ export default hopeTheme({
     },
     readingTime: false,
     components: {
-      components: ["VPCard"],
+      components: ["VPCard","SiteInfo"],
     },
     /*激活评论系统会导致无法显示页面,需要解决。
     参考https://theme-hope.vuejs.press/zh/guide/feature/comment.html#waline
