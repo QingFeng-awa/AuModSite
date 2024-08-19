@@ -1,8 +1,9 @@
 ---
-title: TownOfChaos
+title: TownOfChaos(TOC)
 ---
-# TownOfChaos
-## 作者
+
+TownOfChaos是一个的H系模组,这个模组为Among Us添加了职业和设置。<br>
+但,TOC不一样的是,当TOC运行在私服上时则需要所有玩家安装此模组才能游玩。[^1]
 
 ::: caution 无法显示作者
 
@@ -10,14 +11,11 @@ title: TownOfChaos
 
 :::
 
-## 版本
-- 最新正式版本: `v3.4`
-  - 发布于2024年5月30日,下午11:45
-- 支持Among Us版本:
-    - 支持最新版本: *尚不明确。*
-    - 不支持的版本: *尚不明确。*
+![Github最新版本](https://badgen.net/github/release/Englishpump93/Town-Of-Chaos-?icon=github)
 
-## 相关链接
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/Englishpump93/Town-Of-Chaos-)
 
 [![Discord服务器](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/jnJrZSHrN8)
+
+[^1]: 这是TOC作者在Readme上声明的,原文是:<br>
+If you are going to play on Custom Servers, such as MNA and MEU, it would require everyone to have the mods the host has.

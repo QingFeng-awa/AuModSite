@@ -1,10 +1,14 @@
 ---
-title: TownOfHost
+title: TownOfHost(TOH)
 ---
-# TownOfHost
+
 ![Town Of Host, Host only mod for Among Us.](/Image/TownOfHost.png)
 
-## 作者
+TownOfHost作为最早的H系模组,其早在2021年便发布了第一个版本。<br>
+TOH在GitHub上的提交数已然达到恐怖的近8700次。<br>
+说回模组,TOH是一个经典的Among Us模组,其为Among Us添加了许多职业、设置与玩法。<br>
+同时这个模组也支持多达15种语言(支持率88.2%)。<br>
+*尽管TOH现在已然在中国没落,但我仍希望TOH振作起来继续为我们带来更多有趣的内容。*
 
 <div align="center">
 <VPCard
@@ -15,14 +19,8 @@ title: TownOfHost
 />
 </div>
 
-## 版本
-- 最新正式版本: `v5.1.6`
-  - 发布于2024年3月22日,下午11:20
-- 支持Among Us版本:
-    - 支持最新版本: *尚不明确,但它并不支持`v2024.6.18`及之后版本。*
-    - 不支持的版本: `v2023.11.28`及更早版本。
+![Github最新版本](https://badgen.net/github/release/tukasa0001/TownOfHost?icon=github)
 
-## 相关链接
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/tukasa0001/TownOfHost)
 
 [![Discord服务器](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/W5ug6hXB9V)
