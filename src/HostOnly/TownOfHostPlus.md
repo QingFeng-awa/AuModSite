@@ -1,13 +1,13 @@
 ---
-title: TownOfHostPlus
+title: TownOfHostPlus(TOHP)
 ---
-# TownOfHostPlus
 
-::: note 已归档的模组
-该模组GitHub仓库已在**2023年7月25日**归档,这通常意味着该模组已停止更新。
+TownOfHostPlus是一个基于[TOH](./TownOfHost)的改版,旨在为TOH拓展更多功能。
+
+::: important 已归档的模组
+此模组GitHub仓库状态为**已归档**,这通常意味着该模组已停止更新。<br>
+已归档的模组不会继续更新,这意味着模组将不会兼容新版本,不会处理已知bug等。
 :::
-
-## 作者
 
 <div align="center">
 <VPCard
@@ -18,12 +18,6 @@ title: TownOfHostPlus
 />
 </div>
 
-## 版本
-- 最新正式版本: `v1.0`
-  - 发布于2023年5月3日,上午4:43
-- 支持Among Us版本:
-    - 支持最新版本: `v2023.3.28`
-    - 不支持的版本: `v2023.2.28`及更早版本。
+![Github最新版本](https://badgen.net/github/release/ItzLoonie/TownOfHostPlus?icon=github)
 
-## 相关链接
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/ItzLoonie/TownOfHostPlus)

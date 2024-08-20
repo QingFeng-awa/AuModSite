@@ -1,10 +1,11 @@
 ---
-title: TownOfHostEnhanced
+title: TownOfHostEnhanced(TOHE)
 ---
-# TownOfHostEnhanced
+
 ![TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!](/Image/TownOfHostEnhanced.jpg)
 
-## 作者
+TownOfHostEnhanced基于[TownOfHostReEdited](./TownOfHostReEdited),旨在延续TOHRE的同时带来更好的内容。<br>
+TOHE为Among Us添加了许多职业、设置,同时只需要房主装载模组全部玩家即可游玩(Host-only)。
 
 <div align="center">
 <VPCard
@@ -15,14 +16,8 @@ title: TownOfHostEnhanced
 />
 </div>
 
-## 版本
-- 最新正式版本: `v2.0.2`
-  - 发布于2024年8月4日,下午1:30
-- 支持Among Us版本:
-    - 支持最新版本: `v2024.6.18`
-    - 不支持的版本: `v2024.6.4`及更早版本。
+![Github最新版本](https://badgen.net/github/release/0xDrMoe/TownofHost-Enhanced?icon=github)
 
-## 相关链接
 [![官方网站](https://badgen.net/badge/Web/Site/3AA675)](https://tohre.dev)
 
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/0xDrMoe/TownofHost-Enhanced)

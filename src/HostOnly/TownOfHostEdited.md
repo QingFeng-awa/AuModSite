@@ -1,18 +1,16 @@
 ---
-title: TownOfHostEdited
+title: TownOfHostEdited(TOHE)
 ---
-# TownOfHostEdited
 
 <div align="center">
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=527037322&bvid=BV1TM411T7UW&cid=1137124236&p=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500px" allowfullscreen="false"></iframe>
 对游戏最高的热爱,是去创造他
 </div>
 
-::: note 已归档的模组
-该模组作者已声明该模组停止更新。
+::: important 已归档的模组
+此模组作者已声明模组已停止更新,即使其GitHub仓库未归档。<br>
+已归档的模组不会继续更新,这意味着模组将不会兼容新版本,不会处理已知bug等。
 :::
-
-## 作者
 
 <div align="center">
 <VPCard
@@ -23,14 +21,8 @@ title: TownOfHostEdited
 />
 </div>
 
-## 版本
-- 最新正式版本: `v2.3.6`
-  - *未知发布时间。*
-- 支持Among Us版本:
-    - 支持最新版本: *尚不明确,但它并不支持`v2024.6.18`及之后版本。*
-    - 不支持的版本: *尚不明确。*
+![Github最新版本](https://badgen.net/github/release/KARPED1EM/TownOfHostEdited?icon=github)
 
-## 相关链接
 [![官方网站](https://badgen.net/badge/Web/Site/3AA675)](https://tohe.cc)
 
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/KARPED1EM/TownOfNext/tree/TOHE)
