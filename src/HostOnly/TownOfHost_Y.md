@@ -1,8 +1,8 @@
 ---
-title: TownOfHost_Y
+title: TownOfHost_Y(TOHY)
 ---
-# TownOfHost_Y
-## 作者
+
+TownOfHost_Y是一个基于[TownOfHost](./TownOfHost)的改版,旨在为Among Us添加了许多不同的角色和功能。
 
 <div align="center">
 <VPCard
@@ -13,14 +13,8 @@ title: TownOfHost_Y
 />
 </div>
 
-## 版本
-- 最新正式版本: `v517.23`
-  - 发布于2024年7月26日,下午3:48
-- 支持Among Us版本:
-    - 支持最新版本: `v2024.6.18`
-    - 不支持的版本: `v2024.6.4`及更早版本。
+![Github最新版本](https://badgen.net/github/release/Yumenopai/TownOfHost_Y?icon=github)
 
-## 相关链接
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/Yumenopai/TownOfHost_Y)
 
 [![Twitter账号](https://badgen.net/badge/X/(Twitter)/1A9DEF?icon=twitter)](https://twitter.com/yumeno_AmongUs)
