@@ -26,6 +26,10 @@ actions:
     icon: tool
     link: /Tool/
     type: primary
+  - text: 指南
+    icon: guide
+    link: /guide/
+    type: primary
   - text: 赞助
     icon: afdian
     link: /donate

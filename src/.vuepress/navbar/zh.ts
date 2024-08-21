@@ -30,6 +30,12 @@ export const zhNavbar = navbar([
     exact: false
   },
   {
+    text: "指南",
+    icon: "guide",
+    link: "/guide/",
+    exact: false
+  },
+  {
     text: "赞赏",
     icon: "afdian",
     link: "/donate"

@@ -49,28 +49,33 @@ export const zhSidebar = sidebar({
       icon: "tool",
       link: "/Tool/",
       children: [
-        { text: "BetterCrewLink", link: "/Tool/BetterCrewLink" },
-        /*{
-          text: "功能性插件",
-          link: "/Tool/plugin/"
-        }*/
+        { text: "BetterCrewLink", link: "/Tool/BetterCrewLink" }
       ]
     }
   ],
-  /*"/Tool/plugin/": [
+  "/guide/": [
     {
-      text: "工具",
-      link: "/Tool/",
+      text: "指南",
+      icon: "guide",
+      link: "/guide/",
       children: [
         {
-          text: "功能性插件",
-          link: "/Tool/plugin/",
+          text: "模组安装",
+          icon: "install",
           children: [
-            { text: 'YuEzTools', link: '/Tool/plugin/YuEzTools' },
-            { text: 'MalumMenu', link: '/Tool/plugin/MalumMenu' }
+            { text: "Steam", icon: "Steam", link: "/guide/install/Steam" },
+            { text: "Epic", icon: "Epic", link: "/guide/install/Epic" },
+          ]
+        },
+        {
+          text: "疑难解答",
+          icon: "FAQ",
+          children: [
+            { text: "首次启动模组无反应", link: "/guide/FAQ/FirstRunMod"},
+            { text: "GitHub无法访问", link: "/guide/FAQ/GithubTimeOut"}
           ]
         }
       ]
     }
-  ]*/
+  ]
 });
