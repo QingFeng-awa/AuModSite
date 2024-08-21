@@ -3,8 +3,7 @@ title: 无法打开github.com
 description: 请使用加速器,推荐使用Watt Toolkit软件的使用方法不再赘述,请自行搜索。
 ---
 # 无法打开github.com
-请使用加速器。
-
+建议使用加速器。<br>
 推荐使用Watt Toolkit(Steam++)<br>
 软件的使用方法不再赘述,请自行搜索。
 
@@ -18,3 +17,8 @@ description: 请使用加速器,推荐使用Watt Toolkit软件的使用方法不
   preview="https://steampp.net/images/home/js.webp"
 />
 </div>
+
+::: note 
+如果有自己购买的梯子还是尽量使用梯子为好。<br>
+Watt Toolkit因使用人数较多,多人挤占同一节点,导致Watt Toolkit的加速效果并不是很好。
+:::
