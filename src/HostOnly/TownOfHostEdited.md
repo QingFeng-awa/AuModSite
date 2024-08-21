@@ -7,6 +7,9 @@ title: TownOfHostEdited(TOHE)
 对游戏最高的热爱,是去创造他
 </div>
 
+TownOfHostEdited是一个基于[TownOfHost](./TownOfHost)的模组,其为Among Us做出了重大贡献。<br>
+TOHE被我们称为Among Us上最伟大的模组。
+
 ::: important 已归档的模组
 此模组作者已声明模组已停止更新,即使其GitHub仓库未归档。<br>
 已归档的模组不会继续更新,这意味着模组将不会兼容新版本,不会处理已知bug等。
