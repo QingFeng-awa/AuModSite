@@ -1,14 +1,15 @@
 ---
-title: TownOfNext
+title: TownOfNext(TONX)
 ---
-# TownOfNext
 ![An AmongUs mod with learning & love.](/Image/TownOfNext.jpg)
 
-::: note 已归档的模组
-该模组作者已声明该模组停止更新。
-:::
+TownOfNext是KARPED1EM继[TownOfHostEdited](./TownOfHostEdited)的又一续作。<br>
+TONX的特点是带来了一个全新的UI设计,使得其被多个模组参考借鉴。
 
-## 作者
+::: important 已归档的模组
+此模组作者已声明模组已停止更新,即使其GitHub仓库未归档。<br>
+已归档的模组不会继续更新,这意味着模组将不会兼容新版本,不会处理已知bug等。
+:::
 
 <div align="center">
 <VPCard
@@ -19,14 +20,8 @@ title: TownOfNext
 />
 </div>
 
-## 版本
-- 最新正式版本: `v3.0.1`
-  - 发布于2023年11月23日,上午1:46
-- 支持Among Us版本:
-    - 支持最新版本: *尚不明确,但它并不支持`v2024.6.18`及之后版本。*
-    - 不支持的版本: *尚不明确。*
+![Github最新版本](https://badgen.net/github/release/KARPED1EM/TownOfNext?icon=github)
 
-## 相关链接
 [![官方网站](https://badgen.net/badge/Web/Site/3AA675)](https://tonx.cc)
 
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/KARPED1EM/TownOfNext)

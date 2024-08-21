@@ -24,4 +24,4 @@ TownOfNewEpic_Xtreme是一个基于[TownOfNext](./TownOfNext)的改版,旨在为
 
 [![Discord服务器](https://badgen.net/badge/Discord/Server/5662F6?icon=discord)](https://discord.gg/pMd4NMW6kV)
 
-[^1]: TONEX的云服务提供者已声明将停止支持。
+[^1]: TONEX的[云服务提供者](https://github.com/QingFeng-awa)已声明将不再为TONEX提供云服务支持。
