@@ -4,6 +4,7 @@ export const zhSidebar = sidebar({
   "/HostOnly/": [
     {
       text: "H系模组",
+      icon: "project",
       link: "/HostOnly/",
       activeMatch: "^/HostOnly/$",
       children: [
@@ -17,13 +18,15 @@ export const zhSidebar = sidebar({
         { text: 'TownOfPlus', link: '/HostOnly/TownOfPlus'},
         { text: 'TownOfHost_Y', link: '/HostOnly/TownOfHost_Y'},
         { text: 'TownOfChaos', link: '/HostOnly/TownOfChaos' },
-        { text: 'TheOtherHostRoles', link: '/HostOnly/TheOtherHostRoles' }
+        { text: 'TheOtherHostRoles', link: '/HostOnly/TheOtherHostRoles' },
+        { text: 'TownOfHostReEdited', link: '/HostOnly/TownOfHostReEdited'}
       ]
     }
   ],
   "/AllClient/": [
     {
       text: "全客户端模组",
+      icon: "project",
       link: "/AllClient/",
       activeMatch: "^/AllClient/$",
       children: [
@@ -43,6 +46,7 @@ export const zhSidebar = sidebar({
   "/Tool/": [
     {
       text: "工具",
+      icon: "tool",
       link: "/Tool/",
       children: [
         { text: "BetterCrewLink", link: "/Tool/BetterCrewLink" },

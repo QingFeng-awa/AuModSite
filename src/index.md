@@ -12,17 +12,22 @@ heroText: Among Us模组档案
 tagline: 一个记录所有Au模组的档案网站。
 actions:
   - text: 关于
+    icon: about
     link: /about
   - text: H系模组
+    icon: project
     link: /HostOnly/
     type: primary
   - text: 全客户端模组
+    icon: project
     link: /AllClient/
     type: primary
   - text: 实用工具
+    icon: tool
     link: /Tool/
     type: primary
   - text: 赞助
+    icon: afdian
     link: /donate
 
 highlights:

@@ -27,6 +27,10 @@ export default hopeTheme({
     }
   },
   plugins: {
+    linksCheck: {
+      dev: false,
+      build: "error"
+    },
     git: {
       contributors: false
     },
