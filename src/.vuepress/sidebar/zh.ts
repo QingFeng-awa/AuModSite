@@ -49,7 +49,8 @@ export const zhSidebar = sidebar({
       icon: "tool",
       link: "/Tool/",
       children: [
-        { text: "BetterCrewLink", link: "/Tool/BetterCrewLink" }
+        { text: "BetterCrewLink", link: "/Tool/BetterCrewLink" },
+        { text: "ModManager", link: "/Tool/ModManager"}
       ]
     },
     {

@@ -1,7 +1,7 @@
 ---
 title: BetterCrewLink
 ---
-# BetterCrewLink
+
 ![Free, open, Among Us Proximity Chat](/Image/BetterCrewLink.png)
 
 BetterCrewLink是[CrewLink](https://github.com/ottomated/CrewLink)的分支版本,旨在提供相对原版更多的功能以及更好的支持。<br>
