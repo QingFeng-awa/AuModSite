@@ -16,4 +16,6 @@ FinalSuspect实际上就是[TownOfNewEpic_Xtreme](/HostOnly/TownOfNewEpic_Xtreme
 
 ![Github最新版本](https://badgen.net/github/release/XtremeWave/FinalSuspect_Xtreme?icon=github)
 
+[![官方网站](https://badgen.net/badge/Web/Site/3AA675)](https://fsusx.top)
+
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/XtremeWave/FinalSuspect_Xtreme)
