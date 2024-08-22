@@ -59,3 +59,5 @@ C:\Program Files (x86)\Steam\steamapps\common\Among Us
 现在的大部分模组都不提供懒人包,因此,我也不再提供懒人包安装教程。<br>
 我更倾向玩家们拥有自主解决遇到问题的能力,而不是一味的去寻求`懒人包`,`安装程序`这些偏`懒人`的东西。<br>
 这并不是什么**没苦硬吃**,而是一次很好的实践机会。
+
+当然,你要是真的想要我加这个教程就请在[此仓库GitHub仓库发issue](https://github.com/QingFeng-awa/AuModSite/issues/new?assignees=QingFeng-awa&labels=%E7%B1%BB%E5%9E%8B%3A%E9%9C%80%E6%B1%82%2C%E7%8A%B6%E6%80%81%3A%E5%BE%85%E5%A4%84%E7%90%86&projects=&template=FeatureRequest.yaml&title=%5BFeat%5D%3A+)

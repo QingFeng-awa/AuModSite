@@ -13,7 +13,7 @@ export const zhSidebar = sidebar({
         { text: 'TownOfHostEdited', link: '/HostOnly/TownOfHostEdited'},
         { text: 'TownOfHostPlus', link: '/HostOnly/TownOfHostPlus'},
         { text: 'TownOfNext', link: '/HostOnly/TownOfNext'},
-        { text: 'TownOfHostEnhanced', link: '/HostOnly/TownOfHostEnhanced'},
+        { text: 'TownOfHostEnhanced', icon:"star", link: '/HostOnly/TownOfHostEnhanced'},
         { text: 'EndlessHostRoles', link: '/HostOnly/EndlessHostRoles'},
         { text: 'TownOfPlus', link: '/HostOnly/TownOfPlus'},
         { text: 'TownOfHost_Y', link: '/HostOnly/TownOfHost_Y'},
@@ -35,7 +35,7 @@ export const zhSidebar = sidebar({
         { text: 'SuperNewRoles', link: '/AllClient/SuperNewRoles' },
         { text: 'LasMonjas', link: '/AllClient/LasMonjas' },
         { text: 'ExtremeRoles', link: '/AllClient/ExtremeRoles' },
-        { text: 'Nebula on the Ship', link: '/AllClient/NebulaOnTheShip' },
+        { text: 'Nebula on the Ship', icon:"star", link: '/AllClient/NebulaOnTheShip' },
         { text: 'TownOfUsR', link: '/AllClient/TownOfUsR' },
         { text: 'StellarRoles', link: '/AllClient/StellarRoles' },
         { text: 'AllTheRoles', link: '/AllClient/AllTheRoles' },
@@ -50,6 +50,15 @@ export const zhSidebar = sidebar({
       link: "/Tool/",
       children: [
         { text: "BetterCrewLink", link: "/Tool/BetterCrewLink" }
+      ]
+    },
+    {
+      text: "插件",
+      icon: "plugin",
+      link: "/Tool/plugin/",
+      children: [
+        { text: "YuEzTools", link: "/Tool/plugin/YuEzTools" },
+        { text: "FinalSuspect_Xtreme", link: "/Tool/plugin/FinalSuspect_Xtreme"}
       ]
     }
   ],

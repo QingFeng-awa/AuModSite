@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://aumod.site",
   logo: "/AuModDocs.png",
   favicon: "/AuModDocs.png",
-  iconAssets: "https://at.alicdn.com/t/c/font_4649910_ptjo6mpr7m.css",
+  iconAssets: "https://at.alicdn.com/t/c/font_4649910_goyks6w2sc.css",
   repo: "QingFeng-awa/AuModSite",
   docsRepo: "QingFeng-awa/AuModSite",
   docsDir: "src",
@@ -22,7 +22,7 @@ export default hopeTheme({
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      footer: "© 2024 By <a href='https://qingfengawa.me' target='_blank'>QingFeng</a><br>Powered by <a href='https://theme-hope.vuejs.press/zh/' target='blank'>VuePress-hope</a>",
+      footer: "© 2024 By <a href='https://qingfengawa.me' target='_blank'>QingFeng</a><br>Powered by <a href='https://theme-hope.vuejs.press/zh/' target='blank'>VuePress-hope</a><br>本站由<a href='https://www.rainyun.com/QingFeng_?s=WebSite'>雨云</a>提供云计算服务",
       displayFooter: true,
     }
   },
