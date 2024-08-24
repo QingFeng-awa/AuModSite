@@ -6,14 +6,18 @@ export default hopeTheme({
   hostname: "https://aumod.site",
   logo: "/AuModDocs.png",
   favicon: "/AuModDocs.png",
-  iconAssets: "https://at.alicdn.com/t/c/font_4649910_goyks6w2sc.css",
+  iconAssets: "https://at.alicdn.com/t/c/font_4649910_cyn3htqhf8.css",
   repo: "QingFeng-awa/AuModSite",
   docsRepo: "QingFeng-awa/AuModSite",
   docsDir: "src",
   docsBranch: "v2",
-  author: false,
+  author: {
+    name: "QingFeng",
+    url: "https://qingfengawa.me",
+    email: "qingfeng_awa@163.com"
+  },
+  license: "GPL-3.0",
   lastUpdated: true,
-  copyright: false,
   toc: false,
   prevLink: false,
   nextLink: false,
@@ -22,7 +26,7 @@ export default hopeTheme({
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      footer: "© 2024 By <a href='https://qingfengawa.me' target='_blank'>QingFeng</a><br>Powered by <a href='https://theme-hope.vuejs.press/zh/' target='blank'>VuePress-hope</a><br>本站由<a href='https://www.rainyun.com/QingFeng_?s=WebSite'>雨云</a>提供云计算服务",
+      footer: "本站由<a href='https://www.rainyun.com/QingFeng_?s=WebSite'>雨云</a>提供云计算服务",
       displayFooter: true,
     }
   },
@@ -94,7 +98,9 @@ export default hopeTheme({
     ],
     sitemap: [
       {
+        excludePaths: ["/temporary/"],
         sitemapFilename: "/sitemap.xml",
+        sitemapXSLFilename: "/sitemap.xsl",
         changefreq: "hourly"
       }
     ],

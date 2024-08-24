@@ -48,6 +48,8 @@ export const zhSidebar = sidebar({
       text: "工具",
       icon: "tool",
       link: "/Tool/",
+      collapsible: true,
+      expanded: true,
       children: [
         { text: "BetterCrewLink", link: "/Tool/BetterCrewLink" },
         { text: "ModManager", link: "/Tool/ModManager"}
@@ -57,6 +59,7 @@ export const zhSidebar = sidebar({
       text: "插件",
       icon: "plugin",
       link: "/Tool/plugin/",
+      collapsible: true,
       children: [
         { text: "YuEzTools", link: "/Tool/plugin/YuEzTools" },
         { text: "FinalSuspect_Xtreme", link: "/Tool/plugin/FinalSuspect_Xtreme"}
@@ -83,6 +86,21 @@ export const zhSidebar = sidebar({
           children: [
             { text: "首次启动模组无反应", link: "/guide/FAQ/FirstRunMod"},
             { text: "GitHub无法访问", link: "/guide/FAQ/GithubTimeOut"}
+          ]
+        }
+      ]
+    },
+  ],
+  "/temporary/": [
+    {
+      text: "活动",
+      icon: "temporary",
+      children: [
+        { 
+          text: "面向开发者",
+          icon: "developer",
+          children: [
+            { text: "免费云服务支持", link: "/temporary/developer/Cloud" }
           ]
         }
       ]
