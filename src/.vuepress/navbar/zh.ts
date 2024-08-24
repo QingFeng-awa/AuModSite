@@ -12,16 +12,22 @@ export const zhNavbar = navbar([
     link: "/about",
   },
   {
-    text: "H系模组",
+    text: "模组",
     icon: "project",
-    link: "/HostOnly/",
-    exact: false
-  },
-  {
-    text: "全客户端模组",
-    icon: "project",
-    link: "/AllClient/",
-    exact: false
+    children: [
+      {
+        text: "H系模组",
+        icon: "project",
+        link: "/HostOnly/",
+        exact: false
+      },
+      {
+        text: "全客户端模组",
+        icon: "project",
+        link: "/AllClient/",
+        exact: false
+      }
+    ]
   },
   {
     text: "实用工具",
