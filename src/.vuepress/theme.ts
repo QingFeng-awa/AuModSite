@@ -73,7 +73,7 @@ export default hopeTheme({
       wordLimit: "200",
       pageSize: "20"
     },*/
-    notice: [
+    //notice: [
       /*{
         path: "/",
         title: "网站尚未完成开发",
@@ -90,12 +90,12 @@ export default hopeTheme({
           }
         ]
       },*/
-      {
-        path: "/en/",
-        title: "We use machine translation for this language localization.",
-        content: "Due to the lack of a professional team to assist me and my limited skills, I had to use machine translation to localize this language.<br>I am very sorry for the bad experience."
-      }
-    ],
+    //  {
+    //    path: "/en/",
+    //    title: "We use machine translation for this language localization.",
+    //    content: "Due to the lack of a professional team to assist me and my limited skills, I had to use machine translation to localize this language.<br>I am very sorry for the bad experience."
+    //  }
+    //],
     sitemap: [
       {
         excludePaths: ["/temporary/"],
