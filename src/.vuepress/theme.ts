@@ -72,9 +72,9 @@ export default hopeTheme({
       ],
       wordLimit: "200",
       pageSize: "20"
-    },*/
-    //notice: [
-      /*{
+    },
+    notice: [
+      {
         path: "/",
         title: "网站尚未完成开发",
         content: "由于v2版本站点编写较为仓促,导致部分v1原有功能未完成。<br>非常抱歉,我将尽快恢复所有功能。",
@@ -89,13 +89,13 @@ export default hopeTheme({
             link: "https://afdian.com/a/aumodsite"
           }
         ]
-      },*/
-    //  {
-    //    path: "/en/",
-    //    title: "We use machine translation for this language localization.",
-    //    content: "Due to the lack of a professional team to assist me and my limited skills, I had to use machine translation to localize this language.<br>I am very sorry for the bad experience."
-    //  }
-    //],
+      },
+      {
+        path: "/en/",
+        title: "We use machine translation for this language localization.",
+        content: "Due to the lack of a professional team to assist me and my limited skills, I had to use machine translation to localize this language.<br>I am very sorry for the bad experience."
+      }
+    ],*/
     sitemap: [
       {
         excludePaths: ["/temporary/"],
