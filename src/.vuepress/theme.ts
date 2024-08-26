@@ -56,13 +56,10 @@ export default hopeTheme({
     components: {
       components: ["VPCard","SiteInfo"],
     },
-    /*激活评论系统会导致无法显示页面,需要解决。
-    参考https://theme-hope.vuejs.press/zh/guide/feature/comment.html#waline
-    与https://ecosystem.vuejs.press/zh/plugins/blog/comment/waline/config.html
     comment: {
       provider: "Waline",
-      serverURL: "https://waline.aumod.site",
-      dark: "auto",
+      serverURL: "https://waline.aumod.site/",
+      dark: "$isDarkmode",
       meta: [
         "nick",
         "mail"
@@ -72,7 +69,7 @@ export default hopeTheme({
       ],
       wordLimit: "200",
       pageSize: "20"
-    },*/
+    },
     notice: [
       /*{
         path: "/",
@@ -90,15 +87,9 @@ export default hopeTheme({
           }
         ]
       },*/
-      {
-        path: "/en/",
-        title: "We use machine translation for this language localization.",
-        content: "Due to the lack of a professional team to assist me and my limited skills, I had to use machine translation to localize this language.<br>I am very sorry for the bad experience."
-      }
     ],
     sitemap: [
       {
-        excludePaths: ["/temporary/"],
         sitemapFilename: "/sitemap.xml",
         sitemapXSLFilename: "/sitemap.xsl",
         changefreq: "hourly"

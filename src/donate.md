@@ -12,6 +12,10 @@ date: 2024-07-19
   desc="<b>赞助了QingFeng 100元</b>"
 />
 <VPCard
+  title="<b>小黄117</b>"
+  desc="<b>赞助了QingFeng 18元</b>"
+/>
+<VPCard
   title="ksy"
   desc="赞助了QingFeng 6元"
 />
