@@ -1,6 +1,8 @@
 ---
 title: The Airship杯赛
 date: 2024-08-26
+editLink: false
+lastUpdated: false
 ---
 
 The Airship杯赛是继The Fungle杯的又一杯赛,由QingFeng主办。
@@ -49,7 +51,7 @@ The Airship杯赛是继The Fungle杯的又一杯赛,由QingFeng主办。
 
 ### 报名
 
-请[点击此处](https://docs.qq.com/form/page/DU1BoQUJiVVlSbUVR)填写参赛报名表,提交后若审核通过我们将给您发送邮件通知,请及时留意您所留下的邮箱。
+请[点击此处](https://docs.qq.com/form/page/DU1BoQUJiVVlSbUVR)填写参赛报名表,提交后若审核通过我们将给您发送邮件通知,请及时留意收件箱。
 
 [^1]: 任何形式的击杀都会被计入。
 [^2]: 内鬼阵营报告尸体不加分,中立阵营报告自己击杀的尸体不加分。
