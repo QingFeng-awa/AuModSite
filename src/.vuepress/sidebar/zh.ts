@@ -75,6 +75,8 @@ export const zhSidebar = sidebar({
         {
           text: "模组安装",
           icon: "install",
+          collapsible: true,
+          expanded: true,
           children: [
             { text: "Steam", icon: "Steam", link: "/guide/install/Steam" },
             { text: "Epic", icon: "Epic", link: "/guide/install/Epic" },
@@ -83,9 +85,12 @@ export const zhSidebar = sidebar({
         {
           text: "疑难解答",
           icon: "FAQ",
+          collapsible: true,
+          expanded: true,
           children: [
             { text: "首次启动模组无反应", link: "/guide/FAQ/FirstRunMod"},
-            { text: "GitHub无法访问", link: "/guide/FAQ/GithubTimeOut"}
+            { text: "GitHub无法访问", link: "/guide/FAQ/GithubTimeOut"},
+            { text: "更新检查失败", link: "/guide/FAQ/CheckUpdateErr"}
           ]
         }
       ]
