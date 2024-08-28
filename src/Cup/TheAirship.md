@@ -82,7 +82,7 @@ The Airship杯赛是继The Fungle杯的又一杯赛,由QingFeng主办。
   title="綿の夜(破壊された時)"
   desc="wigwove#8003,海选组4"
   logo="/Cup/綿の夜.jpg"
-  link="https://space.bilibili.com/3461571976104066"
+  link="https://space.bilibili.com/3546619444202006"
 />
 <VPCard
   title="橘核"
