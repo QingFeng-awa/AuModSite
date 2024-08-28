@@ -84,7 +84,12 @@ The Airship杯赛是继The Fungle杯的又一杯赛,由QingFeng主办。
   logo="/Cup/綿の夜.jpg"
   link="https://space.bilibili.com/3461571976104066"
 />
-
+<VPCard
+  title="橘核"
+  desc="shtumkey#5478,海选组3"
+  logo="/Cup/橘核.jpg"
+  link="https://space.bilibili.com/691186373"
+/>
 
 [^1]: 任何形式的击杀都会被计入。
 [^2]: 内鬼阵营报告尸体不加分,中立阵营报告自己击杀的尸体不加分。
