@@ -86,7 +86,7 @@ The Airship杯赛是继The Fungle杯的又一杯赛,由QingFeng主办。
 />
 <VPCard
   title="橘核"
-  desc="shtumkey#5478,海选组3"
+  desc="shtumkey#5478,海选组1"
   logo="/Cup/橘核.jpg"
   link="https://space.bilibili.com/691186373"
 />
