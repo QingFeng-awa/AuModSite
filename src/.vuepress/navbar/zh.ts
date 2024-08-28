@@ -41,12 +41,17 @@ export const zhNavbar = navbar([
     link: "/guide/",
     exact: false
   },
-  /*{
-    text: "活动",
-    icon: "temporary",
-    link: "/temporary/",
-    exact: false
-  },*/
+  {
+    text: "赛事",
+    icon: "Cup",
+    children: [
+      {
+        text: "TheAirship杯",
+        icon: "Cup",
+        link: "/Cup/TheAirship"
+      }
+    ]
+  },
   {
     text: "赞赏",
     icon: "afdian",
