@@ -57,21 +57,34 @@ The Airship杯赛是继The Fungle杯的又一杯赛,由QingFeng主办。
 
 <VPCard
   title="Hartex"
-  desc="donesock#1350,组1"
+  desc="donesock#1350,海选组5"
   logo="/Cup/Hartex.jpg"
   link="https://space.bilibili.com/3461577548237771"
 />
 <VPCard
   title="Nanami"
-  desc="kinglyrug#9338,组1"
+  desc="kinglyrug#9338,海选组1"
   logo="/Cup/Nanami.jpg"
 />
 <VPCard
   title="你敢票我吗"
-  desc="beesoupy#9901,组1"
+  desc="beesoupy#9901,海选组2"
   logo="/Cup/你敢票我吗.jpg"
   link="https://space.bilibili.com/3493078979578750"
 />
+<VPCard
+  title="丨"
+  desc="restfulspa#7350,海选组1"
+  logo="/Cup/gun.jpg"
+  link="https://space.bilibili.com/3461571976104066"
+/>
+<VPCard
+  title="綿の夜(破壊された時)"
+  desc="wigwove#8003,海选组4"
+  logo="/Cup/綿の夜.jpg"
+  link="https://space.bilibili.com/3461571976104066"
+/>
+
 
 [^1]: 任何形式的击杀都会被计入。
 [^2]: 内鬼阵营报告尸体不加分,中立阵营报告自己击杀的尸体不加分。
