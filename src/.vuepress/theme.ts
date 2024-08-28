@@ -26,7 +26,7 @@ export default hopeTheme({
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      footer: "WSV: v2.2.2.002 (Pc: 6f863d3)<br>由<a href='https://www.rainyun.com/QingFeng_?s=WebSite' target='_blank'>雨云</a>提供云服务&技术支持",
+      footer: "WSV: v2.2.2.003 (Pc: 42f898f)<br>由<a href='https://www.rainyun.com/QingFeng_?s=WebSite' target='_blank'>雨云</a>提供云服务&技术支持",
       displayFooter: true,
     }
   },
@@ -54,7 +54,7 @@ export default hopeTheme({
     },
     readingTime: false,
     components: {
-      components: ["VPCard","SiteInfo","Badge"],
+      components: ["VPCard","SiteInfo","Badge","BiliBili"],
     },
     sitemap: [
       {

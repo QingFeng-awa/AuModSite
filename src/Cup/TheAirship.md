@@ -53,6 +53,26 @@ The Airship杯赛是继The Fungle杯的又一杯赛,由QingFeng主办。
 
 请[点击此处](https://docs.qq.com/form/page/DU1BoQUJiVVlSbUVR)填写参赛报名表,提交后若审核通过我们将给您发送邮件通知,请及时留意收件箱。
 
+#### 参赛选手
+
+<VPCard
+  title="Hartex"
+  desc="donesock#1350,组1"
+  logo="/Cup/Hartex.jpg"
+  link="https://space.bilibili.com/3461577548237771"
+/>
+<VPCard
+  title="Nanami"
+  desc="kinglyrug#9338,组1"
+  logo="/Cup/Nanami.jpg"
+/>
+<VPCard
+  title="你敢票我吗"
+  desc="beesoupy#9901,组1"
+  logo="/Cup/你敢票我吗.jpg"
+  link="https://space.bilibili.com/3493078979578750"
+/>
+
 [^1]: 任何形式的击杀都会被计入。
 [^2]: 内鬼阵营报告尸体不加分,中立阵营报告自己击杀的尸体不加分。
 [^3]: 出自己人不会加分,小丑成功出自己可以加分。
