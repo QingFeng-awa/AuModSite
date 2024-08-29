@@ -96,16 +96,19 @@ export const zhSidebar = sidebar({
       ]
     },
   ],
-  "/temporary/": [
+  "/Cup/": [
     {
-      text: "活动",
-      icon: "temporary",
+      text: "赛事",
+      icon: "Cup",
       children: [
         { 
-          text: "面向开发者",
-          icon: "developer",
+          text: "TheAirship杯赛",
+          icon: "Cup",
+          link: "/Cup/TheAirship/",
           children: [
-            { text: "免费云服务支持", link: "/temporary/developer/Cloud" }
+            { text: "赛事规则", link: "/Cup/TheAirship/Rules" },
+            { text: "选手信息", link: "/Cup/TheAirship/PlayerInfo" },
+            { text: "赛事进度", link: "/Cup/TheAirship/CupProgress" }
           ]
         }
       ]
