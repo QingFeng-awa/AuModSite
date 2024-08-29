@@ -12,7 +12,7 @@ editLink: false
   link="https://space.bilibili.com/3461577548237771"
 />
 <VPCard
-  title="Nanami"
+  title="Trick【CN】"
   desc="已报名,kinglyrug#9338,海选组1"
   logo="/Cup/Nanami.jpg"
   link="https://space.bilibili.com/1997884192"
@@ -53,6 +53,30 @@ editLink: false
   logo="/Cup/食瓜之众.jpg"
   link="https://space.bilibili.com/3546605728827886"
 />
+<VPCard
+  title="小叨"
+  desc="已报名,heavyclod#2286,海选组2"
+  logo="/Cup/Dao.jpg"
+  link="https://space.bilibili.com/1998829749"
+/>
+<VPCard
+  title="JMS"
+  desc="已报名,heappotted#1406,海选组1"
+  logo="/Cup/JMS.jpg"
+  link="https://space.bilibili.com/1479492083"
+/>
+<VPCard
+  title="【粉丝限定】名游社"
+  desc="已报名,jazzygrace#3113,海选组1"
+  logo="/Cup/mys.jpg"
+  link="https://space.bilibili.com/388551631"
+/>
+<VPCard
+  title="xqw"
+  desc="已报名,tenselogo#3429,海选组5"
+  logo="/Cup/xqw.jpg"
+  link="https://space.bilibili.com/2027538843"
+/>
 
 ## 替补选手
 
@@ -61,4 +85,9 @@ editLink: false
   desc="已报名,shtumkey#5478,无法联系选手"
   logo="/Cup/橘核.jpg"
   link="https://space.bilibili.com/691186373"
+/>
+<VPCard
+  title="KC"
+  desc="已报名,选手未提供好友代码"
+  logo="/Cup/KpCam.jpg"
 />
