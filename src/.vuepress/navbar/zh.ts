@@ -48,7 +48,8 @@ export const zhNavbar = navbar([
       {
         text: "TheAirship杯",
         icon: "Cup",
-        link: "/Cup/TheAirship"
+        link: "/Cup/TheAirship/",
+        exact: false
       }
     ]
   },
