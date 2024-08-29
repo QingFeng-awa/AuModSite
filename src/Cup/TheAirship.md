@@ -55,6 +55,8 @@ The Airship杯赛是继The Fungle杯的又一杯赛,由QingFeng主办。
 
 #### 参赛选手
 
+##### 正式选手
+
 <VPCard
   title="Hartex"
   desc="donesock#1350,海选组5"
@@ -65,6 +67,7 @@ The Airship杯赛是继The Fungle杯的又一杯赛,由QingFeng主办。
   title="Nanami"
   desc="kinglyrug#9338,海选组1"
   logo="/Cup/Nanami.jpg"
+  link="https://space.bilibili.com/1997884192"
 />
 <VPCard
   title="你敢票我吗"
@@ -85,8 +88,34 @@ The Airship杯赛是继The Fungle杯的又一杯赛,由QingFeng主办。
   link="https://space.bilibili.com/3546619444202006"
 />
 <VPCard
+  title="小黄117"
+  desc="soupybling#0737,海选组1"
+  logo="/Cup/小黄117.jpg"
+  link="https://space.bilibili.com/403301761"
+/>
+<VPCard
+  title="emmmm我不知道"
+  desc="herdwordy#6283,海选组3"
+  logo="/Cup/emmmm.jpg"
+  link="https://space.bilibili.com/1720039311"
+/>
+<VPCard
+  title="食瓜之众"
+  desc="mossopen#1829,海选组4"
+  logo="/Cup/食瓜之众.jpg"
+  link="https://space.bilibili.com/3546605728827886"
+/>
+
+##### 替补选手
+
+<VPCard
+  title="KpCam"
+  desc="未提供好友代码"
+  logo="/Cup/KpCam.jpg"
+/>
+<VPCard
   title="橘核"
-  desc="shtumkey#5478,海选组1"
+  desc="无法联系选手"
   logo="/Cup/橘核.jpg"
   link="https://space.bilibili.com/691186373"
 />
