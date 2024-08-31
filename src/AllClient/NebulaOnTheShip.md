@@ -20,7 +20,7 @@ NoS的特点是拥有一个非常精美的UI动画。
 
 [![Github仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/Dolly1016/Nebula)
 
-[![Github开源仓库](https://badgen.net/badge/Github/Repository/github?icon=github)](https://github.com/Dolly1016/Nebula-Public)
+[![Github开源仓库](https://badgen.net/badge/Public/Repository/github?icon=github)](https://github.com/Dolly1016/Nebula-Public)
 
 [![Twitter账号](https://badgen.net/badge/X/(Twitter)/1A9DEF?icon=twitter)](https://twitter.com/NebulaOnTheShip)
 
