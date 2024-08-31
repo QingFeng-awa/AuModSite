@@ -5,7 +5,12 @@ editLink: false
 lastUpdated: false
 ---
 
-本次比赛使用[NoS](/AllClient/NebulaOnTheShip)作为使用模组。
+~~本次比赛使用[NoS](/AllClient/NebulaOnTheShip)作为使用模组。~~
+
+为了更加精彩的比赛也为了让全部选手发挥出自己的实力,<br>
+现在,我们每轮次的比赛都将使用不同的模组。
+> 使用的模组将在对应规则声明。
+
 
 赛事共有4轮,分别是**海选赛**、**淘汰赛**、**半决赛**、**总决赛**。
 
@@ -16,6 +21,8 @@ lastUpdated: false
 
 海选赛每组将进行两局游戏,每回合比赛结束将计算选手获得积分并公布在[网站](./CupProgress)。<br>
 两局游戏结束后,选手总积分将公布在网站并宣布排名,排名最后三位的选手将被淘汰。
+
+海选赛使用[NoS](/AllClient/NebulaOnTheShip)作为使用模组。
 
 ### 海选赛加分规则
 

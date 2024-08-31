@@ -4,7 +4,7 @@ export const zhSidebar = sidebar({
   "/HostOnly/": [
     {
       text: "H系模组",
-      icon: "project",
+      icon: "Project",
       link: "/HostOnly/",
       activeMatch: "^/HostOnly/$",
       children: [
@@ -13,7 +13,7 @@ export const zhSidebar = sidebar({
         { text: 'TownOfHostEdited', link: '/HostOnly/TownOfHostEdited'},
         { text: 'TownOfHostPlus', link: '/HostOnly/TownOfHostPlus'},
         { text: 'TownOfNext', link: '/HostOnly/TownOfNext'},
-        { text: 'TownOfHostEnhanced', icon:"star", link: '/HostOnly/TownOfHostEnhanced'},
+        { text: 'TownOfHostEnhanced', icon:"Star", link: '/HostOnly/TownOfHostEnhanced'},
         { text: 'EndlessHostRoles', link: '/HostOnly/EndlessHostRoles'},
         { text: 'TownOfPlus', link: '/HostOnly/TownOfPlus'},
         { text: 'TownOfHost_Y', link: '/HostOnly/TownOfHost_Y'},
@@ -26,7 +26,7 @@ export const zhSidebar = sidebar({
   "/AllClient/": [
     {
       text: "全客户端模组",
-      icon: "project",
+      icon: "Project",
       link: "/AllClient/",
       activeMatch: "^/AllClient/$",
       children: [
@@ -35,7 +35,7 @@ export const zhSidebar = sidebar({
         { text: 'SuperNewRoles', link: '/AllClient/SuperNewRoles' },
         { text: 'LasMonjas', link: '/AllClient/LasMonjas' },
         { text: 'ExtremeRoles', link: '/AllClient/ExtremeRoles' },
-        { text: 'Nebula on the Ship', icon:"star", link: '/AllClient/NebulaOnTheShip' },
+        { text: 'Nebula on the Ship', icon:"Star", link: '/AllClient/NebulaOnTheShip' },
         { text: 'TownOfUsR', link: '/AllClient/TownOfUsR' },
         { text: 'StellarRoles', link: '/AllClient/StellarRoles' },
         { text: 'AllTheRoles', link: '/AllClient/AllTheRoles' },
@@ -46,7 +46,7 @@ export const zhSidebar = sidebar({
   "/Tool/": [
     {
       text: "工具",
-      icon: "tool",
+      icon: "Tool",
       link: "/Tool/",
       collapsible: true,
       expanded: true,
@@ -57,7 +57,7 @@ export const zhSidebar = sidebar({
     },
     {
       text: "插件",
-      icon: "plugin",
+      icon: "Plugin",
       link: "/Tool/plugin/",
       collapsible: true,
       children: [
@@ -69,7 +69,7 @@ export const zhSidebar = sidebar({
   "/guide/": [
     {
       text: "指南",
-      icon: "guide",
+      icon: "Guide",
       link: "/guide/",
       children: [
         {
@@ -102,16 +102,20 @@ export const zhSidebar = sidebar({
       icon: "Cup",
       children: [
         { 
-          text: "TheAirship杯赛",
-          icon: "Cup",
+          text: "The Airship杯",
+          icon: "Hot",
           link: "/Cup/TheAirship/",
           children: [
             { text: "赛事规则", link: "/Cup/TheAirship/Rules" },
             { text: "选手信息", link: "/Cup/TheAirship/PlayerInfo" },
             { text: "赛事进度", link: "/Cup/TheAirship/CupProgress" }
           ]
+        },
+        {
+          text: "MIRA杯",
+          link: "/Cup/MIRA/"
         }
       ]
-    }
+    },
   ]
 });

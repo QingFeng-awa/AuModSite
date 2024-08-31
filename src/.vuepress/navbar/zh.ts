@@ -13,17 +13,17 @@ export const zhNavbar = navbar([
   },
   {
     text: "模组",
-    icon: "project",
+    icon: "Project",
     children: [
       {
         text: "H系模组",
-        icon: "project",
+        icon: "Project",
         link: "/HostOnly/",
         exact: false
       },
       {
         text: "全客户端模组",
-        icon: "project",
+        icon: "Project",
         link: "/AllClient/",
         exact: false
       }
@@ -31,13 +31,13 @@ export const zhNavbar = navbar([
   },
   {
     text: "实用工具",
-    icon: "tool",
+    icon: "Tool",
     link: "/Tool/",
     exact: false
   },
   {
     text: "指南",
-    icon: "guide",
+    icon: "Guide",
     link: "/guide/",
     exact: false
   },
@@ -55,7 +55,7 @@ export const zhNavbar = navbar([
   },
   {
     text: "赞赏",
-    icon: "afdian",
+    icon: "Afdian",
     link: "/donate"
   }
 ]);

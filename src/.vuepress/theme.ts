@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://aumod.site",
   logo: "/AuModDocs.png",
   favicon: "/AuModDocs.png",
-  iconAssets: "https://at.alicdn.com/t/c/font_4649910_hmaeryiegy.css",
+  iconAssets: "https://at.alicdn.com/t/c/font_4649910_4a2mme7l265.css",
   repo: "QingFeng-awa/AuModSite",
   docsRepo: "QingFeng-awa/AuModSite",
   docsDir: "src",
@@ -26,7 +26,7 @@ export default hopeTheme({
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      footer: "WSV: v2.2.4.004 (Pc: 87cf3aa)<br>由<a href='https://www.rainyun.com/QingFeng_?s=WebSite' target='_blank'>雨云</a>提供云服务&技术支持",
+      footer: "WSV: v2.2.5.001 (Pc: b4688b2)<br>由<a href='https://www.rainyun.com/QingFeng_?s=WebSite' target='_blank'>雨云</a>提供云服务&技术支持",
       displayFooter: true,
     }
   },

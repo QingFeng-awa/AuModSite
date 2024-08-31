@@ -5,6 +5,12 @@ editLink: false
 
 ## 正式选手
 
+当前海选组5人数: <Badge text="3/14" type="tip" /> \
+当前海选组4人数: <Badge text="4/14" type="tip" /> \
+当前海选组3人数: <Badge text="1/14" type="tip" /> \
+当前海选组2人数: <Badge text="3/14" type="tip" /> \
+当前海选组1人数: <Badge text="5/14" type="tip" /> 
+
 <VPCard
   title="Hartex"
   desc="已报名,donesock#1350,海选组5"
@@ -77,15 +83,26 @@ editLink: false
   logo="/Cup/xqw.jpg"
   link="https://space.bilibili.com/2027538843"
 />
-
-## 替补选手
-
 <VPCard
   title="橘核"
-  desc="已报名,shtumkey#5478,无法联系选手"
+  desc="已报名,shtumkey#5478,海选组4"
   logo="/Cup/橘核.jpg"
   link="https://space.bilibili.com/691186373"
 />
+<VPCard
+  title="因果"
+  desc="已报名,massinga#6708,海选组5"
+  logo="/Cup/因果.jpg"
+/>
+<VPCard
+  title="Followfate"
+  desc="已报名,topicmuch#0967,海选组2"
+  logo="/Cup/Followfate.jpg"
+  link="https://space.bilibili.com/470267520"
+/>
+
+## 替补选手
+
 <VPCard
   title="KC"
   desc="已报名,选手未提供好友代码"
