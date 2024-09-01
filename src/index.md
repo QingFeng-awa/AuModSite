@@ -12,26 +12,26 @@ heroText: Among Us模组档案
 tagline: 一个记录所有Au模组的档案网站。
 actions:
   - text: 关于
-    icon: about
+    icon: About
     link: /about
   - text: H系模组
-    icon: project
+    icon: Project
     link: /HostOnly/
     type: primary
   - text: 全客户端模组
-    icon: project
+    icon: Project
     link: /AllClient/
     type: primary
   - text: 实用工具
-    icon: tool
+    icon: Tool
     link: /Tool/
     type: primary
   - text: 指南
-    icon: guide
+    icon: Guide
     link: /guide/
     type: primary
   - text: 赞助
-    icon: afdian
+    icon: Afdian
     link: /donate
 
 highlights:
@@ -39,15 +39,15 @@ highlights:
     bgImage: /AmongUsSpace.png
   - header: 热门模组
     features:
-      - title: Town Of Host Enhanced
-        details: TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!
-        link: /HostOnly/TownOfHostEnhanced
-
       - title: Nebula on the Ship
         details: Nebula on the Ship is Mod for Among Us.
         link: /AllClient/NebulaOnTheShip
+      - title: Town Of Host Enhanced
+        details: TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!
+        link: /HostOnly/TownOfHostEnhanced
 ---
-<br>
+---
+
 这是一个关于Among Us模组的文档网站。
 
 > Among Us(又译作“我们之中”、“太空狼人杀”),是一款由Innersloth LLC.制作发行的策略休闲派对游戏。

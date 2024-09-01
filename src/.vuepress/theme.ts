@@ -26,11 +26,49 @@ export default hopeTheme({
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      footer: "WSV: v2.2.5.001 (Pc: b4688b2)<br>由<a href='https://www.rainyun.com/QingFeng_?s=WebSite' target='_blank'>雨云</a>提供云服务&技术支持",
+      footer: "WSV: v2.2.6.001 (Pc: b4688b2)<br>由<a href='https://www.rainyun.com/QingFeng_?s=WebSite' target='_blank'>雨云</a>提供云服务&技术支持",
       displayFooter: true,
     }
   },
   plugins: {
+    notice: [
+      {
+        path: "/",
+        title: "The Airship杯赛选手报名中",
+        content: "参与赛事夺冠即可获得150元奖金!",
+        actions: [
+          {
+            text: "立即报名",
+            link: "https://docs.qq.com/form/page/DU1BoQUJiVVlSbUVR",
+            type: "primary"
+          },
+          {
+            text: "详细信息",
+            link: "/Cup/TheAirship/"
+          }
+        ]
+      },
+      {
+        path: "/HostOnly/",
+        title: "模组收录、维护频率减缓",
+        content: "由于本人学业问题,我现在的精力不足以让我维护这些内容。<br>我在TheAirship杯赛结束前会将精力主要放在杯赛上,请您谅解。"
+      },
+      {
+        path: "/AllClient/",
+        title: "模组收录、维护频率减缓",
+        content: "由于本人学业问题,我现在的精力不足以让我维护这些内容。<br>我在TheAirship杯赛结束前会将精力主要放在杯赛上,请您谅解。"
+      },
+      {
+        path: "/Tool/",
+        title: "工具收录、维护频率减缓",
+        content: "由于本人学业问题,我现在的精力不足以让我维护这些内容。<br>我在TheAirship杯赛结束前会将精力主要放在杯赛上,请您谅解。"
+      },
+      {
+        path: "/Tool/plugin/",
+        title: "插件收录、维护频率减缓",
+        content: "由于本人学业问题,我现在的精力不足以让我维护这些内容。<br>我在TheAirship杯赛结束前会将精力主要放在杯赛上,请您谅解。"
+      },
+    ],
     linksCheck: {
       dev: false,
       build: "error"

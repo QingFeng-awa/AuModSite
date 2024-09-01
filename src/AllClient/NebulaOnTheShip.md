@@ -5,7 +5,7 @@ title: Nebula on the Ship(NoS)
 ![Nebula on the Ship is Mod for Among Us.](/Image/NoS.png)
 
 NoS为Among Us添加了额外的职业、设置等内容。<br>
-NoS的特点是拥有一个非常精美的UI动画。
+NoS的特点是拥有一个非常精美的UI动画,同时他们内置一个插件系统&创意工坊,这使得其可以可高度定制化。
 
 <div align="center">
 <VPCard
