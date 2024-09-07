@@ -108,9 +108,9 @@ export const zhSidebar = sidebar({
           icon: "Hot",
           link: "/Cup/TheAirship/",
           children: [
-            { text: "赛事规则", link: "/Cup/TheAirship/Rules" },
-            { text: "选手信息", link: "/Cup/TheAirship/PlayerInfo" },
-            { text: "赛事进度", link: "/Cup/TheAirship/CupProgress" }
+            { text: "赛事规则", icon: "Rules", link: "/Cup/TheAirship/Rules" },
+            { text: "选手信息", icon: "PlayerInfo", link: "/Cup/TheAirship/PlayerInfo" },
+            { text: "赛事进度", icon: "Progress", link: "/Cup/TheAirship/CupProgress" }
           ]
         },
         {

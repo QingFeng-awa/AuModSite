@@ -3,6 +3,7 @@ title: The Airship杯赛
 date: 2024-08-26
 editLink: false
 lastUpdated: false
+toc: true
 ---
 
 The Airship杯赛是继The Fungle杯的又一杯赛,由QingFeng主办。
@@ -12,6 +13,16 @@ The Airship杯赛是继The Fungle杯的又一杯赛,由QingFeng主办。
 ## 报名
 
 请[点击此处](https://docs.qq.com/form/page/DU1BoQUJiVVlSbUVR)填写问卷,在通过后我们将发送邮件给您,请您留意您的邮箱收件箱。
+
+::: important 参赛申请通过后的注意事项
+
+在我们给您发送参赛申请通过邮件后,您需要尽快已读邮件并尽快加入群聊。
+> 我们使用[网易邮件追踪服务](https://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac20df66a754cf25c46),您不需要手动回信。
+
+若您不加入群聊,您将无法获得**选手参赛注意事项**并且在开赛当天**您无法得知您所在海选组的赛事房间号**。\
+此外,您不加入群聊还会被划为替补选手。
+
+:::
 
 ## 奖金[^1]
 

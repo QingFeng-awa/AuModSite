@@ -3,6 +3,7 @@ title: TheAirship杯比赛规则
 date: 2024-08-26
 editLink: false
 lastUpdated: false
+toc: true
 ---
 
 ~~本次比赛使用[NoS](/AllClient/NebulaOnTheShip)作为使用模组。~~
@@ -10,7 +11,6 @@ lastUpdated: false
 为了更加精彩的比赛也为了让全部选手发挥出自己的实力,<br>
 现在,我们每轮次的比赛都将使用不同的模组。
 > 使用的模组将在对应规则声明。
-
 
 赛事共有4轮,分别是**海选赛**、**淘汰赛**、**半决赛**、**总决赛**。
 
@@ -23,6 +23,8 @@ lastUpdated: false
 两局游戏结束后,选手总积分将公布在网站并宣布排名,排名最后三位的选手将被淘汰。
 
 海选赛使用[NoS](/AllClient/NebulaOnTheShip)作为使用模组。
+> NoS始终使用最新版,Among Us使用与NoS最新版本兼容的版本。<br>
+> 在比赛开始前3天,我们会提供我们使用的NoS懒人包。
 
 ### 海选赛加分规则
 
