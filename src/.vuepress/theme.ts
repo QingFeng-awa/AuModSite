@@ -26,7 +26,7 @@ export default hopeTheme({
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      footer: "WSV: v2.2.8.005 (LCoG: 66788cd)",
+      footer: "WSV: v2.2.9.001 (LCoG: 66788cd)",
       displayFooter: true,
     }
   },
