@@ -26,7 +26,7 @@ export default hopeTheme({
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      footer: "WSV: v2.2.8.003 (LCoG: 27beaeb)",
+      footer: "WSV: v2.2.8.005 (LCoG: 66788cd)",
       displayFooter: true,
     }
   },
@@ -47,6 +47,11 @@ export default hopeTheme({
             link: "/Cup/TheAirship/"
           }
         ]
+      },
+      {
+        path: "/Cup/TheAirship/",
+        title: "该比赛可能不会开赛",
+        content: "由于我们的比赛宣传片<del>又烂时长又短</del>没有流量,导致直至9月8日也仅有16人参赛。<br>如在开赛前3天仍没有到达要求选手人数,我们将<strong>取消此次赛事</strong>。<br>感谢您的理解与支持。"
       },
       {
         path: "/HostOnly/",
