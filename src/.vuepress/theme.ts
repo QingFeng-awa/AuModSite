@@ -31,7 +31,7 @@ export default hopeTheme({
     }
   },
   plugins: {
-    notice: [
+    /*notice: [
       {
         path: "/",
         title: "The Airship杯赛选手报名中",
@@ -73,7 +73,7 @@ export default hopeTheme({
         title: "插件收录、维护频率减缓",
         content: "由于本人学业问题,我现在的精力不足以让我维护这些内容。<br>我在TheAirship杯赛结束前会将精力主要放在杯赛上,请您谅解。"
       },
-    ],
+    ],*/
     linksCheck: {
       dev: false,
       build: "error"
