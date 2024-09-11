@@ -7,11 +7,6 @@ export const zhNavbar = navbar([
     link: "/"
   },
   {
-    text: "关于",
-    icon: "About",
-    link: "/about",
-  },
-  {
     text: "模组",
     icon: "Project",
     children: [
@@ -40,22 +35,5 @@ export const zhNavbar = navbar([
     icon: "Guide",
     link: "/guide/",
     exact: false
-  },
-  {
-    text: "赛事",
-    icon: "Cup",
-    children: [
-      {
-        text: "TheAirship杯",
-        icon: "Cup",
-        link: "/Cup/TheAirship/",
-        exact: false
-      }
-    ]
-  },
-  {
-    text: "赞赏",
-    icon: "Afdian",
-    link: "/donate"
   }
 ]);
